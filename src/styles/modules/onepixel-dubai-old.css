@@ -1,0 +1,1004 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+:root {
+    --main-color: #751212;
+    --black: #000;
+    --white: #fff;
+    --video-slider-blue-color: #06ffff;
+}
+
+@media (max-width: 576px) {
+    .fs-sm-1 {
+        font-size: 2.5rem !important;
+    }
+
+    .fs-sm-2 {
+        font-size: 2rem !important;
+    }
+}
+
+/* Medium screens */
+@media (min-width: 768px) {
+    .fs-md-1 {
+        font-size: 2.5rem !important;
+    }
+
+    .fs-md-2 {
+        font-size: 2rem !important;
+    }
+}
+
+/* Large screens */
+@media (min-width: 992px) {
+    .fs-lg-1 {
+        font-size: 2.5rem !important;
+    }
+
+    .fs-lg-2 {
+        font-size: 2rem !important;
+    }
+}
+
+/* Extra large screens */
+@media (min-width: 1200px) {
+    .fs-xl-1 {
+        font-size: 2.5rem !important;
+    }
+
+    .fs-xl-2 {
+        font-size: 2rem !important;
+    }
+
+    .fs-xl-3 {
+        font-size: 1.75rem !important;
+    }
+
+    .fs-xl-4 {
+        font-size: 1.25rem !important;
+    }
+
+    .fs-xl-5 {
+        font-size: 1rem !important;
+    }
+}
+
+.main-container {
+    padding: 0 15rem;
+}
+
+.seo-dubai-padding-y {
+    padding: 6rem 2rem !important;
+}
+
+.seo-dubai-apply-btn {
+    background-image: linear-gradient(270deg, #60134a, #84141f);
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 600;
+    padding: 1rem 2.5rem;
+    border: none;
+    border-radius: 5rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.seo-dubai-apply-btn.seo-dubai-second {
+    margin-top: 2rem;
+    border-radius: 2rem;
+    width: fit-content;
+}
+
+.seo-dubai-apply-btn:hover {
+    background-image: linear-gradient(270deg, #84141f, #60134a);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+.seo-dubai-swiper-case {
+    background-color: #000;
+}
+
+/*------header css start----------*/
+/* .seo-dubai-header-main {
+    background: rgba(3, 3, 3, 0.473);
+    backdrop-filter: blur(10px);
+    width: 100%;
+} */
+
+
+.seo-dubai-header-main .seo-dubai-logo {
+    width: 18rem;
+    height: 7rem;
+}
+
+.seo-dubai-hero-main .seo-dubai-overlay-black {
+    background-color: #000000c4;
+    backdrop-filter: blur(0px);
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding-top:1rem;
+    width: 100%;
+    height: 100%;
+}
+
+
+        .seo-dubai-header-main {
+        position: sticky;
+        top: 0;
+        background-color: #000;
+    }
+
+
+.seo-dubai-hero-main video {
+    filter: grayscale(1.1);
+}
+
+.seo-dubai-header-main .seo-dubai-logo img {
+    background-color: var(--white);
+    border-radius: 0.5rem;
+}
+
+/*------header css end----------*/
+/*------hero css start----------*/
+.seo-dubai-hero-main{
+    height: 90vh;
+}
+.seo-dubai-hero-main .seo-dubai-overlay-black h1 {
+    font-size: 4rem;
+    width: 80%;
+    line-height: 5rem;
+    font-weight: 700;
+}
+
+.seo-dubai-hero-main .seo-dubai-overlay-black h1 span {
+    color: #D42A7F;
+}
+
+.seo-dubai-hero-main .seo-dubai-overlay-black .seo-dubai-brands-logo {
+    width: 80%;
+}
+
+.seo-dubai-hero-main .seo-dubai-overlay-black .seo-dubai-brands-logo img {
+    width: 100%;
+    height: 5rem;
+    object-fit: contain;
+    filter: brightness(0) invert(1);
+}
+
+.seo-dubai-hero-from-box {
+    margin: 4rem auto;
+    display: flex;
+    justify-content: center;
+}
+
+.seo-dubai-hero-from-box .row {
+    width: 50%;
+    gap: 1rem !important;
+}
+
+.seo-dubai-hero-from-box .row .seo-dubai-left {
+    flex-basis: 70%;
+}
+
+/*------hero css end----------*/
+
+/* ----------about product info start --------------*/
+.about-project-info {
+    height: 70vh;
+}
+
+.about-project-info-larged-swiper .swiper-wrapper {
+    filter: brightness(0.4);
+}
+
+.about-project-info-larged-swiper .overlay-black {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+    padding: 5rem 2rem;
+}
+
+.about-project-info-larged-swiper .overlay-black .overlay-black-text {
+    flex-basis: 50%;
+    width: 100%;
+    height: 100%;
+}
+
+/* ----------about product info end --------------*/
+
+/* our story css start */
+.seo-dubai-our-story .seo-dubai-right h4 {
+    color: #555;
+}
+
+.seo-dubai-our-story .seo-dubai-right h1 {
+    position: relative;
+}
+
+.seo-dubai-our-story .seo-dubai-right h1::after {
+    content: "";
+    position: absolute;
+    z-index: 1;
+    bottom: -7px;
+    left: 0;
+    height: 3px;
+    width: 10%;
+    background-color: #333;
+}
+
+.seo-dubai-services-container-main {
+    background-color: #F4F4F4;
+}
+
+.seo-dubai-services-container-main .seo-dubai-services-container,
+.seo-dubai-our-story-main .seo-dubai-our-story,
+.seo-dubai-swiper-case-container,
+.seo-dubai-EXPERTISE-main {
+    padding: 4rem 0;
+}
+
+/* our story css end */
+
+/* SERVICE INSIGHTS start */
+.seo-dubai-card-icons {
+    font-size: 3.5rem;
+    margin: 0 10px;
+    color: #000;
+    transition: ease all 0.5s;
+}
+
+.seo-dubai-services-container-main .seo-dubai-services-container .seo-dubai-left-text .card {
+    transition: ease all 0.5s;
+}
+
+.seo-dubai-services-container-main .seo-dubai-services-container .seo-dubai-left-text .card:hover {
+    background-image: linear-gradient(270deg, #84141f, #60134a);
+    color: white;
+}
+
+.seo-dubai-services-container-main .seo-dubai-services-container .seo-dubai-left-text .card:hover .seo-dubai-card-icons {
+    color: white;
+}
+
+.seo-dubai-swipers-silder-case-section .swiper .card img {
+    width: 100%;
+    height: 50rem;
+    object-fit: contain;
+}
+
+/* SERVICE INSIGHTS end */
+
+/* EXPERTISE section start */
+.seo-dubai-industry-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 25px 20px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+.seo-dubai-industry-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.seo-dubai-industry-card i {
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+
+.seo-dubai-industry-card h6 {
+    font-size: 1.8rem !important;
+}
+
+.seo-dubai-btn-custom {
+    background: #5d5a5a;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 25px;
+    padding: 10px 25px;
+}
+
+.seo-dubai-btn-custom:hover {
+    background: #c10067;
+    color: #fff;
+}
+
+/* EXPERTISE section end */
+
+/* Process of Work css start */
+section.seo-dubai-pillars {
+    background: linear-gradient(180deg, #731012, #272728);
+    color: #fff;
+    padding: 70px 0;
+}
+
+.seo-dubai-pillars .card {
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 8px;
+    padding: 25px;
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.seo-dubai-pillars .card h5 {
+    font-size: 1.9rem !important;
+}
+
+.seo-dubai-pillars .card p {
+    font-size: 1.5rem;
+}
+
+.seo-dubai-pillars .card:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateY(-5px);
+}
+
+.seo-dubai-pillars .seo-dubai-icon-box {
+    background: #fff;
+    color: #e6007e;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+.seo-dubai-pillars h5 {
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+/* .seo-dubai-pillars p{
+    font: 100px !important;
+} */
+/* Process of Work css end */
+
+/* client review section start */
+.base-template__content,
+.base-template__wrapper {
+    padding: 0;
+    max-width: 1420px;
+    width: 100%;
+}
+
+.base-template__text {
+    margin: 0 0 20px;
+}
+
+.base-template__text img {
+    width: 25px;
+    height: auto;
+    vertical-align: middle;
+    transform: translateY(-2px);
+}
+
+.base-template__title {
+    font-size: 4rem;
+}
+
+.video-slider__special {
+    color: var(--video-slider-blue-color);
+}
+
+/* Video Slider */
+.video-slider {
+    margin-top: 60px;
+    height: 570px;
+    max-width: 1380px;
+    touch-action: pan-x;
+    user-select: none;
+    overflow: hidden;
+}
+
+.video-slider__wrapper {
+    bottom: -90px;
+}
+
+.video-slider__slide {
+    width: 400px;
+    height: 480px;
+    border-radius: 10px;
+    transform: translateY(0);
+    transition: filter 0.3s ease, transform 0.4s ease;
+}
+
+.video-slider__video-box {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    filter: brightness(0.2);
+    transition: transform 0.5s ease, filter 0.5s ease;
+    will-change: transform;
+    overflow: hidden;
+}
+
+.video-slider__video-box video {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+}
+
+.video-slider__info-box {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 8px;
+    width: 100%;
+    opacity: 0;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+    transform: translate(-50%, 0);
+    transition: bottom 0.5s ease, opacity 0.1s ease;
+}
+
+.video-slider__info-title {
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.3;
+    color: white;
+}
+
+.video-slider__info-text {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 1rem;
+    line-height: 1.3;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.video-slider__video-box::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    z-index: 1;
+    background: linear-gradient(to top,
+            rgba(161, 25, 152, 0.28),
+            rgba(161, 25, 152, 0));
+    transition: opacity 0.5s ease;
+}
+
+.swiper-slide-active .video-slider__video-box {
+    filter: brightness(1);
+}
+
+.swiper-slide-active .video-slider__video-box {
+    transform: translateY(-90px);
+}
+
+.swiper-slide-active .video-slider__video-box::before {
+    opacity: 1;
+}
+
+.swiper-slide-active .video-slider__video-box video {
+    transform: scale(1);
+}
+
+.swiper-slide-active .video-slider__info-box {
+    opacity: 1;
+    transition: bottom 0.5s ease, opacity 0.5s ease 0.25s;
+}
+
+@media screen and (max-width: 768px) {
+    .base-template__text img {
+        width: 20px;
+    }
+
+    .video-slider__slide {
+        width: 300px;
+        height: 400px;
+    }
+
+    .video-slider__info-title {
+        font-size: 1.5rem;
+    }
+
+    .base-template__title {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .video-slider__slide {
+        width: 250px;
+        height: 350px;
+    }
+}
+
+/* marquee section css start */
+.seo-dubai-marquee-container {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    overflow: hidden;
+    width: 100%;
+    padding: 40px 0;
+    background-color: #000;
+}
+
+.seo-dubai-marquee-track {
+    display: flex;
+    width: fit-content;
+}
+
+.seo-dubai-marquee-left {
+    animation: marquee-left 20s linear infinite;
+}
+
+.seo-dubai-marquee-right {
+    animation: marquee-right 12s linear infinite;
+}
+
+.seo-dubai-scroll-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 5px;
+    margin-right: 30px;
+    min-width: 180px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.seo-dubai-scroll-card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.seo-dubai-scroll-card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+}
+
+@keyframes marquee-left {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+@keyframes marquee-right {
+    0% {
+        transform: translateX(-50%);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+/* Pause on hover */
+.seo-dubai-marquee-container:hover .seo-dubai-marquee-left,
+.seo-dubai-marquee-container:hover .seo-dubai-marquee-right {
+    animation-play-state: paused;
+}
+
+/* marquee section css end */
+
+/* faq css start */
+section.seo-dubai-faq {
+    padding: 60px 0;
+    background: #f8f9fa;
+}
+
+.seo-dubai-faq h2 {
+    font-weight: 700;
+}
+
+.accordion-header {
+    padding: 1rem 0;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-header .accordion-button {
+    font-size: 1.5rem;
+}
+
+.accordion-body {
+    font-size: 1.4rem;
+}
+
+/* faq css end */
+
+/* contact form css start */
+section.seo-dubai-contact {
+    background: url('https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=1600&q=80') no-repeat center center/cover;
+    padding: 80px 0;
+    color: #fff;
+    position: relative;
+}
+
+section.seo-dubai-contact::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.seo-dubai-contact .seo-dubai-content,
+.seo-dubai-contact .seo-dubai-form-box {
+    position: relative;
+    z-index: 2;
+}
+
+.seo-dubai-contact .seo-dubai-form-box .form-label {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.seo-dubai-contact .seo-dubai-form-box .form-control,
+.seo-dubai-contact .form-select {
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+}
+
+.seo-dubai-form-box {
+    background: #fff;
+    color: #000;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.seo-dubai-btn-custom {
+    background: #5d5a5a;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 25px;
+    padding: 10px 25px;
+}
+
+.seo-dubai-btn-custom:hover {
+    background: #731012;
+    color: #fff;
+}
+
+/* contact form css end */
+
+
+.form-select-lg {
+    padding: 0.2rem 2rem !important;
+    font-size: 2rem !important;
+}
+
+.seo-dubai-left {
+    margin-top: 0 !important;
+}
+
+.seo-dubai-hero-main .seo-dubai-overlay-black .seo-dubai-brands-logo img {
+    width: 100%;
+    height: 10rem;
+    object-fit: contain;
+    filter: brightness(0) invert(1);
+}
+
+@media (max-width:1080px){
+        .seo-dubai-header-main {
+        position: sticky;
+        top: 0;
+        background-color: #000;
+    }
+
+
+}
+
+/* mobile device reponcived code start */
+@media (max-width:1128px) {
+    html {
+        font-size: 52%;
+    }
+
+    .seo-dubai-hero-main {
+        height: 100vh;
+        justify-content: center;
+    }
+
+    .main-container {
+        padding: 0 8rem;
+    }
+
+    .seo-dubai-swipers-silder-case-section .swiper .card img {
+        height: 40rem;
+    }
+
+}
+
+@media (max-width:998px) {
+    html {
+        font-size: 49%;
+    }
+
+    .seo-dubai-header-main {
+        position: sticky;
+        top: 0;
+        background-color: #000;
+    }
+
+    .seo-dubai-hero-from-box .row .seo-dubai-left .form-select {
+        padding: 1rem !important;
+        font-size: 2rem !important;
+
+    }
+    .seo-dubai-hero-main .seo-dubai-overlay-black h1 {
+        width: 90%;
+    }
+    .seo-dubai-hero-main .seo-dubai-overlay-black p {
+        width: 90% !important;
+    }
+
+    .seo-dubai-hero-button {
+        padding: 1.3rem 3rem !important;
+        font-size: 2rem;
+
+    }
+
+
+
+    .seo-dubai-swipers-silder-case-section .swiper .card img {
+        height: 30rem;
+    }
+
+    .seo-dubai-hero-main{
+        height: 100vh;
+        justify-content: center;
+    }
+
+    .main-container {
+        padding: 0 5rem;
+    }
+
+    .seo-dubai-apply-btn.seo-dubai-second {
+        font-size: 1.8rem;
+    }
+    .seo-dubai-pillars .card h5{
+        font-size: 2.2rem;
+    }
+    .seo-dubai-pillars .card p {
+        font-size: 1.8rem;
+    }
+    .seo-dubai-btn-custom,.seo-dubai-apply-btn{
+        font-size: 1.8rem !important;
+    }
+    .seo-dubai-contact .seo-dubai-form-box .form-control ,.seo-dubai-contact .seo-dubai-form-box .form-select{
+        font-size: 1.8rem !important;
+    }
+    .seo-dubai-contact .seo-dubai-form-box .form-label {
+        font-size: 1.8rem !important;
+    }
+        .accordion-button {
+        font-size: 2rem !important;
+    }
+
+    .accordion-body{
+        font-size: 1.8rem !important;
+    }
+
+}
+
+@media (max-width:525px) {
+    html {
+        font-size: 45%;
+    }
+
+    .seo-dubai-header-main {
+        position: sticky;
+        top: 0;
+        background-color: #000;
+    }
+
+    .seo-dubai-header-main .seo-dubai-logo {
+        width: 10rem;
+        height: 5rem;
+    }
+
+    .main-container {
+        padding: 0 3rem;
+    }
+
+    .seo-dubai-hero-main {
+        height: 120vh;
+        position: static;
+        background-color: #000;
+    }
+
+    .seo-dubai-hero-main .seo-dubai-overlay-black h1 {
+        width: 100%;
+        /* font-size: 2.5rem; */
+    }
+
+    .seo-dubai-hero-main .seo-dubai-overlay-black p {
+        width: 100% !important;
+    }
+
+    .seo-dubai-swipers-silder-case-section .swiper .card img {
+        height: 20rem;
+    }
+
+    .seo-dubai-scroll-card {
+        max-width: 300px;
+    }
+
+    .seo-dubai-scroll-card img {
+        width: 50%;
+    }
+
+    .seo-dubai-header-main .seo-dubai-apply-btn {
+        display: none;
+    }
+
+    .seo-dubai-apply-btn {
+        background-image: linear-gradient(270deg, #60134a, #84141f);
+        color: #fff;
+        font-size: 2rem;
+        font-weight: 600;
+        padding: 1rem 2rem;
+        border: none;
+        border-radius: 5rem;
+        cursor: pointer;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .seo-dubai-our-story .seo-dubai-right h4 {
+        font-size: 2rem;
+    }
+
+    .seo-dubai-our-story .seo-dubai-right h1 {
+        font-size: 2.9rem;
+    }
+
+    .seo-dubai-our-story-img {
+        object-fit: contain;
+        object-position: top;
+    }
+
+    .seo-dubai-hero-from-box .row .seo-dubai-left {
+        flex-basis: 100%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .seo-dubai-hero-from-box .row .seo-dubai-left .form-select {
+        padding: 1.2rem !important;
+        font-size: 2rem;
+    }
+
+    .seo-dubai-hero-from-box .row .seo-dubai-left .form-select option {
+        padding: 1.5rem !important;
+        font-size: 2rem !important;
+
+    }
+
+    .seo-dubai-hero-button {
+        padding: 1.3rem 3rem !important;
+        font-size: 2rem;
+
+    }
+
+    .seo-dubai-services-container .seo-dubai-right h4 {
+        font-size: 2rem;
+    }
+
+    .seo-dubai-services-container .seo-dubai-right h1 {
+        font-size: 3rem;
+    }
+
+    .seo-dubai-card-icons {
+        font-size: 4.5rem;
+    }
+
+    .seo-dubai-services-container .seo-dubai-left-text .card h4 {
+        font-size: 2.4rem;
+    }
+
+    .seo-dubai-swiper-case .seo-dubai-Heading h5 {
+        font-size: 2.6rem !important;
+        color: #ccc !important;
+    }
+
+    .seo-dubai-swiper-case .seo-dubai-Heading h2 {
+        font-size: 3rem !important;
+    }
+
+    .seo-dubai-pillars .card h5 {
+        font-size: 2.3rem !important;
+        margin-bottom: 1.2rem;
+    }
+
+    .seo-dubai-pillars .card p {
+        font-size: 1.9rem;
+    }
+
+    .seo-dubai-faq .seo-dubai-faq-heading h2 {
+        font-size: 2.6rem !important;
+    }
+
+    .seo-dubai-faq .seo-dubai-faq-heading p {
+        font-size: 1.9rem !important;
+    }
+
+    .accordion-button {
+        font-size: 2rem !important;
+    }
+
+    .accordion-body {
+        font-size: 1.6rem !important;
+    }
+
+    .seo-dubai-content h2 {
+        font-size: 2.6rem !important;
+    }
+
+    .seo-dubai-contact .seo-dubai-form-box .form-label {
+        font-size: 2rem;
+    }
+
+    .seo-dubai-hero-main .seo-dubai-overlay-black .seo-dubai-brands-logo img {
+        height: 20rem;
+    }
+
+    .seo-dubai-hero-main .seo-dubai-overlay-black .seo-dubai-brands-logo {
+        width: 100%;
+    }
+
+    .seo-dubai-contact .seo-dubai-form-box .form-control,
+    .seo-dubai-contact .form-select {
+        padding: 1rem 2rem;
+        font-size: 2rem;
+    }
+
+    .seo-dubai-hero-main .seo-dubai-overlay-black .seo-dubai-text {
+        /* padding-top: 10rem; */
+    }
+
+
+    .seo-dubai-hero-from-box .row {
+        width: 80%;
+    }
+
+    .seo-dubai-industry-card h6 {
+        font-size: 2rem !important;
+    }
+
+}
+
+
+/* mobile device reponcived code end */

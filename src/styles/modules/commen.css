@@ -1,0 +1,96 @@
+/*----------------header css start-------------------------------*/
+.header-main .navbar ul li .FaAngleDown{
+    transition: all 0.5s;
+}
+.header-main .navbar ul li:hover .FaAngleDown{
+    transform: rotate(180deg);
+}
+.submenu-container {
+  position: fixed;
+  /* top: 7.5rem; */
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 0.125rem;
+  background: white;
+  color: black;
+  transition: all 0.5s;
+  opacity: 1;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  max-width: 1200px;
+  width: 80%;
+  z-index: 40;
+}
+.menu-fixed {
+			top: 0;
+			background: linear-gradient(180deg,
+					rgba(255, 254, 239, 0.95) 0%,
+					rgba(255, 255, 255, 0.95) 103.91%);
+			box-shadow: var(--shadow);
+}
+.header-sub-menu{
+  position: relative;
+}
+.header-sub-menu::before{
+  contain: '';
+  height: 100%;
+  position: absolute;
+  top:0;
+  left:0;
+  width:100%;
+  background: black !important; 
+}
+/*----------------header css end-------------------------------*/
+
+
+/* --------------------term and contion page css start------------*/
+.terms-Content-left::-webkit-scrollbar{
+    display: none;
+}
+.terms-Content-left {
+  scrollbar-width: none; /* Firefox */
+  scroll-behavior: smooth;
+}
+/* --------------------term and contion page css end------------*/
+
+
+/* featured data css start  */
+.featured-data-container{
+  transition: ease 0.5s all;
+}
+/* featured data css end  */
+
+.footer-moving-animation {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  height: 30vh;
+  filter: blur(25px);
+  padding: 1rem;
+}
+
+@media (max-width:768px){
+ .footer-moving-animation {
+    height: 20vh;
+ }
+}
+.footer-moving-animation div {
+  height: 100%;
+  width: 100%;
+  opacity: 0.7;
+  background: #731212; /* change your color */
+  animation: bounceHeight 10s infinite linear alternate;
+}
+
+/* Random delay for each bar */
+.footer-moving-animation div:nth-child(1) { animation-delay: 0s; }
+.footer-moving-animation div:nth-child(2) { animation-delay: 0.3s; }
+.footer-moving-animation div:nth-child(3) { animation-delay: 0.6s; }
+.footer-moving-animation div:nth-child(4) { animation-delay: 0.9s; }
+.footer-moving-animation div:nth-child(5) { animation-delay: 1.2s; }
+.footer-moving-animation div:nth-child(6) { animation-delay: 1.5s; }
+
+@keyframes bounceHeight {
+  0%   { height: 10%; }
+  50%  { height: 90%; }
+  100% { height: 10%; }
+}
