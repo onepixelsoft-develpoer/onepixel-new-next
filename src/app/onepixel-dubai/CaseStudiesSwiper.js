@@ -1,15 +1,14 @@
-"use client";
+'use client';
 
-import React from "react";
-import { Swiper, SwiperSlide } from "swiper/react";
-import SwiperCore, { Navigation, Pagination, Autoplay } from "swiper";
+import { Swiper, SwiperSlide } from 'swiper/react';
+import { Navigation, Pagination, Autoplay } from 'swiper/modules';
+import Image from "next/image";
 
-// Install modules
-SwiperCore.use([Navigation, Pagination, Autoplay]);
-
-import "swiper/css";
-import "swiper/css/navigation";
-import "swiper/css/pagination";
+// Swiper CSS
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import 'swiper/css/autoplay';
 
 export default function CaseStudiesSwiper() {
   const caseStudies = [
@@ -29,26 +28,31 @@ export default function CaseStudiesSwiper() {
         </h2>
 
         <Swiper
+          modules={[Navigation, Pagination, Autoplay]}
           spaceBetween={20}
           slidesPerView={1}
           navigation
           pagination={{ clickable: true }}
           loop={true}
-          autoplay={{ delay: 4000, disableOnInteraction: false }}
+          autoplay={{ delay: 4000 }}
           breakpoints={{
             640: { slidesPerView: 1 },
             768: { slidesPerView: 2 },
             1024: { slidesPerView: 3 },
           }}
         >
+
           {caseStudies.map((img, index) => (
             <SwiperSlide key={index}>
               <div className="bg-white rounded-2xl shadow-lg p-4 flex justify-center items-center hover:scale-105 transition-transform duration-300">
-                <img
-                  src={`assets/images/onepixel-dubai/project/${img}`}
-                  alt={`Case Study ${index + 1}`}
-                  className="w-full h-56 object-cover rounded-xl"
-                />
+                <Image
+  src={`/assets/images/onepixel-dubai/project/${img}`}
+  alt={`Case Study ${index + 1}`}
+  width={600}
+  height={400}
+  className="w-full h-56 object-cover rounded-xl"
+/>
+
               </div>
             </SwiperSlide>
           ))}
