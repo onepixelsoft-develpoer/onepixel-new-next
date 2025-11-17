@@ -12,7 +12,7 @@ export default function AboutHero({data}) {
           <p className='text-[1.2rem] leading-[2rem] text-[#ccc] w-[80%]'>{data.des}</p>
         </div>
         <div className='img about-header-image relative md:h-[20rem]  md:w-[50rem] h-[20rem] w-[20rem]'>
-          <Image src={data.img}  fill sizes='100%' alt="" className='object-cover ' loading="lazy"/>
+          <Image src={data.img}  fill sizes='100%' alt="about" className='object-cover ' loading="lazy"/>
         </div>
       </section>  
     )

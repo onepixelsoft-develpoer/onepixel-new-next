@@ -11,7 +11,6 @@ import { IoCloseSharp } from "react-icons/io5";
 import { navigationData } from '@/data/navigation';
 import Link from 'next/link';
 
-
 export default function Header() {
   const [isOpen, setIsOpen] = useState(null);
   const [isMobile, setIsMobile] = useState(false);
@@ -89,7 +88,7 @@ export default function Header() {
 
                                   <div className='flex gap-3' style={{ width: "100%" }}>
                                     <div className='main-menu basis-[40%] relative '>
-                                      <Image src={item.subMain} alt="" fill sizes="100%" loading="lazy" className="object-contain object-top " />
+                                      <Image src={item.subMain} alt="design" fill sizes="100%" loading="lazy" className="object-contain object-top " />
                                     </div>
                                     <ul className={`ul-main basis-[60%]  ${item.path === "/about-us" ? "grid-cols-3 xl:h-[350px]" : item.path === "/our-services" ? "xl:grid-cols-3 lg:grid-cols-2 h-[500px] overflow-y-scroll gap-3" : item.path === "/solutions" ? "xl:grid-cols-5 md:grid-cols-3 h-[500px] overflow-y-scroll" : null} grid py-10 gap-2 text-[18px]`}>
                                       {

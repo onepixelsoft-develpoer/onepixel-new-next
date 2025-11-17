@@ -50,7 +50,7 @@ export default function CaseStudiesSwiper() {
   alt={`Case Study ${index + 1}`}
   width={600}
   height={400}
-  className="w-full h-56 object-cover rounded-xl"
+  className="w-full h-full object-cover rounded-xl"
 />
 
               </div>

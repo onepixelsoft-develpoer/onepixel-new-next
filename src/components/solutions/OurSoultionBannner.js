@@ -8,7 +8,7 @@ export default function OurSoultionBannner({ data }) {
       <div className="relative z-10 flex items-center  lg:items-center md:items-start lg:flex-row flex-col-reverse justify-between xl:px-40 px-5 w-full h-full bg-gradient-to-r from-[#000] to-red-900  text-white py-10 gap-5 overflow-hidden">
         <div className="absolute z-1  -bottom-50 left-0 lg:rotate-30 wow  animate__animated  animate__fadeInLeft" data-wow-delay="0.5s">
           <div className='realtive lg:h-[25rem]  w-[40rem]'>
-            <Image loading="lazy" src='/assets/images/shape/imgi_138_learning-bg.svg' className='object-contain' fill sizes='100%' alt="" />
+            <Image loading="lazy" src='/assets/images/shape/imgi_138_learning-bg.svg' className='object-contain' fill sizes='100%' alt="design" />
           </div>
         </div>
 

@@ -7,7 +7,7 @@ export default function OurSolutionleftCard({ data }) {
             {/* Left side images */}
             <div className='lg:basis-[40%] basis-full'>
                 <div className=" bg-[#F7D4D4] p-10 lg:w-90 lg:h-90 w-64 h-64  rounded-xl  wow  animate__animated  animate__fadeInLeft relative" data-wow-delay="0.3s">
-                    <Image loading="lazy" src={data.img1} fill sizes='100%' alt='' className='object-contain rounded-md' />
+                    <Image loading="lazy" src={data.img1} fill sizes='100%' alt='img' className='object-contain rounded-md' />
                 </div>
             </div>
 

@@ -21,10 +21,10 @@ export default function AboutUsPage() {
         style={{ backgroundImage: "url('/assets/images/bg/banner-fout-bg.png')" }}
       >
         <div className='absolute top-0 left-0'>
-          <Image src='/assets/images/shape/banner-four-arrow.png' alt="" fill sizes='100%' loading="lazy"/>
+          <Image src='/assets/images/shape/banner-four-arrow.png' alt="banner-four-arrow" fill sizes='100%' loading="lazy"/>
         </div>
                 <div className='absolute top-[40%] left-[45%] h-90'>
-          <Image src='/assets/images/shape/download__1_-removebg-preview.png' className='h-full w-full' alt='' loading="lazy" fill/>
+          <Image src='/assets/images/shape/download__1_-removebg-preview.png' className='h-full w-full' alt='removebg-preview' loading="lazy" fill/>
         </div>
 
         <AboutHero data={{
