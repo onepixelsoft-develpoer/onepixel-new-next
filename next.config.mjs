@@ -1,13 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  async rewrites() {
-    return [
-      {
-        source: "/sitemap.xml",
-        destination: "/api/sitemap.xml",
-      },
-    ];
-  },
-};
+  reactStrictMode: true,
+  // other config...
+}
 
-module.exports = nextConfig;
+export default nextConfig; // ✅ Correct for .mjs
