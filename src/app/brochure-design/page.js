@@ -26,7 +26,7 @@ export default function page() {
           title: "Corporate Profiles",
           description:
             "Professionally designed profiles that showcase your company’s vision, values, and achievements.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -35,7 +35,7 @@ export default function page() {
           title: "Product Catalogs",
           description:
             "Comprehensive catalogs highlighting your products with clear visuals and engaging layouts.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -44,7 +44,7 @@ export default function page() {
           title: "Tri-Fold & Bi-Fold Layouts",
           description:
             "Elegant, easy-to-read designs for marketing materials.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -53,7 +53,7 @@ export default function page() {
           title: "Real Estate & Service Flyers",
           description:
             "Engaging brochures optimized for online viewing and interactivity.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -62,7 +62,7 @@ export default function page() {
           title: "Digital & Interactive Brochures",
           description:
             "Ready-to-send flyers optimized for digital campaigns.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -71,7 +71,7 @@ export default function page() {
           title: "Event and Exhibition Booklets",
           description:
             "Informative, visually striking booklets perfect for events and exhibitions.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

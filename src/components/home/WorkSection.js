@@ -102,7 +102,7 @@ export default function WorkSection() {
                                 >
                                   <div className="lg:h-[400px] h-[200px] w-full relative">
                                     <Link href={`/project-details/${idx + 1}`}>
-                                        <Image src="/assets/images/project/default-image.png" fill sizes="100%" alt={project.project_name} 
+                                        <Image src="/assets/images/project/default-image.webp" fill sizes="100%" alt={project.project_name} 
                                           className=" relative object-cover rounded-t-lg" loading="lazy" />
                                     </Link>
                                   </div>

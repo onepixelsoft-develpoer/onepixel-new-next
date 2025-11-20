@@ -20,7 +20,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Onepixel Soft–Your One Top Digital Partner for NFT Software Development",
                 desc: ["As a leading NFT development firm, Onepixel Soft provides expert technical support for creating NFTs and developing the next generation of NFT marketplaces across various industries, including gaming, music, art, and collectibles. We offer end-to-end NFT development services, covering everything from setup to testing.", "Our services include crafting custom smart contracts for NFT collections and seamless integration with top blockchain platforms like Ethereum, Solana, and Polygon, all backed by cutting-edge technology. With a team of certified NFT developers, we hold a significant market share and possess unparalleled expertise in the rapidly evolving NFT landscape."],
-                img1: "/assets/images/solution/niftyy.png"
+                img1: "/assets/images/solution/niftyy.webp"
 
             }} />
             <OurSolutionsDevlopment devlopmentData={{
@@ -29,28 +29,28 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/feature-three-icon1.png",
+                        icon: "/assets/images/icon/feature-three-icon1.webp",
                         title: "Custom NFT Marketplace Development",
                         desc:
                             "We build tailored smart contracts for various use cases like DeFi, NFT, and supply chain, ensuring secure and efficient automation.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/feature-three-icon2.png",
+                        icon: "/assets/images/icon/feature-three-icon2.webp",
                         title: "Multi-Chain Compatibility",
                         desc:
                             "Our solutions support major blockchains like Ethereum, BNB Chain, Polygon, and Solana for wider reach and lower transaction fees.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/feature-three-icon3.png",
+                        icon: "/assets/images/icon/feature-three-icon3.webp",
                         title: "Auction & Bidding Features",
                         desc:
                             "Enable real-time auctions, timed bids, and reserve pricing to increase engagement and drive higher asset value.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/feature-three-icon4.png",
+                        icon: "/assets/images/icon/feature-three-icon4.webp",
                         title: "Wallet Integration & Security",
                         desc:
                             "Seamless integration with popular wallets like MetaMask and WalletConnect, along with top-tier security protocols to protect users and assets.",
@@ -66,7 +66,7 @@ export default function page() {
                         title: "OpenSea Like App",
                         desc:
                             "Explore the possibilities of your digital marketplace with our OpenSea-like application development services. We specialize in creating user-friendly platforms so that collectors and creators can effortlessly purchase or sell NFTs. We can help you duplicate OpenSea's popularity while tailoring the application to meet your needs.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -75,7 +75,7 @@ export default function page() {
                         title: "Rarible-Like App",
                         desc:
                             "Let the power of decentralized innovation with our app development solutions that resemble Rarible. Our team is adept at creating platforms that allow creators to mint, buy, and sell NFTs quickly. Make your digital collectors' market more attractive by leveraging our experience in capturing the successes and innovations of Rarible and adding your unique design.",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -84,7 +84,7 @@ export default function page() {
                         title: "NBA Top Shot Like App",
                         desc:
                             "Enter the world of collectibles from digital sports by using the NBA Top Shot like app creation. We are experts in creating platforms that let fans buy and sell officially licensed NBA moments. Use our expertise to replicate the excitement and popularity of NBA Top Shot while customizing the app to fit your target audience and objectives.",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -97,55 +97,55 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "NFT Marketplace Development",
                         desc: "Our team of software engineers creates customizable NFT marketplace solutions with wallet integration, storefronts, smart contracts, and auction modules to facilitate efficient NFT buying, selling, and trading.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "NFT Website Development",
                         desc: "NFT websites promote Blockchain-based solutions. Our developers build immersive and secure platforms that enable listing, bidding, and token minting functionalities while ensuring a seamless user experience.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "NFT App Development",
                         desc: "We create high-performance NFT mobile apps that mirror your business goals and provide access to real-time trading, wallet integration, and notifications on both Android and iOS platforms.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "NFT Staking Projects",
                         desc: "Boost user engagement and offer long-term value through NFT staking capabilities. Our staking platforms enable holders to lock their NFTs in smart contracts in exchange for rewards.",
                     },
                     {
                         id: 5,
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Auction Portal Development",
                         desc: "Create customizable auction systems and support time-based, reserve-price, or sealed-bid auctions for digital collectibles. We ensure smooth user bidding experiences with real-time updates.",
                     },
                     {
                         id: 6,
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "NFT Lending Platform Development",
                         desc: "Launch your own lending platform to allow users to borrow against their NFTs. We integrate lending protocols and smart contracts for transparency and trust.",
                     },
                     {
                         id: 7,
-                        icon: "/assets/images/icon/service-three-icon7.png",
+                        icon: "/assets/images/icon/service-three-icon7.webp",
                         title: "NFT Minting Platform",
                         desc: "We build custom NFT minting platforms that allow creators and users to create NFTs easily. Features include metadata input, gas fee optimization, and royalty configuration.",
                     },
                     {
                         id: 8,
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "NFT Games Development",
                         desc: "From play-to-earn to NFT trading card games, we develop blockchain-based gaming experiences with token integration, NFT collectibles, and immersive visuals.",
                     },
                     {
                         id: 9,
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "NFT Streaming Platform",
                         desc: "We help launch NFT streaming platforms for video, music, and digital art. Empower creators to tokenize their work and earn royalties through NFT-backed streaming systems.",
                     }
@@ -157,7 +157,7 @@ export default function page() {
                     {
                         title: "Bidding",
                         description: "You can add an auction slot to the items on your NFTs. Bidders can bid transparently and fairly for the NFT. This system enhances the user experience on NFT or blockchain-based apps. Users have a pleasant trading experience while purchasing assets.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details",
@@ -165,7 +165,7 @@ export default function page() {
                     {
                         title: "Tracking",
                         description: "We provide our customers with an enhanced tracking system, which shows them the trace details about their assets. Buyers can see if it’s a new item or a resale. This feature allows for easy research to track item origin and authenticity.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e8f7ff",
                         link: "/service-details",
@@ -173,7 +173,7 @@ export default function page() {
                     {
                         title: "Virtual Art Exhibitory",
                         description: "Users can showcase, exhibit, and display digital art pieces displayed on the NFT platforms. This helps creators in monetization and artists in building a collection or gallery.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#f9f1fb",
                         link: "/service-details",
@@ -181,7 +181,7 @@ export default function page() {
                     {
                         title: "Push Notifications",
                         description: "The apps enable users to stay informed of the latest updates on their NFT listings, bids, new arrivals, or sale alerts. With push notifications, the users never miss the latest deals or listing opportunities.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f3f4ff",
                         link: "/service-details",
@@ -189,7 +189,7 @@ export default function page() {
                     {
                         title: "Tradability",
                         description: "NFT's tradability feature allows holders to trade across multiple NFT marketplaces. It enables features like bundling, bidding, fixed-rate listings, and timed auctions to support various liquidity preferences.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff3f1",
                         link: "/service-details",
@@ -197,7 +197,7 @@ export default function page() {
                     {
                         title: "Standardization",
                         description: "We assist in NFT token standardization, where developers use common or widely used standards like ERC-721 or ERC-1155. This boosts compatibility and user trust by ensuring asset integrity and easier implementation.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#fcf7f0",
                         link: "/service-details",
@@ -205,7 +205,7 @@ export default function page() {
                     {
                         title: "Liquidity",
                         description: "The major aspect of the NFT is the level of assurance on product liquidity. Users can easily exchange or sell the NFTs across supported platforms. This enables users to realize their returns and portfolio potential at any time.",
-                        icon: "/assets/images/icon/service-icon7.png",
+                        icon: "/assets/images/icon/service-icon7.webp",
                         bgClass: "bg7",
                         color: "#fff5eb",
                         link: "/service-details",
@@ -213,7 +213,7 @@ export default function page() {
                     {
                         title: "Interoperable",
                         description: "We integrate solutions that allow NFTs to be shared, traded, or listed across multiple platforms. This includes using APIs or blockchain bridges that ensure seamless NFT movement across supported platforms.",
-                        icon: "/assets/images/icon/service-icon8.png",
+                        icon: "/assets/images/icon/service-icon8.webp",
                         bgClass: "bg8",
                         color: "#f2fdf7",
                         link: "/service-details",
@@ -223,7 +223,7 @@ export default function page() {
             <OurSoultionBannner data={{
                 heading: "Ready to Revolutionize your Digital Assets with NFTs?",
                 desc: "Contact us today to discuss your NFT needs for development and unlock opportunities in blockchain technologies for your company",
-                img1: "/assets/images/solution/nifty.png"
+                img1: "/assets/images/solution/nifty.webp"
             }} />
             <FeqSection />
 

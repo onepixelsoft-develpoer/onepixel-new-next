@@ -12,12 +12,12 @@ import 'swiper/css/autoplay';
 
 export default function CaseStudiesSwiper() {
   const caseStudies = [
-    "1676888900.png",
-    "16768889001.png",
-    "1685448184.png",
-    "1685448218.png",
-    "1685507809.png",
-    "1685525491.png",
+    "1676888900.webp",
+    "16768889001.webp",
+    "1685448184.webp",
+    "1685448218.webp",
+    "1685507809.webp",
+    "1685525491.webp",
   ];
 
   return (

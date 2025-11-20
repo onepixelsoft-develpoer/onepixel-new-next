@@ -6,11 +6,11 @@ export default function  CommenHero({data}) {
   return (
       <section className='  leading-12 flex gap-3 items-center justify-between xl:px-40 lg:px-10 px-5 py-15  bg-cover wow animate__animated animate__fadeInDown relative lg:h-[40vh] ' 
       style={{
-          background:"url('/assets/images/bg/banner-fout-bg.png')",
+          background:"url('/assets/images/bg/banner-fout-bg.webp')",
           backgroundPosition:' center',
       }}>
         <div className='top-0 left-0 absolute h-full wow  animate__animated  animate__fadeInLeft' data-wow-delay="0.3s">
-          <Image src='/assets/images/shape/banner-four-arrow.png' className='h-full w-full' loading="lazy" alt='banner-four-arrow' fill/>
+          <Image src='/assets/images/shape/banner-four-arrow.webp' className='h-full w-full' loading="lazy" alt='banner-four-arrow' fill/>
         </div>
         <div className='left-heading'>
           <SmallTitle smText={`Home/${data.slug}`} exClass={"py-0 my-0 leading-[2rem] text-gray-300 text-[1.02rem]"}/>

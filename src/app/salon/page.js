@@ -19,7 +19,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Smart Salon App Solutions to Grow Your Business",
                 desc: ["Simplify bookings, enhance customer interaction, and expand your brand with our bespoke salon app development solutions. As a top beauty and salon app development agency, we are experts in creating user-friendly platforms that simplify bookings, client data management, and real-time notifications.", "Whether you require a salon booking app, a feature-rich salon website, or an all-in-one platform, our customized solutions provide hassle-free operations and increased customer loyalty. Leave your beauty business's online transformation to our experienced salon app development agency."],
-                img1: "/assets/images/solution/salooon1.png"
+                img1: "/assets/images/solution/salooon1.webp"
             }} />
             <OurFeatured FeaturedData={{
                 heading: "Salon App Development Mistakes to Avoid",
@@ -29,7 +29,7 @@ export default function page() {
                         title: "Overlooking User Experience",
                         desc:
                             "Neglecting an intuitive salon app design can lead to customer frustration and fewer bookings. Make sure your app is user-friendly, offering seamless appointment scheduling and easy access to services.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -38,7 +38,7 @@ export default function page() {
                         title: "Neglecting Platform Compatibility",
                         desc:
                             "Focusing on a single platform restricts your reach. Invest in both iOS and Android salon app development to effectively expand your customer base.",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -47,7 +47,7 @@ export default function page() {
                         title: "Skipping Regular Maintenance",
                         desc:
                             "Launching the app is just the beginning. Neglecting regular maintenance can result in bugs and outdated features. Consistent updates are essential for maintaining optimal performance and ensuring customer satisfaction",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -59,32 +59,32 @@ export default function page() {
                 desc: "Launch your own salon booking application rapidly with our editable clone application solutions. Drawn from the best beauty and salon websites, our applications cover appointment booking, stylist profiles, in-app payments, and customer reviews—all adapted to your specific business model.",
                 cards: [
                     {
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Custom Salon App Development",
                         desc: "Get a fully customized salon booking app built specifically for your business. Our bespoke salon app development guarantees smooth management, improved user experience, and features designed to align with your unique operations."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "iOS Salon App Development",
                         desc: "Tap into our expertise in iOS salon app development to craft sleek, high-performance apps for Apple devices. Offer your customers a seamless and secure platform for booking salon services."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Android Salon App Development",
                         desc: "Expand your reach with our Android salon app development services. We create scalable, intuitive apps that enable your salon business to flourish on the Android platform."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "Salon App Maintenance",
                         desc: "Ensure your app runs seamlessly with our dependable salon app maintenance services. We manage updates, fix bugs, and optimize performance to keep your app in excellent condition."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Salon App Design",
                         desc: "Captivate your customers with sleek and visually striking designs. Our salon app design services focus on crafting user-friendly layouts that reflect your brand identity."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Salon App Migration & Upgradation",
                         desc: "Easily upgrade or migrate your app with our salon app migration and upgrade solutions. Enhance your salon app with advanced features and smooth transitions."
                     }
@@ -98,7 +98,7 @@ export default function page() {
                     {
                         title: "Extensive Search",
                         description: "Matrimonial websites and apps offer comprehensive search features to help users find the perfect bride or groom worldwide.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -106,7 +106,7 @@ export default function page() {
                     {
                         title: "Build a Brand Name",
                         description: "A feature-rich, high-quality matrimonial enterprise solution attracts more customers and enhances your brand’s reputation.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f6fd",
                         link: "/service-details"
@@ -114,7 +114,7 @@ export default function page() {
                     {
                         title: "Good Customer Relationship",
                         description: "A matrimonial app with premium features and strong security measures fosters a strong and trusted relationship with your customers.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#f9f2f8",
                         link: "/service-details"
@@ -122,7 +122,7 @@ export default function page() {
                     {
                         title: "Communication Ease",
                         description: "Customers can choose profiles that match their interests and initiate safe, secure in-app communication.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f5f0fa",
                         link: "/service-details"
@@ -130,7 +130,7 @@ export default function page() {
                     {
                         title: "Confidentiality",
                         description: "Matrimonial solutions prioritize user confidentiality, allowing individuals to keep their profiles private and visible only to selected users.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fdf3eb",
                         link: "/service-details"
@@ -138,7 +138,7 @@ export default function page() {
                     {
                         title: "Security & Privacy",
                         description: "Our matrimonial app development solutions prioritize the security and privacy of customers’ personal information, safeguarding them from fraudulent and deceptive activities.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -149,7 +149,7 @@ export default function page() {
             <OurSoultionBannner data={{
                 heading:"Ready to Elevate Your Business with Our Salon App Solution?",
                 desc:"Hire expert salon app developers who can develop a customized, & user-friendly apps that makes a difference.",
-                img1:"/assets/images/solution/saloon2.png"
+                img1:"/assets/images/solution/saloon2.webp"
             }}/>
             <FeqSection />
         </div>

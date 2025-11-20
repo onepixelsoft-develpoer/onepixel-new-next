@@ -76,7 +76,7 @@ export default function CaseProjects() {
                                       <div className="relative w-full h-[220px]">
                                         <Image
 
-                                          src="/assets/images/project/default-image.png"
+                                          src="/assets/images/project/default-image.webp"
                                           alt={subItem.project_name || "Project"}
                                           fill
                                           sizes="100%"

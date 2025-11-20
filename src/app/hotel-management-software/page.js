@@ -23,7 +23,7 @@ export default function page() {
           title: "Booking & Reservation Management",
           description:
             "Easily handle room bookings, reservations, and availability with a streamlined interface.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -32,7 +32,7 @@ export default function page() {
           title: "Check-In / Check-Out Automation",
           description:
             "Simplify guest arrivals and departures with automated processes for faster and smoother service.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -41,7 +41,7 @@ export default function page() {
           title: "Inventory & Room Management",
           description:
             "Monitor room occupancy, supplies, and housekeeping tasks to optimize operations.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -50,7 +50,7 @@ export default function page() {
           title: "POS Billing & Reports",
           description:
             "Manage in-house billing, generate receipts, and track sales with detailed reporting tools.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -59,7 +59,7 @@ export default function page() {
           title: "Guest Feedback System",
           description:
             "Collect and analyze guest feedback to improve services and enhance customer satisfaction.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

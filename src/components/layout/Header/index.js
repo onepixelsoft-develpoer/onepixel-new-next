@@ -47,7 +47,7 @@ export default function Header() {
       <div className='header bg-[#000000] text-white xl:px-40 lg:px-10 px-5 py-1 text-center flex justify-between items-center'>
         <div className="logo animate__animated_shakeX text-3xl font-bold bg-white  px-3 py-1 rounded-md relative animate__animated animate__fadeIn hover:animate__shakeX ">
           <Link href="/">
-            <Image src="/assets/images/logo/onepixel-logo.png" alt="OnePixelSoft Logo" className=" bg-white rounded-md" width={200} height={150} loading="lazy" />
+            <Image src="/assets/images/logo/onepixel-logo.webp" alt="OnePixelSoft Logo" className=" bg-white rounded-md" width={200} height={150} loading="lazy" />
           </Link>
         </div>
 
@@ -152,7 +152,7 @@ export default function Header() {
                     }
                   </ul>
                 </nav>
-                <div className='contact-btn bg-[url("/assets/images/shape/btn.png")] bg-no-repeat py-3 px-3 transition-all duration-500 flex items-center gap-2 cursor-pointer '>
+                <div className='contact-btn bg-[url("/assets/images/shape/btn.webp")] bg-no-repeat py-3 px-3 transition-all duration-500 flex items-center gap-2 cursor-pointer '>
                   <Link href="/contact">Contact Us</Link>
                   <div className='arrow h-6 w-6 overflow-hidden'>
                     <MdArrowOutward className='MdArrowOutward' size={20} />

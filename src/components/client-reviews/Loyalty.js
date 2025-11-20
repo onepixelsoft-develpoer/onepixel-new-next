@@ -8,7 +8,7 @@ export default function Loyalty() {
 
       <div className="absolute -top-50 lg:right-0 right-5 w-200 h-200">
         <Image
-          src="/assets/images/shape/contact-roket.png"
+          src="/assets/images/shape/contact-roket.webp"
           alt="contact rocket"
           fill loading="lazy"
           className="object-contain"

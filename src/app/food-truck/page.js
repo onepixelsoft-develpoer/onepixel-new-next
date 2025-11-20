@@ -20,7 +20,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Fuel Your Food Truck Success with Intelligent App Solutions",
                 desc: ["Be seen in the expanding street food market with Onepixel Soft's professional food truck app development services. We provide end-to-end solutions—from strategy and design to deployment—designated for the specific requirements of mobile food enterprises. Our apps automate order management, optimize routes, and improve customer interactions.", "With functionalities such as real-time GPS tracking, mobile payments, push notifications, and loyalty programs, we develop food truck mobile applications that increase exposure, promote repeated orders, and facilitate smooth everyday operations."],
-                img1: "/assets/images/solution/foodtruck.png"
+                img1: "/assets/images/solution/foodtruck.webp"
             }} />
             <OurSolutionsDevlopment devlopmentData={{
                 heading: "Important Features of Our Food Truck App Development",
@@ -28,28 +28,28 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/feature-three-icon1.png",
+                        icon: "/assets/images/icon/feature-three-icon1.webp",
                         title: "Real-Time Truck Location Tracking",
                         desc:
                             "Customers can view the live location of food trucks on a map and find the nearest one instantly.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/feature-three-icon2.png",
+                        icon: "/assets/images/icon/feature-three-icon2.webp",
                         title: "Online Ordering & Pre-Booking",
                         desc:
                             "Users can browse the menu, place orders in advance, and avoid long wait times at the truck.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/feature-three-icon3.png",
+                        icon: "/assets/images/icon/feature-three-icon3.webp",
                         title: "Push Notifications & Offers",
                         desc:
                             "Send real-time updates about truck location changes, new menu items, and special discounts.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/feature-three-icon4.png",
+                        icon: "/assets/images/icon/feature-three-icon4.webp",
                         title: "Ratings & Reviews System    ",
                         desc:
                             "Customers can rate food, share feedback, and help others discover popular food trucks.",
@@ -65,7 +65,7 @@ export default function page() {
                         title: "Roaming Hunger Clone",
                         desc:
                             "Discover the success of Roaming Hunger, one of the leading food truck apps in the US. Boasting real-time tracking capabilities, diverse cuisine options, and user-friendly interfaces reminiscent of Roaming Hunger's app, we can create one tailored specifically to meet the needs of your food truck venture and propel its success even further into an already competitive marketplace.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -74,7 +74,7 @@ export default function page() {
                         title: "Street Food Finder Clone",
                         desc:
                             "OEngage with Street Food Finder's convenience by tapping into it as an app connecting food lovers to their preferred trucks. Leveraging our expertise, let us develop your clone app with location-based services, appetizing menus, and tailored user experiences - driving greater success for your food truck business!",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -83,7 +83,7 @@ export default function page() {
                         title: "Food Truck Fiesta Clone",
                         desc:
                             "Food Truck Fiesta, an app offering real-time food truck locations and menus, provides real potential. By harnessing our development expertise, we can produce similar apps with advanced features, seamless functionality, and unique appeal - enabling your food truck venture to attract a broader audience. ",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -96,37 +96,37 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Custom Food Truck App Development",
                         desc: "Depeche Soft is aware that your food truck is an extension of your brand and culinary vision. We provide app development solutions dedicated to your distinctive business goals, whether you’re starting with one food truck or scaling to a fleet. Our iOS and Android-compatible apps help connect food truckers with the right audience to increase reach and maximize value."
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "Real-Time Tracking Solutions for Food Trucks",
                         desc: "Give your clients real-time updates with real-time GPS tracking technology. Our location-sharing features let users view live routes, find nearby food trucks, and get accurate ETAs. This builds trust, saves time, and encourages impulse visits, which helps your food truck business grow."
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Food Truck Ordering and Payment Systems",
                         desc: "Empower your customers with the convenience of ordering directly via the app. Our system includes secure digital payments, menu browsing, and order customization. Customers can preorder their food at their convenience."
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "Menu Management Solutions for Food Truck Apps",
                         desc: "Our solution allows you to effortlessly keep menus updated based on availability, daily specials, or changing inventory. Sync changes in real time so customers only see what’s available, reducing disappointment and food waste while improving service quality."
                     },
                     {
                         id: 5,
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Loyalty Programs and Engagement for Food Truck Apps",
                         desc: "Add a loyalty platform and reward your customers with points, digital punch cards, and exclusive discounts. Increase repeat business, gather customer insights, and boost satisfaction with personalized marketing campaigns."
                     },
                     {
                         id: 6,
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Analytics and Reporting Tools for Food Truck Apps",
                         desc: "Gain access to detailed analytics that help you improve operations and strategy. Track metrics like order volume, popular items, peak hours, and user behavior. Use this data to make informed decisions and refine your food truck's success roadmap."
                     }
@@ -138,7 +138,7 @@ export default function page() {
                     {
                         title: "Real-Time Tracking",
                         description: "Drivers and customers can both track food trucks using live GPS. Share real-time updates on the truck's location, route, and estimated arrival to enhance user experience and trust.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -146,7 +146,7 @@ export default function page() {
                     {
                         title: "Effortless Ordering",
                         description: "Provide customers with an intuitive app experience to browse the menu, customize orders, and complete payments without delays.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#f0f6ff",
                         link: "/service-details"
@@ -154,7 +154,7 @@ export default function page() {
                     {
                         title: "Dynamic Menu Management",
                         description: "Easily update menu items with availability or daily updates. Sync in real time to reduce customer confusion and food waste.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#fff3f3",
                         link: "/service-details"
@@ -162,7 +162,7 @@ export default function page() {
                     {
                         title: "User-Friendly Interfaces",
                         description: "Engage your audience through simple and appealing interfaces that work smoothly on both Android and iOS devices.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f6f0ff",
                         link: "/service-details"
@@ -170,7 +170,7 @@ export default function page() {
                     {
                         title: "Order Management System",
                         description: "Track and manage orders from placement to delivery using a dashboard that provides real-time control for food truck owners.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fefbe5",
                         link: "/service-details"
@@ -178,7 +178,7 @@ export default function page() {
                     {
                         title: "Loyalty Programs",
                         description: "Encourage repeat visits through rewards, discounts, and loyalty points integrated directly within the food truck app.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#e7fcff",
                         link: "/service-details"
@@ -186,7 +186,7 @@ export default function page() {
                     {
                         title: "Push Notifications",
                         description: "Notify users of order status, new menu items, or promotional offers through real-time alerts to boost retention.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -194,7 +194,7 @@ export default function page() {
                     {
                         title: "Comprehensive Analytics",
                         description: "Track behavior patterns, sales performance, customer engagement, and more using integrated dashboards and analytics.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#f0f6ff",
                         link: "/service-details"
@@ -202,7 +202,7 @@ export default function page() {
                     {
                         title: "Secure Payment Systems",
                         description: "Enable safe and quick transactions through multi-payment options like cards, wallets, and UPI with encryption support.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#fff3f3",
                         link: "/service-details"
@@ -210,7 +210,7 @@ export default function page() {
                     {
                         title: "Feedback and Ratings",
                         description: "Allow users to review dishes, rate services, and give suggestions directly in the app to improve future service quality.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f6f0ff",
                         link: "/service-details"
@@ -218,7 +218,7 @@ export default function page() {
                     {
                         title: "Multi-Platform Compatibility",
                         description: "Apps built for Android, iOS, and the web ensure customers can access your services anytime, anywhere.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg5",
                         color: "#fefbe5",
                         link: "/service-details"
@@ -226,7 +226,7 @@ export default function page() {
                     {
                         title: "Scalability and Flexibility",
                         description: "Solutions designed to accommodate fleets of increasing trucks, locations, and customer demands with scalable cloud infrastructure.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg6",
                         color: "#e7fcff",
                         link: "/service-details"
@@ -236,7 +236,7 @@ export default function page() {
             <OurSoultionBannner data={{
                 heading:"Looking for a Mobile App Solution to propel your Business?",
                 desc:"Engage our specialists to turn your idea into Reality!",
-                img1:"/assets/images/solution/foodtruck1.png"
+                img1:"/assets/images/solution/foodtruck1.webp"
             }}/>
             <FeqSection/>
         </div>

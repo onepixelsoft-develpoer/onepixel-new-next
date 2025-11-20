@@ -23,7 +23,7 @@ export default function page() {
           title: "Flutter, React Native & Ionic Frameworks",
           description:
             "Build powerful cross-platform mobile apps using modern frameworks for Android and iOS.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -32,7 +32,7 @@ export default function page() {
           title: "Unified Codebase",
           description:
             "Develop once and deploy everywhere — reducing time, cost, and effort while maintaining consistency.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -41,7 +41,7 @@ export default function page() {
           title: "Native-Like Performance",
           description:
             "Deliver smooth, fast, and responsive user experiences that feel just like native apps.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -50,7 +50,7 @@ export default function page() {
           title: "API & Cloud Integration",
           description:
             "Connect apps seamlessly with REST APIs, Firebase, and cloud services for real-time functionality.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -59,7 +59,7 @@ export default function page() {
           title: "Continuous Maintenance & Support",
           description:
             "Ensure long-term performance with regular updates, bug fixes, and new feature integrations.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

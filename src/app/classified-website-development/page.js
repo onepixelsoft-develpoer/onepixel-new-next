@@ -46,7 +46,7 @@ export default function page() {
           title: "Multi-Category Listings",
           description:
             "Organize ads across multiple categories for easy browsing and better reach.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -55,7 +55,7 @@ export default function page() {
           title: "User Dashboard",
           description:
             "Empower users with a personalized dashboard to manage their listings and profiles.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -64,7 +64,7 @@ export default function page() {
           title: "Ad Management",
           description:
             "Easily create, edit, and monitor ads with powerful admin and user-side controls.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -73,7 +73,7 @@ export default function page() {
           title: "Chat & Payment Gateway",
           description:
             "Enable secure real-time communication and hassle-free online transactions.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

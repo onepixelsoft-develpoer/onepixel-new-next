@@ -24,8 +24,8 @@ export default function WorkProcess() {
                 </div>
                 <div className="flex flex-col items-center justify-center">
                     <div className="relative w-full flex flex-col items-center  h-80  ">
-                        <Image className="object-contain rounded-lg  z-10" loading="lazy" src="/assets/images/process/OurWorkProcess-01.png" alt="Our Work Process" fill sizes='100%'/>
-                        <Image className="absolute top-[30%]  lg:scale-[1.3] scale-1 object-contain" loading="lazy" src="/assets/images/process/process-image12.png" alt="Process Point" fill sizes='100%'/>
+                        <Image className="object-contain rounded-lg  z-10" loading="lazy" src="/assets/images/process/OurWorkProcess-01.webp" alt="Our Work Process" fill sizes='100%'/>
+                        <Image className="absolute top-[30%]  lg:scale-[1.3] scale-1 object-contain" loading="lazy" src="/assets/images/process/process-image12.webp" alt="Process Point" fill sizes='100%'/>
                     </div>
                 </div>
                 <div className="flex lg:flex-col md:flex-row flex-col lg:gap-20 gap-4 text-black">

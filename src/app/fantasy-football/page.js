@@ -21,7 +21,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Fantasy Football App Development – Your Gateway to Market Leadership",
                 desc: ["With the fantasy sports industry booming globally, launching a customized fantasy football app can set you apart in the digital gaming space. At Onepixel Soft, a trusted fantasy football app development company, we specialize in building interactive, scalable, and monetizable fantasy football platforms tailored to your business goals.", "Our expert developers integrate real-time data feeds, live scoring, league management, and seamless UI/UX to ensure users stay engaged. Whether it’s iOS, Android, or cross-platform, our fantasy football app development services are built for performance, user retention, and revenue generation"],
-                img1: 'assets/images/solution/football1.png'
+                img1: 'assets/images/solution/football1.webp'
             }} />
 
             <OurDevlomentCycle DevlomentCycleData={{
@@ -30,37 +30,37 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Custom Fantasy Football App Development",
                         desc: "Create your unique fantasy football application with tailored features and seamless functionality. Our custom fantasy football application development ensures your app stands out in a competitive market."
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "Fantasy Football App Consultation",
                         desc: "Confused about starting your fantasy football development journey? Our expert consultation guides you through the process, from idea validation to launch strategy."
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Android Fantasy Football App Development",
                         desc: "Reach millions with our Android fantasy football app development solutions. We design responsive, feature-rich apps for the best Android experience."
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "iOS Fantasy Football App Development",
                         desc: "Deliver a premium experience with our iOS fantasy football app development. Our team creates high-performance apps optimized for Apple devices."
                     },
                     {
                         id: 5,
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Fantasy Football App UI/UX",
                         desc: "Attract and retain users with cutting-edge designs. Our fantasy football app development services focus on intuitive UI/UX for a seamless user journey."
                     },
                     {
                         id: 6,
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Fantasy Football App Maintenance",
                         desc: "Ensure your app stays updated and runs smoothly. Our fantasy football app maintenance services keep your application efficient and bug-free."
                     }
@@ -73,7 +73,7 @@ export default function page() {
                     {
                         title: "NFL App Clone",
                         description: "Launch your app with features inspired by NFL’s engaging platform. Our fantasy football app developers create scalable and robust solutions.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -81,7 +81,7 @@ export default function page() {
                     {
                         title: "ESPN Fantasy Sports App Clone",
                         description: "Get an app like ESPN’s with interactive features and seamless performance through our expert fantasy football application development services.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#eaf7ff",
                         link: "/service-details"
@@ -89,7 +89,7 @@ export default function page() {
                     {
                         title: "Yahoo Fantasy Football App Clone",
                         description: "Build an app like Yahoo’s, offering real-time stats, advanced leagues, and unmatched user experience with our fantasy football software development.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#f9f1f7",
                         link: "/service-details"
@@ -97,7 +97,7 @@ export default function page() {
                     {
                         title: "Sleeper Fantasy Leagues App Clone",
                         description: "Deliver a vibrant user experience with a fantasy football mobile app development solution inspired by Sleeper’s modern, community-driven design.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f3f2ff",
                         link: "/service-details"
@@ -105,7 +105,7 @@ export default function page() {
                     {
                         title: "Biweneger App Clone",
                         description: "Replicate Biweneger’s sleek design and engaging gameplay with our custom fantasy football app development expertise tailored to your needs.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff5eb",
                         link: "/service-details"
@@ -113,7 +113,7 @@ export default function page() {
                     {
                         title: "CBS Sports Fantasy App Clone",
                         description: "Bring CBS Sports’ rich analytics and engaging features to life with our fantasy football platform development solutions.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#fdf6f0",
                         link: "/service-details"
@@ -123,7 +123,7 @@ export default function page() {
             <OurSoultionBannner data={{
                 heading: "Turn Your Fantasy Football App Idea into Reality with Onepixel Soft!",
                 desc: "If you want to develop a fantasy football app, this is where you search ends, we can do it all for you in no time.",
-                img1: "/assets/images/solution/football2.png"
+                img1: "/assets/images/solution/football2.webp"
             }} />
             <FeqSection />
 

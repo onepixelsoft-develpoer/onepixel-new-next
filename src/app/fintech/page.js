@@ -28,28 +28,28 @@ export default function page() {
         cards: [
           {
             id: 1,
-            icon: "/assets/images/icon/feature-three-icon1.png",
+            icon: "/assets/images/icon/feature-three-icon1.webp",
             title: "Neglecting Security & Compliance",
             desc:
               "Failing to implement robust encryption, secure authentication, and adhere to financial regulations can lead to data breaches and legal issues.",
           },
           {
             id: 2,
-            icon: "/assets/images/icon/feature-three-icon2.png",
+            icon: "/assets/images/icon/feature-three-icon2.webp",
             title: "Poor User Experience (UX)",
             desc:
               "Complicated navigation, slow performance, or unclear interfaces can frustrate users and reduce app adoption.",
           },
           {
             id: 3,
-            icon: "/assets/images/icon/feature-three-icon3.png",
+            icon: "/assets/images/icon/feature-three-icon3.webp",
             title: "Lack of Scalability Planning",
             desc:
               "Ignoring future growth can cause app instability as user demand increases, impacting performance and reliability.",
           },
           {
             id: 4,
-            icon: "/assets/images/icon/feature-three-icon4.png",
+            icon: "/assets/images/icon/feature-three-icon4.webp",
             title: "Inadequate Testing & QA",
             desc:
               "Skipping thorough testing may result in bugs, transaction failures, or system crashes that damage user trust.",
@@ -65,7 +65,7 @@ export default function page() {
             title: "Custom FinTech App Development",
             desc:
               "Want a custom fintech app development? We craft bespoke apps that meet your specific business needs and user expectations, ensuring secure, seamless operations.",
-            icon: "/assets/images/icon/service-three-icon1.png",
+            icon: "/assets/images/icon/service-three-icon1.webp",
             bgClass: "bg-blue-100",
             color: "#dbeafe",
             link: "/service-details",
@@ -74,7 +74,7 @@ export default function page() {
             title: "FinTech Platform Development",
             desc:
               "Leverage our FinTech App Development services to create powerful, scalable FinTech platforms that boost efficiency and streamline finances.",
-            icon: "/assets/images/icon/service-three-icon2.png",
+            icon: "/assets/images/icon/service-three-icon2.webp",
             bgClass: "bg-green-100",
             color: "#dcfce7",
             link: "/service-details",
@@ -83,7 +83,7 @@ export default function page() {
             title: "FinTech App Consultation",
             desc:
               "Get expert advice on your app idea with our FinTech App Consultation and ensure your project is on the right track from start to finish.",
-            icon: "/assets/images/icon/service-three-icon3.png",
+            icon: "/assets/images/icon/service-three-icon3.webp",
             bgClass: "bg-orange-100",
             color: "#ffedd5",
             link: "/service-details",
@@ -92,7 +92,7 @@ export default function page() {
             title: "FinTech App UI/UX Design",
             desc:
               "With our UI/UX design services, we offer an eye-captivating and intuitive interface that makes your FinTech app both functional and enjoyable.",
-            icon: "/assets/images/icon/service-three-icon1.png",
+            icon: "/assets/images/icon/service-three-icon1.webp",
             bgClass: "bg-purple-100",
             color: "#f3e0fe",
             link: "/service-details",
@@ -101,7 +101,7 @@ export default function page() {
             title: "FinTech App Maintenance & Support",
             desc:
               "Stay ahead of the curve with our ongoing maintenance services, keeping your FinTech app secure, up-to-date, and aligned with market trends.",
-            icon: "/assets/images/icon/service-three-icon2.png",
+            icon: "/assets/images/icon/service-three-icon2.webp",
             bgClass: "bg-yellow-100",
             color: "#fff7c7",
             link: "/service-details",
@@ -110,7 +110,7 @@ export default function page() {
             title: "FinTech API Integration Support",
             desc:
               "We integrate powerful APIs to enhance your FinTech app's capabilities, enabling smooth data exchange and seamless connectivity with an external system.",
-            icon: "/assets/images/icon/service-three-icon3.png",
+            icon: "/assets/images/icon/service-three-icon3.webp",
             bgClass: "bg-pink-100",
             color: "#fef2e6",
             link: "/service-details",
@@ -126,7 +126,7 @@ export default function page() {
       title: "Chime App Clone",
       desc:
         "Create a seamless digital banking experience with a custom Chime Clone App for proper account management & safe transactions.",
-      icon: "/assets/images/icon/service-three-icon1.png",
+      icon: "/assets/images/icon/service-three-icon1.webp",
       bgClass: "bg-blue-100",
       color: "#dbeafe",
       link: "/service-details",
@@ -135,7 +135,7 @@ export default function page() {
       title: "Robinhood App Clone",
       desc:
         "Launch a successful Robinhood clone with us and offer users seamless investing options & real-time market insights.",
-      icon: "/assets/images/icon/service-three-icon2.png",
+      icon: "/assets/images/icon/service-three-icon2.webp",
       bgClass: "bg-green-100",
       color: "#dcfce7",
       link: "/service-details",
@@ -144,7 +144,7 @@ export default function page() {
       title: "MoneyLion App Clone",
       desc:
         "Build a MoneyLion clone solution that combines features of saving, lending, and investing with a powerful all-in-one financial management app.",
-      icon: "/assets/images/icon/service-three-icon3.png",
+      icon: "/assets/images/icon/service-three-icon3.webp",
       bgClass: "bg-orange-100",
       color: "#ffedd5",
       link: "/service-details",
@@ -153,7 +153,7 @@ export default function page() {
       title: "Venmo App Clone",
       desc:
         "Launch a Venmo App Clone to facilitate seamless peer-to-peer payments, offering secure transactions and instant transfers.",
-      icon: "/assets/images/icon/service-three-icon4.png",
+      icon: "/assets/images/icon/service-three-icon4.webp",
       bgClass: "bg-yellow-100",
       color: "#fffae6",
       link: "/service-details",
@@ -162,7 +162,7 @@ export default function page() {
       title: "EarnIn App Clone",
       desc:
         "Provide users with on-demand access to their earned wages by developing an innovative EarnIn clone for financial flexibility.",
-      icon: "/assets/images/icon/service-three-icon5.png",
+      icon: "/assets/images/icon/service-three-icon5.webp",
       bgClass: "bg-purple-100",
       color: "#f3e0fe",
       link: "/service-details",
@@ -171,7 +171,7 @@ export default function page() {
       title: "Cash App Clone",
       desc:
         "Develop a versatile Cash App Clone, enabling money transfers and investments to users with a highly functional payment solution.",
-      icon: "/assets/images/icon/service-three-icon6.png",
+      icon: "/assets/images/icon/service-three-icon6.webp",
       bgClass: "bg-pink-100",
       color: "#f9e2f2",
       link: "/service-details",
@@ -186,7 +186,7 @@ export default function page() {
             title: "User Registration & Profile Management",
             description:
               "Allow users to seamlessly register and manage user profiles with secure login options and personal data storage.",
-            icon: "/assets/images/icon/service-icon1.png",
+            icon: "/assets/images/icon/service-icon1.webp",
             bgClass: "bg1",
             color: "#e6f8f0",
             link: "/service-details",
@@ -195,7 +195,7 @@ export default function page() {
             title: "Payment Gateway Integration",
             description:
               "Enable easy, secure payment processing with integration to popular gateways like PayPal & Stripe to allow users to make payments the way they like.",
-            icon: "/assets/images/icon/service-icon2.png",
+            icon: "/assets/images/icon/service-icon2.webp",
             bgClass: "bg2",
             color: "#e6f7fd",
             link: "/service-details",
@@ -204,7 +204,7 @@ export default function page() {
             title: "Real-time Notification",
             description:
               "Send real-time alerts for transactions, account activity, or promotional offers to keep users informed and bring them back on the app.",
-            icon: "/assets/images/icon/service-icon3.png",
+            icon: "/assets/images/icon/service-icon3.webp",
             bgClass: "bg3",
             color: "#fdeef2",
             link: "/service-details",
@@ -213,7 +213,7 @@ export default function page() {
             title: "Transaction History",
             description:
               "Enable users to view their transaction history, balances, and detailed transaction records for better tracking of their finances.",
-            icon: "/assets/images/icon/service-icon4.png",
+            icon: "/assets/images/icon/service-icon4.webp",
             bgClass: "bg4",
             color: "#f3f0ff",
             link: "/service-details",
@@ -222,7 +222,7 @@ export default function page() {
             title: "Fund Transfers",
             description:
               "We offer an easy & quick way to transfer between users or external accounts with a secure and efficient transaction system.",
-            icon: "/assets/images/icon/service-icon5.png",
+            icon: "/assets/images/icon/service-icon5.webp",
             bgClass: "bg5",
             color: "#fff5e6",
             link: "/service-details",
@@ -231,7 +231,7 @@ export default function page() {
             title: "Budgeting Tools",
             description:
               "Provide users with budgeting features that help track expenses, set limits, and manage finances effectively.",
-            icon: "/assets/images/icon/service-icon6.png",
+            icon: "/assets/images/icon/service-icon6.webp",
             bgClass: "bg6",
             color: "#e9f8fe",
             link: "/service-details",

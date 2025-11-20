@@ -49,7 +49,7 @@ export default function Footer() {
                     <div>
                         <div className='mb-5'>
                             <Link href="/">
-                                <Image src="/assets/images/logo/onepixel-logo.png" alt="OnePixelSoft Logo" className="p-3 bg-white  rounded-md" width={200} height={60} loading="lazy" />
+                                <Image src="/assets/images/logo/onepixel-logo.webp" alt="OnePixelSoft Logo" className="p-3 bg-white  rounded-md" width={200} height={60} loading="lazy" />
                             </Link>
                         </div>
 

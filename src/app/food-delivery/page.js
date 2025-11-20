@@ -19,7 +19,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Your Go-To Partner for Scalable Food Delivery Platforms",
                 desc: ["At Onepixel Soft, we are a top food delivery app development firm dedicated to creating high-performance mobile and web applications for the F&B sector. Our food delivery app development expertise guarantees that your platform is secure, fast, and easy to use—ideal for restaurants, cloud kitchens, and aggregators alike.", "From ready-to-go food delivery site development to end-to-end personalized on-demand delivery app development, we turn your vision into highly scalable digital products that bring more customers and increase more orders."],
-                img1: "/assets/images/solution/flowerdelivery.png"
+                img1: "/assets/images/solution/flowerdelivery.webp"
             }} />
             <OurSolutionsDevlopment devlopmentData={{
                 heading: "Complete Range of Food Delivery App Development Solutions by OnepixelSoft",
@@ -27,28 +27,28 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/feature-three-icon1.png",
+                        icon: "/assets/images/icon/feature-three-icon1.webp",
                         title: "Customer App Development",
                         desc:
                             "Feature-rich, user-friendly apps for customers to browse menus, place orders, track deliveries, and make secure payments.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/feature-three-icon2.png",
+                        icon: "/assets/images/icon/feature-three-icon2.webp",
                         title: "Restaurant Panel Development",
                         desc:
                             "A powerful dashboard for restaurants to manage menus, orders, availability, and delivery status in real time.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/feature-three-icon3.png",
+                        icon: "/assets/images/icon/feature-three-icon3.webp",
                         title: "Delivery Partner App",
                         desc:
                             "A dedicated app for delivery agents with order details, navigation support, and real-time status updates.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/feature-three-icon4.png",
+                        icon: "/assets/images/icon/feature-three-icon4.webp",
                         title: "Admin Panel & Analytics",
                         desc:
                             "A centralized control panel for managing users, vendors, orders, promotions, and analyzing business performance.",
@@ -64,7 +64,7 @@ export default function page() {
                         title: "Uber Eats Clone App",
                         desc:
                             "An app like UberEats can transform your business operations by helping you deliver food, promote services through various in-app features, and monitor their progress.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -73,7 +73,7 @@ export default function page() {
                         title: "Zomato Clone App",
                         desc:
                             "A Zomato clone app enables restaurants, hotels, and other food businesses to grow their customer base through the app, offering an easy and convenient way for users to order their desired meals.",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -82,7 +82,7 @@ export default function page() {
                         title: "Domino’s Clone App",
                         desc:
                             "In today’s competitive landscape, an app like Domino’s is a game-changer for restaurant chain owners, allowing them to manage their entire business from a single platform and oversee everything virtually.",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -94,32 +94,32 @@ export default function page() {
                 desc: "We at Onepixel Soft have a goal-oriented laundry app development process specifically designed to your business model—single-store, aggregator, or franchise-based. Our process starts with intensive research and requirement gathering, followed by UI/UX design, solid backend development, and third-party API integrations such as payment gateways and location tracking.",
                 cards: [
                     {
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "AI-Powered Recommendations",
                         desc: "Personalized food suggestions based on user preferences, order history, and trending items to boost engagement."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "Real-Time GPS Tracking",
                         desc: "Live tracking for customers and delivery partners ensures transparency and timely deliveries."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Smart Order Management System",
                         desc: "Automates order flow, kitchen notifications, and status updates for seamless operations."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "Chatbot & In-App Support",
                         desc: "AI-driven chatbots assist with common queries, update issues, and enhance customer service 24/7."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Voice Search Integration",
                         desc: "Allows users to search for dishes or restaurants using voice commands for a hands-free experience."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Advanced Analytics Dashboard",
                         desc: "Provides real-time insights into sales, user behavior, and delivery performance for data-driven decisions."
                     }
@@ -134,7 +134,7 @@ export default function page() {
                         title: "Registration",
                         description:
                             "Users can easily register and sign in to the app by providing their email or phone number. They can also log in using their social media accounts.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details",
@@ -143,7 +143,7 @@ export default function page() {
                         title: "Search Food/Restaurant",
                         description:
                             "Users can search for their favorite food or restaurants using the search feature, and refine the results with various available filters.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f6fd",
                         link: "/service-details",
@@ -152,7 +152,7 @@ export default function page() {
                         title: "Order Placing/Scheduling",
                         description:
                             "Customers can place an order for selected food items to be delivered immediately or schedule it for a later time.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#fde6eb",
                         link: "/service-details",
@@ -161,7 +161,7 @@ export default function page() {
                         title: "Coupon Management",
                         description:
                             "Customers can browse available discount coupons and codes and apply them based on their eligibility.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f3edff",
                         link: "/service-details",
@@ -170,7 +170,7 @@ export default function page() {
                         title: "Multiple Payment Options",
                         description:
                             "Users can choose from various payment options for their convenience and complete payments for their orders.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff4e6",
                         link: "/service-details",
@@ -179,7 +179,7 @@ export default function page() {
                         title: "Ratings & Reviews",
                         description:
                             "This feature allows customers to rate and review the restaurant, delivery agent, and overall experience related to their order.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#f3f3f3",
                         link: "/service-details",
@@ -188,7 +188,7 @@ export default function page() {
                         title: "Order Tracking",
                         description:
                             "Customers can track their order in real-time, from the order status to the live location of the delivery driver.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details",
@@ -197,7 +197,7 @@ export default function page() {
                         title: "In-App Chat Support",
                         description:
                             "Customers can contact the relevant restaurant or delivery person via SMS or call to resolve updates on their order status.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f6fd",
                         link: "/service-details",

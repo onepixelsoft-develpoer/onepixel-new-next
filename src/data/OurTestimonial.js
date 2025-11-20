@@ -6,7 +6,7 @@ export const OurTestimonialdata =[
     "company": {
       "name": "Kushal Bhardwaj",
       "role": "CEO, Samyak Civil Services",
-      "image": "/assets/images/testimonial/user1.png"
+      "image": "/assets/images/testimonial/user1.webp"
     }
   },
   {
@@ -16,7 +16,7 @@ export const OurTestimonialdata =[
     "company": {
       "name": "Subhash Charan",
       "role": "CEO, Dhurina",
-      "image": "/assets/images/testimonial/user1.png"
+      "image": "/assets/images/testimonial/user1.webp"
     }
   },
   {
@@ -26,7 +26,7 @@ export const OurTestimonialdata =[
     "company": {
       "name": "Mr. Sumeet Chandak",
       "role": "CEO, RBD Publication",
-      "image": "/assets/images/testimonial/user1.png"
+      "image": "/assets/images/testimonial/user1.webp"
     }
   },
   {
@@ -36,7 +36,7 @@ export const OurTestimonialdata =[
     "company": {
       "name": "Mr. Vikash Beniwal",
       "role": "CEO, Infusion",
-      "image": "/assets/images/testimonial/user1.png"
+      "image": "/assets/images/testimonial/user1.webp"
     }
   },
   {
@@ -46,7 +46,7 @@ export const OurTestimonialdata =[
     "company": {
       "name": "Mr. Rohit Manglani",
       "role": "CEO, Waka Fast",
-      "image": "/assets/images/testimonial/user1.png"
+      "image": "/assets/images/testimonial/user1.webp"
     }
   }
 ]

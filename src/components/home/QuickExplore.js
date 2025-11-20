@@ -44,20 +44,20 @@ export default function QuickExplore() {
                         className="w-full flex justify-center items-center h-full "
                     >
                         <SwiperSlide className="p-6 lg:flex-row flex-col">
-                            <Image  src="/assets/images/icon/link(1).png" width={128} height={128} loading="lazy" alt="link" />
+                            <Image  src="/assets/images/icon/link(1).webp" width={128} height={128} loading="lazy" alt="link" />
                         </SwiperSlide>
                         <SwiperSlide className="p-6 lg:flex-row flex-col">
-                            <Image  src="/assets/images/icon/web-design.png" width={128} height={128} loading="lazy" alt="design" />
+                            <Image  src="/assets/images/icon/web-design.webp" width={128} height={128} loading="lazy" alt="design" />
                         </SwiperSlide>
                         <SwiperSlide className="p-6 lg:flex-row flex-col">
-                            <Image  src="/assets/images/icon/social-media.png" width={128} height={128} loading="lazy" alt="design" />
+                            <Image  src="/assets/images/icon/social-media.webp" width={128} height={128} loading="lazy" alt="design" />
                         </SwiperSlide>
                         <SwiperSlide className="p-6 lg:flex-row flex-col">
-                            <Image  src="/assets/images/icon/ecommerce.png" width={128} height={128} loading="lazy" alt="design" />
+                            <Image  src="/assets/images/icon/ecommerce.webp" width={128} height={128} loading="lazy" alt="design" />
                         </SwiperSlide>
 
                         <SwiperSlide className="p-6 lg:flex-row flex-col">
-                            <Image  src="/assets/images/icon/success.png" width={128} height={128} loading="lazy" alt="design" />
+                            <Image  src="/assets/images/icon/success.webp" width={128} height={128} loading="lazy" alt="design" />
                         </SwiperSlide>
                     </Swiper>
                 </div>

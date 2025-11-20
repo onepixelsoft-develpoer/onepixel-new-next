@@ -21,7 +21,7 @@ export const metadata = {
     siteName: "OnePixelSoft",
     images: [
       {
-        url: "https://onepixelsoft.com/images/logo.png",
+        url: "https://onepixelsoft.com/images/logo.webp",
         width: 800,
         height: 600,
       },
@@ -34,7 +34,7 @@ export const metadata = {
     title: "Twitter Title",
     description: "Twitter Description",
     creator: "@OnePixelSoft",
-    images: ["https://onepixelsoft.com/images/logo.png"],
+    images: ["https://onepixelsoft.com/images/logo.webp"],
   },
 };
 

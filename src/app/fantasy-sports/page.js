@@ -30,7 +30,7 @@ export default function page() {
                         title: "Ignoring Scalability",
                         desc:
                             "Many overlook scalability in fantasy sports platform development, leading to crashes during high traffic. Always plan for a growing user base with robust infrastructure and advanced technology.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -39,7 +39,7 @@ export default function page() {
                         title: "Poor UI/UX Design",
                         desc:
                             "A cluttered or confusing design can ruin user engagement. Ensure your fantasy sports mobile application has a clean, intuitive interface that offers seamless navigation and an engaging experience.",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -48,7 +48,7 @@ export default function page() {
                         title: "Lack of Real-Time Updates",
                         desc:
                             "Real-time data is crucial for fantasy sports software. Apps without live scores or updates lose users. Integrate reliable APIs to provide real-time stats and an immersive experience. ",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -61,37 +61,37 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "ESPN App Clone",
                         desc: "Our ESPN Fantasy Sports clone app development solutions offer a similar immersive experience, allowing users to draft, trade, and compete across multiple sports leagues."
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "FanDuel App Clone",
                         desc: "With real-money contests and a robust interface, our FanDuel clone is ideal for startups seeking user confidence and global engagement."
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Draft Kings App Clone",
                         desc: "We build DraftKings-inspired apps with integrated wallet systems, intuitive UI/UX, and features that mirror the most successful fantasy sports apps."
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "SuperDraft App Clone",
                         desc: "Fantasy gaming gets an edge with our SuperDraft app clone. We integrate draft modes, loyalty systems, and seamless score-tracking."
                     },
                     {
                         id: 5,
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "CBS Sports App Clone",
                         desc: "Our CBS Sports app clone offers multi-sport compatibility, cross-platform support, and scalable architecture for fantasy sports leagues."
                     },
                     {
                         id: 6,
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Yahoo Sports App Clone",
                         desc: "Build a feature-rich fantasy app modeled after Yahoo Sports with team management, live stats, and real-time match updates."
                     }
@@ -104,7 +104,7 @@ export default function page() {
                     {
                         title: "Custom Fantasy Sports App Development",
                         description: "We create bespoke fantasy sports applications tailored to your business needs, delivering feature-rich apps with custom scoring systems, live stats, and game modes.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -112,7 +112,7 @@ export default function page() {
                     {
                         title: "iOS Fantasy Sports App Development",
                         description: "Harness the power of native iOS app development to build immersive fantasy sports platforms using Apple’s latest frameworks and design standards.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#f0f6ff",
                         link: "/service-details"
@@ -120,7 +120,7 @@ export default function page() {
                     {
                         title: "Android Fantasy Sports App Development",
                         description: "We design feature-loaded Android fantasy sports apps with scalable architecture, push notifications, and real-time data integration.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#fff3f3",
                         link: "/service-details"
@@ -128,7 +128,7 @@ export default function page() {
                     {
                         title: "Cross-Platform Fantasy App Development",
                         description: "Use one codebase for iOS, Android, and web, streamlining your fantasy sports app delivery with cost-efficient cross-platform development.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f6f0ff",
                         link: "/service-details"
@@ -136,7 +136,7 @@ export default function page() {
                     {
                         title: "Fantasy Sports App Maintenance",
                         description: "Our app maintenance services ensure long-term success by resolving bugs, updating features, and offering server-side support for your fantasy sports platform.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fefbe5",
                         link: "/service-details"
@@ -144,7 +144,7 @@ export default function page() {
                     {
                         title: "Fantasy Sports App Design Services",
                         description: "We design high-performing, intuitive fantasy sports apps with UI/UX that matches the excitement and energy of live sports.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#e7fcff",
                         link: "/service-details"

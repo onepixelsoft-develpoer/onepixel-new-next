@@ -42,7 +42,7 @@ export default function page() {
                     title: "On-Page & Off-Page SEO",
                     description:
                         "Boost your website’s visibility and rankings.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#e6f8f0",
                     link: "/service-details",
@@ -51,7 +51,7 @@ export default function page() {
                     title: "Local SEO Optimization",
                     description:
                         "Attract customers from your target location.",
-                    icon: "/assets/images/icon/service-icon2.png",
+                    icon: "/assets/images/icon/service-icon2.webp",
                     bgClass: "bg-yellow-100",
                     color: "#f3f3f3",
                     link: "/service-details",
@@ -60,7 +60,7 @@ export default function page() {
                     title: "Keyword Research & Content Strategy",
                     description:
                         "Drive relevant traffic with strategic content.",
-                    icon: "/assets/images/icon/service-icon3.png",
+                    icon: "/assets/images/icon/service-icon3.webp",
                     bgClass: "bg-yellow-100",
                     color: "#f3edff",
                     link: "/service-details",
@@ -69,7 +69,7 @@ export default function page() {
                     title: "Facebook, LinkedIn, Instagram Campaigns",
                     description:
                         "Engage your audience across top social platforms.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#fde6eb",
                     link: "/service-details",
@@ -78,7 +78,7 @@ export default function page() {
                     title: "Analytics & Monthly Reporting",
                     description:
                         "Track performance and measure ROI.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#fde6eb",
                     link: "/service-details",

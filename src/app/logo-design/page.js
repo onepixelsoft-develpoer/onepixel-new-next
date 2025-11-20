@@ -26,7 +26,7 @@ export default function page() {
                     title: "Corporate Logo Design",
                     description:
                         "Professional logos that define your brand.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#e6f8f0",
                     link: "/service-details",
@@ -35,7 +35,7 @@ export default function page() {
                     title: "Minimal & Modern Logos",
                     description:
                         "Sleek, contemporary designs for a clean look.",
-                    icon: "/assets/images/icon/service-icon2.png",
+                    icon: "/assets/images/icon/service-icon2.webp",
                     bgClass: "bg-yellow-100",
                     color: "#f3f3f3",
                     link: "/service-details",
@@ -44,7 +44,7 @@ export default function page() {
                     title: "Typography-Based Logos",
                     description:
                         "Creative wordmarks that stand out.",
-                    icon: "/assets/images/icon/service-icon3.png",
+                    icon: "/assets/images/icon/service-icon3.webp",
                     bgClass: "bg-yellow-100",
                     color: "#f3edff",
                     link: "/service-details",
@@ -53,7 +53,7 @@ export default function page() {
                     title: "Iconic & Symbolic Logos",
                     description:
                         "Memorable symbols that capture your brand essence.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#fde6eb",
                     link: "/service-details",
@@ -62,7 +62,7 @@ export default function page() {
                     title: "Rebranding & Redesign Services",
                     description:
                         "Refresh your brand identity with style.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#fde6eb",
                     link: "/service-details",

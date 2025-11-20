@@ -25,32 +25,32 @@ export default function page() {
                 desc: "We offer a wide range of on-demand app development services, ensuring innovative and scalable solutions tailored to your business goals.",
                 cards: [
                     {
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Custom On-Demand App Development",
                         desc: "Explore new opportunities with our bespoke on-demand app development services. We build custom apps tailored to your unique business model, ensuring smooth integration, scalability, and user experience for sustainable long-term growth.",
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "On-Demand App Consultation",
                         desc: "Start your journey to success with our expert on-demand app consultation services. We’ll guide you every step of the way, from validating your idea to planning the roadmap for your app’s development and deployment.",
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Android On-Demand App Development",
                         desc: "Expand your reach with our specialized Android on-demand app development services. We create high-performance apps that provide seamless user experiences on Android devices, offering enhanced functionality and access.",
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "iOS On-Demand App Development",
                         desc: "Boost your presence on iOS with our custom on-demand app development services. We design apps for iPhones, ensuring easy navigation, seamless functionality, and a premium user experience that drives business success.",
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "On-Demand Web App Development",
                         desc: "Develop your digital presence with cutting-edge on-demand web app solutions. We create functional, scalable apps for your business, providing essential services, including web-based order management and real-time tracking for customers.",
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "On-Demand App Support & Maintenance",
                         desc: "Ensure your app performs at its best with our on-demand app support and maintenance services. We manage and monitor your app's performance, ensuring it remains optimized, secure, and up-to-date with ongoing fixes and improvements.",
                     },
@@ -64,7 +64,7 @@ export default function page() {
                         title: "Tailored Solutions",
                         description:
                             "We specialize in custom on-demand app development, crafting apps tailored to meet your specific business goals and audience needs. Our approach allows you to grow your business and deliver tailored services that exceed customer expectations.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details",
@@ -73,7 +73,7 @@ export default function page() {
                         title: "Experienced Developers",
                         description:
                             "Our experienced on-demand app developers have a strong history of creating high-quality apps for various industries. They grasp the unique aspects of your business and deliver apps that go beyond expectations.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f7fd",
                         link: "/service-details",
@@ -82,7 +82,7 @@ export default function page() {
                         title: "End-to-End Services",
                         description:
                             "From project initiation to completion, we offer end-to-end on-demand app services, including app design, development, and post-launch support, ensuring a seamless, hassle-free process from start to finish.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#fdeef2",
                         link: "/service-details",
@@ -91,7 +91,7 @@ export default function page() {
                         title: "Cost-Effective Pricing",
                         description:
                             "Onepixel Soft provides cost-effective pricing models for on-demand app development. We focus on delivering value-driven services without compromising on functionality or performance.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f3f0ff",
                         link: "/service-details",
@@ -100,7 +100,7 @@ export default function page() {
                         title: "Cutting-Edge Technology",
                         description:
                             "We leverage the latest frameworks, tools, and technologies for on-demand app development to ensure that your app is scalable, future-proof, and delivers exceptional performance for your users.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff5e6",
                         link: "/service-details",
@@ -109,7 +109,7 @@ export default function page() {
                         title: "Ongoing Support",
                         description:
                             "Our dedicated team offers app support and maintenance services to ensure your app continues to run smoothly post-launch, with regular updates and optimizations as your business grows.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#e9f8fe",
                         link: "/service-details",

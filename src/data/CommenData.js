@@ -6,7 +6,7 @@ export  const innovativeData = [
         count: "800",
         delay: "200ms",
         duration: "`1500ms",
-        icon: '/assets/images/icon/svgviewer-png-output (1).png'
+        icon: '/assets/images/icon/svgviewer-png-output (1).webp'
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ export  const innovativeData = [
         count: "100",
         delay: "300ms",
         duration: "`1500ms",
-        icon: '/assets/images/icon/svgviewer-png-output (2).png'
+        icon: '/assets/images/icon/svgviewer-png-output (2).webp'
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ export  const innovativeData = [
         count: "10",
         delay: "400ms",
         duration: "`1500ms",
-        icon: '/assets/images/icon/svgviewer-png-output (3).png'
+        icon: '/assets/images/icon/svgviewer-png-output (3).webp'
     },
     {
         id: 4,
@@ -33,7 +33,7 @@ export  const innovativeData = [
         count: "60",
         delay: "500ms",
         duration: "`1500ms",
-        icon:'/assets/images/icon/svgviewer-png-output (4).png'
+        icon:'/assets/images/icon/svgviewer-png-output (4).webp'
 
     },
 ]

@@ -25,7 +25,7 @@ export default function page() {
           title: "Campaign Creation & Management",
           description:
             "Easily launch, customize, and manage donation or fundraising campaigns with powerful built-in tools.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -34,7 +34,7 @@ export default function page() {
           title: "Payment Gateway Integration",
           description:
             "Accept secure donations through multiple gateways like Stripe, PayPal, or Razorpay for global reach.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -43,7 +43,7 @@ export default function page() {
           title: "Donor Dashboard & Analytics",
           description:
             "Provide donors with transparent dashboards and track campaign performance using real-time analytics.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -52,7 +52,7 @@ export default function page() {
           title: "Multi-Currency & Wallet System",
           description:
             "Enable global donations with support for multiple currencies and in-app wallet functionality.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -61,7 +61,7 @@ export default function page() {
           title: "Admin Panel for Monitoring",
           description:
             "Manage users, campaigns, and transactions from a centralized admin dashboard for full control and insights.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

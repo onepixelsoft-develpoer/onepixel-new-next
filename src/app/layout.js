@@ -25,7 +25,7 @@ export const metadata = {
     siteName: "OnePixel Soft",
     images: [
       {
-        url: "https://yourwebsite.com/og-image.jpg",
+        url: "https://yourwebsite.com/og-image.webp",
         width: 1200,
         height: 630,
       },
@@ -39,7 +39,7 @@ export const metadata = {
     title: "Top IT & Software Company in Jaipur – OnePixel Soft",
     description:
       "OnePixel Soft Pvt. Ltd. – Software & IT Development Company in Jaipur.",
-    images: ["https://yourwebsite.com/og-image.jpg"],
+    images: ["https://yourwebsite.com/og-image.webp"],
   },
 };
 

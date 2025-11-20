@@ -19,7 +19,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Innovative Mobile and Web Apps for the Travel Industry",
                 desc: ["We, at Onepixel Soft, offer bespoke travel app development that transforms the way travel agencies, tour operators, and online platforms engage with their users. Being one of the top travel app development companies, we create simple yet powerful mobile and web apps with real-time booking, itinerary creation, geo-location, and payment gateway support—enabling you to create unforgettable digital travel experiences."],
-                img1: "/assets/images/solution/tt1.png"
+                img1: "/assets/images/solution/tt1.webp"
             }} />
             <OurSolutionsDevlopment devlopmentData={{
                 heading: "Errors to be avoided in travel app development",
@@ -27,28 +27,28 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/feature-three-icon1.png",
+                        icon: "/assets/images/icon/feature-three-icon1.webp",
                         title: "Lack of Offline Functionality",
                         desc:
                             "Many travelers face poor connectivity; apps should offer offline access to bookings, maps, and itineraries.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/feature-three-icon2.png",
+                        icon: "/assets/images/icon/feature-three-icon2.webp",
                         title: "Poor Navigation & Overloaded UI",
                         desc:
                             "A cluttered or confusing interface frustrates users—simplicity and intuitive flow are essential.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/feature-three-icon3.png",
+                        icon: "/assets/images/icon/feature-three-icon3.webp",
                         title: "Inaccurate or Outdated Information",
                         desc:
                             "Displaying wrong prices, availability, or locations damages credibility—ensure real-time data integration.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/feature-three-icon4.png",
+                        icon: "/assets/images/icon/feature-three-icon4.webp",
                         title: "Ignoring Localization & Currency Options",
                         desc:
                             "Failing to support multiple languages and currencies can limit your global user base and conversion rate.",
@@ -64,7 +64,7 @@ export default function page() {
                         title: "Airbnb App Clone",
                         desc:
                             "Launch your own platform like Airbnb with our custom travel app development that simplifies property listings and booking processes.",
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         bgClass: "bg-pink-100",
                         color: "#fde2e4",
                         link: "/service-details",
@@ -73,7 +73,7 @@ export default function page() {
                         title: "TripIt App Clone",
                         desc:
                             "Our travel planner app development recreates TripIt’s features, ensuring seamless trip organization and itinerary management for travelers.",
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -82,7 +82,7 @@ export default function page() {
                         title: "Tripadvisor App Clone",
                         desc:
                             "Develop an engaging app like Tripadvisor with our travel mobile app development for reviews, recommendations, and travel guides.",
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         bgClass: "bg-teal-100",
                         color: "#ccfbf1",
                         link: "/service-details",
@@ -91,7 +91,7 @@ export default function page() {
                         title: "Expedia App Clone",
                         desc:
                             "Get a feature-rich travel booking app development solution inspired by Expedia for easy reservations and travel planning.",
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -100,7 +100,7 @@ export default function page() {
                         title: "KAYAK App Clone",
                         desc:
                             "Build a powerful travel management app development solution, offering flight, hotel, and rental car comparisons like KAYAK.",
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         bgClass: "bg-pink-100",
                         color: "#fde2e4",
                         link: "/service-details",
@@ -109,7 +109,7 @@ export default function page() {
                         title: "Hopper App Clone",
                         desc:
                             "Revolutionize travel with a Hopper-like travel app development service, featuring predictive travel trends and cost-saving recommendations.",
-                        icon: "/assets/images/icon/service-three-icon7.png",
+                        icon: "/assets/images/icon/service-three-icon7.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -124,7 +124,7 @@ export default function page() {
                         title: "Custom Travel App Development",
                         description:
                             "Our custom travel app development services are centered around creating personalized solutions for travel businesses, boosting efficiency and improving user engagement.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details",
@@ -133,7 +133,7 @@ export default function page() {
                         title: "Android Travel App Development",
                         description:
                             "We specialize in Android travel app development, creating powerful and user-friendly apps tailored to meet the unique travel needs of Android users.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f7fd",
                         link: "/service-details",
@@ -142,7 +142,7 @@ export default function page() {
                         title: "iOS Travel App Development",
                         description:
                             "Our skilled team provides smooth iOS travel app development, designing intuitive apps for Apple devices with exceptional performance.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#fdeef2",
                         link: "/service-details",
@@ -151,7 +151,7 @@ export default function page() {
                         title: "Cross-platform Travel App Development",
                         description:
                             "We offer cross-platform travel app development to ensure consistent experiences across Android, iOS, and other platforms efficiently.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f3f0ff",
                         link: "/service-details",
@@ -160,7 +160,7 @@ export default function page() {
                         title: "Travel App Designing",
                         description:
                             "Our travel app design and development ensures visually appealing, user-centric interfaces that enhance usability and engagement.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff5e6",
                         link: "/service-details",
@@ -169,7 +169,7 @@ export default function page() {
                         title: "Travel App Maintenance & Support",
                         description:
                             "Our reliable travel app maintenance and support services keep your app running smoothly, updated, and secure at all times.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#e9f8fe",
                         link: "/service-details",
@@ -179,7 +179,7 @@ export default function page() {
             <OurSoultionBannner data={{
                 heading: "Ready to Revolutionize Your Travel Business with Onepixel Soft?",
                 desc: "Let’s create a seamless and innovative travel app tailored for your success.",
-                img1: "/assets/images/solution/tt.png"
+                img1: "/assets/images/solution/tt.webp"
             }} />
 
             <FeqSection />

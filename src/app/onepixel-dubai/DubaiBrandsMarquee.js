@@ -7,14 +7,14 @@ import Image from "next/image";
 
 export default function DubaiBrandsMarquee() {
   const brands = [
-    "CARID.png",
-    "drive carma.png",
-    "R B D.png",
-    "My ACE Bazar.png",
-    "selfcare.png",
-    "Youth Pathshala.png",
-    "Teach Mantra.png",
-    "Samyak IAS.png",
+    "CARID.webp",
+    "drive carma.webp",
+    "R B D.webp",
+    "My ACE Bazar.webp",
+    "selfcare.webp",
+    "Youth Pathshala.webp",
+    "Teach Mantra.webp",
+    "Samyak IAS.webp",
   ];
 
   return (

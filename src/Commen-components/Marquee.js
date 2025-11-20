@@ -15,19 +15,19 @@ export default function MarqueeSection({exClass}) {
           >
 
             <Link href="#" className='xl:mx-10'>Web development</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
             <Link href="#" className='xl:mx-10'>graphic design</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
             <Link href="#" className='xl:mx-10'>Product design</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
             <Link href="#" className='xl:mx-10'>UI/UXdesign</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
 
             <Link href="#" className='xl:mx-10'>Brand identity</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
 
             <Link href="#" className='xl:mx-10'>Content creation</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
 
           </Marquee>
         </div>
@@ -39,19 +39,19 @@ export default function MarqueeSection({exClass}) {
             autoFill={true}
           >
             <Link href="#" className='xl:mx-10'>Web development</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
             <Link href="#" className='xl:mx-10'>graphic design</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
             <Link href="#" className='xl:mx-10'>Product design</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
             <Link href="#" className='xl:mx-10'>UI/UXdesign</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
 
             <Link href="#" className='xl:mx-10'>Brand identity</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
 
             <Link href="#" className='xl:mx-10'>Content creation</Link>
-            <Image src="/assets/images/shape/svgviewer-png-output.png" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
+            <Image src="/assets/images/shape/svgviewer-png-output.webp" width={30} height={10} loading="lazy" alt="line" className='mx-5 object-contain' />
           </Marquee>
         </div>
       </div>  )

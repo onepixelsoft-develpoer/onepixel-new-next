@@ -23,7 +23,7 @@ export default function page() {
           title: "Invoice & Receipt Management",
           description:
             "Create, send, and track professional invoices and receipts with automated numbering and status updates.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -32,7 +32,7 @@ export default function page() {
           title: "GST / Tax Calculation",
           description:
             "Automatically calculate GST and other applicable taxes to ensure accurate billing and compliance.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -41,7 +41,7 @@ export default function page() {
           title: "Client Dashboard",
           description:
             "Provide clients with a personalized dashboard to view invoices, payments, and transaction history.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -50,7 +50,7 @@ export default function page() {
           title: "Payment Integration (UPI, Card, Bank)",
           description:
             "Accept secure payments through multiple channels including UPI, credit/debit cards, and direct bank transfers.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -59,7 +59,7 @@ export default function page() {
           title: "Analytics & Reporting",
           description:
             "Monitor revenue, expenses, and payment trends with detailed reports and visual analytics.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

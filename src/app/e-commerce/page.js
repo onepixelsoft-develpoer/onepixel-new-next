@@ -32,7 +32,7 @@ export default function page() {
           title: "WooCommerce, Shopify & Magento Setup",
           description:
             "Build and customize powerful eCommerce stores on leading platforms to match your brand and business goals.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -41,7 +41,7 @@ export default function page() {
           title: "Payment Gateway Integration",
           description:
             "Seamlessly connect secure payment options like Stripe, PayPal, and Razorpay for a smooth checkout experience.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -50,7 +50,7 @@ export default function page() {
           title: "Product & Inventory Management",
           description:
             "Easily manage products, stock levels, and categories to keep your store organized and up to date.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -59,7 +59,7 @@ export default function page() {
           title: "SEO + Speed Optimization",
           description:
             "Boost visibility and conversions with optimized code, fast loading times, and on-page SEO best practices.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -68,7 +68,7 @@ export default function page() {
           title: "Custom Admin Dashboard",
           description:
             "Get a tailored admin panel for real-time control over products, orders, users, and analytics — all in one place.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

@@ -27,7 +27,7 @@ export default function page() {
           title: "Employee Management",
           description:
             "Easily manage employee records, roles, and departments in one centralized system.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -36,7 +36,7 @@ export default function page() {
           title: "Attendance & Leave Tracking",
           description:
             "Automate attendance logs, leave requests, and approvals to save time and improve accuracy.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -45,7 +45,7 @@ export default function page() {
           title: "Payroll Processing",
           description:
             "Generate error-free payroll with automatic salary calculations, tax deductions, and payslip generation.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -54,7 +54,7 @@ export default function page() {
           title: "Performance Evaluation",
           description:
             "Track goals, review performance, and provide actionable feedback to boost employee productivity.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -63,7 +63,7 @@ export default function page() {
           title: "Employee Self-Service Portal",
           description:
             "Empower employees to access their profiles, apply for leaves, and view payslips directly through their dashboard.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

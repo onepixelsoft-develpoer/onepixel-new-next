@@ -23,7 +23,7 @@ export default function page() {
           title: "Custom WordPress Theme & Plugin Development",
           description:
             "Build unique, high-performance themes and plugins tailored to your business needs, ensuring flexibility and full control over your website’s features.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -32,7 +32,7 @@ export default function page() {
           title: " WooCommerce & E-Commerce Integration",
           description:
             "Transform your site into a powerful online store with seamless WooCommerce setup, secure payments, and optimized product management.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -41,7 +41,7 @@ export default function page() {
           title: "Mobile Optimization & Performance Tuning",
           description:
             "Deliver a lightning-fast, mobile-friendly experience that boosts engagement and improves conversion rates across all devices.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -50,7 +50,7 @@ export default function page() {
           title: "Advanced SEO Setup & Schema Integration",
           description:
             "Implement advanced SEO practices with structured data and schema markup to enhance your website’s visibility on search engines.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -59,7 +59,7 @@ export default function page() {
           title: "Website Migration & Maintenance",
           description:
             "Enjoy smooth website transfers, regular updates, and ongoing maintenance to keep your WordPress site secure, stable, and up-to-date.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",

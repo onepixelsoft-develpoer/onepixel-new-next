@@ -70,7 +70,7 @@ export default function BlogesSection() {
                 <div className="blog__image relative w-full rounded-t-lg h-[250px] overflow-hidden">
                   <Link href={`/blog-details/${post.blog_name}`}>
                     <Image
-                      src="/assets/images/blog/1744806283.jpg"
+                      src="/assets/images/blog/1744806283.webp"
                       alt={post.blog_name || "Blog"}
                       fill
                       sizes="100%"

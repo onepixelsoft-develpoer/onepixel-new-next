@@ -16,16 +16,16 @@ export default function AboutBookArea() {
                 <div className="bg-linear-to-tr from-[#731212]  to-black rounded-t-xl shadow-lg px-8 py-12 xl:max-w-5xl w-full relative">
 
                     <div className="absolute top-20 left-20 w-10 h-10">
-                        <Image src="/assets/images/shape/book-star.png" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
+                        <Image src="/assets/images/shape/book-star.webp" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
                     </div>
                     <div className="absolute top-20 right-20 w-10 h-10">
-                        <Image src="/assets/images/shape/book-star.png" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
+                        <Image src="/assets/images/shape/book-star.webp" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
                     </div>
                     <div className="absolute bottom-[18%] left-[25%] w-10 h-10">
-                        <Image src="/assets/images/shape/book-btn-left.png" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
+                        <Image src="/assets/images/shape/book-btn-left.webp" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
                     </div>
                     <div className="absolute bottom-[20%] right-[25%] w-10 h-10">
-                        <Image src="/assets/images/shape/book-btn-right.png" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
+                        <Image src="/assets/images/shape/book-btn-right.webp" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
                     </div>
 
                     <div className='main-container flex flex-col items-center'>
@@ -34,7 +34,7 @@ export default function AboutBookArea() {
                             <span className="relative text-primary-600">
                                 Amazing
                                 <span className="absolute left-1/2 -bottom-1 w-24 h-2 -translate-x-1/2">
-                                    <Image src="/assets/images/shape/title-line-book.png" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
+                                    <Image src="/assets/images/shape/title-line-book.webp" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />
                                 </span>
                             </span>{' '}
                             Together!

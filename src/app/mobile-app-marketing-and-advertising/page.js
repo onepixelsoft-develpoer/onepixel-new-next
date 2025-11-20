@@ -24,7 +24,7 @@ export default function page() {
                     title: "Google & Apple Store Optimization",
                     description:
                         "Enhance app visibility on Play Store and App Store with optimized listings, keywords, and visuals.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#e6f8f0",
                     link: "/service-details",
@@ -33,7 +33,7 @@ export default function page() {
                     title: "Social Media Optimization (SMO)",
                     description:
                         "Optimize social profiles and content to increase engagement, followers, and brand awareness.",
-                    icon: "/assets/images/icon/service-icon2.png",
+                    icon: "/assets/images/icon/service-icon2.webp",
                     bgClass: "bg-yellow-100",
                     color: "#f3f3f3",
                     link: "/service-details",
@@ -42,7 +42,7 @@ export default function page() {
                     title: "Pay-Per-Click (PPC) Advertising",
                     description:
                         "Run targeted ad campaigns on Google, Facebook, and other platforms for instant traffic and leads.",
-                    icon: "/assets/images/icon/service-icon3.png",
+                    icon: "/assets/images/icon/service-icon3.webp",
                     bgClass: "bg-yellow-100",
                     color: "#f3edff",
                     link: "/service-details",
@@ -51,7 +51,7 @@ export default function page() {
                     title: "Content Creation & Marketing",
                     description:
                         "Craft compelling content — blogs, videos, graphics — to attract, engage, and convert your audience.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#fde6eb",
                     link: "/service-details",
@@ -60,7 +60,7 @@ export default function page() {
                     title: "Influencer & Performance Marketing",
                     description:
                         "Leverage influencers and performance-driven campaigns to boost conversions and ROI.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#fde6eb",
                     link: "/service-details",

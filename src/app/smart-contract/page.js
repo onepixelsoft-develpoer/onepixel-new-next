@@ -29,28 +29,28 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/feature-three-icon1.png",
+                        icon: "/assets/images/icon/feature-three-icon1.webp",
                         title: "Custom Smart Contract Development",
                         desc:
                             "We build tailored smart contracts for various use cases like DeFi, NFT, and supply chain, ensuring secure and efficient automation.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/feature-three-icon2.png",
+                        icon: "/assets/images/icon/feature-three-icon2.webp",
                         title: "Smart Contract Audit & Testing",
                         desc:
                             "Our experts perform in-depth audits to detect vulnerabilities and ensure the reliability and safety of your smart contracts.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/feature-three-icon3.png",
+                        icon: "/assets/images/icon/feature-three-icon3.webp",
                         title: "Smart Contract for Token Creation",
                         desc:
                             "We develop and deploy smart contracts for creating and managing custom tokens on Ethereum, BNB Chain, and other blockchains.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/feature-three-icon4.png",
+                        icon: "/assets/images/icon/feature-three-icon4.webp",
                         title: "Smart Contract Integration",
                         desc:
                             "Seamlessly integrate smart contracts into your existing dApps or platforms to automate transactions and business logic.",
@@ -66,7 +66,7 @@ export default function page() {
                         title: "Ethereum Clone Development",
                         desc:
                             "You're in the right place! Our Ethereum Clone development services allow you to duplicate the powerful capabilities and flexibility offered by the Ethereum blockchain. If you want to develop a decentralized financial (DeFi) platform, tokenization service, or another DApp, We provide complete support from conception to deployment.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -75,7 +75,7 @@ export default function page() {
                         title: "Chainlink Oracle Network Integration",
                         desc:
                             "If you're impressed with Chainlink's ability to provide safe and reliable data feeds for smart contracts, you can now benefit from similar capabilities when developing your projects. Chainlink's Oracle integration allows seamless connection between your smart contracts and other data sources, providing accuracy and security of data inputs.",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -84,7 +84,7 @@ export default function page() {
                         title: "Tezos Smart Contract Clone Development",
                         desc:
                             "Our Tezos smart contract clone development services make it possible! With Tezos growing in popularity due to its self-amendment system and an emphasis on scalability and security, this is the right moment to begin this Tezos journey. If you're looking at replicating existing applications based on Tezos or coming up by introducing new applications, our experts are here to help you.",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -97,84 +97,84 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Smart Contract Architecture",
                         desc:
                             "We design the entire structure of smart contracts along with developing optimized smart contract logic, including security, functionality, and audibility."
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "Smart Contracts Development",
                         desc:
                             "Our skilled developers build and deploy customizable smart contracts for various industries like supply chain, real estate, DeFi, NFTs, etc., ensuring automation and trustless processes."
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Smart Contract for DApps",
                         desc:
                             "We develop a wide range of advanced and secure smart contracts for decentralized apps to ensure accuracy, performance, and complete decentralization."
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "Smart Contract Optimization",
                         desc:
                             "We optimize and streamline blockchain contracts to improve execution efficiency, gas usage, and overall performance without affecting the contract’s logic."
                     },
                     {
                         id: 5,
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Smart Contracts Audit",
                         desc:
                             "Professional smart contract auditing to detect and prevent potential bugs or security vulnerabilities, ensuring complete safety and transparency."
                     },
                     {
                         id: 6,
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Smart Contract for Digital Wallet",
                         desc:
                             "We create and integrate smart contracts that allow digital wallets to store, transfer, and manage digital assets securely and efficiently."
                     },
                     {
                         id: 7,
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Smart Contract for DEX",
                         desc:
                             "Our team creates reliable and efficient contracts for decentralized exchanges, facilitating peer-to-peer trading without intermediaries."
                     },
                     {
                         id: 8,
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "Smart Contracts for DeFi",
                         desc:
                             "We develop smart contracts to automate DeFi operations, such as lending, borrowing, staking, farming, and more, ensuring performance and transparency."
                     },
                     {
                         id: 9,
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Smart Contracts for NFT",
                         desc:
                             "We create secure, standard-compliant smart contracts to mint, sell, and transfer non-fungible tokens (NFTs) with royalty and ownership logic."
                     },
                     {
                         id: 10,
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "Smart Contracts for Yield Farming",
                         desc:
                             "Develop advanced yield farming smart contracts to enable users to stake tokens and earn rewards through automated logic."
                     },
                     {
                         id: 11,
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Smart Contracts for DeFi Staking",
                         desc:
                             "Build DeFi staking smart contracts to support high-yield staking platforms that incentivize users for locking tokens for a fixed period."
                     },
                     {
                         id: 12,
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Token Smart Contracts",
                         desc:
                             "We develop token smart contracts on Ethereum, Binance Smart Chain, Solana, and other networks to launch fungible or non-fungible digital tokens."
@@ -188,7 +188,7 @@ export default function page() {
                         title: "Automated Execution",
                         description:
                             "Contracts are executed by encoding predefined criteria, eliminating intermediaries and increasing efficiency.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -197,7 +197,7 @@ export default function page() {
                         title: "Transparency",
                         description:
                             "Transparency is guaranteed as agreements and transactions lay everything out clearly on the blockchain, which improves reliability and builds trust.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f6fb",
                         link: "/service-details"
@@ -206,7 +206,7 @@ export default function page() {
                         title: "Security",
                         description:
                             "Smart contracts rely on standards such as encryption and blockchain immutability to protect sensitive information and user data.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#f6f0fb",
                         link: "/service-details"
@@ -215,7 +215,7 @@ export default function page() {
                         title: "Decentralization",
                         description:
                             "Enjoy the benefits of decentralization by using digital contracts in various sectors, eliminating the possibility of single-point failures.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f8f4fb",
                         link: "/service-details"
@@ -224,7 +224,7 @@ export default function page() {
                         title: "Customizability",
                         description:
                             "Create smart contracts tailored to your business’s specific requirements, allowing flexibility to meet changing demands.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff8ed",
                         link: "/service-details"
@@ -233,7 +233,7 @@ export default function page() {
                         title: "Cost-effectiveness",
                         description:
                             "Integrated automation and the removal of traditional overheads make smart contracts a cost-effective solution for businesses.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#fff5f0",
                         link: "/service-details"
@@ -242,7 +242,7 @@ export default function page() {
                         title: "Auditability",
                         description:
                             "Make it easy to audit and understand contracts using an integrated smart contract framework that ensures consistent verification.",
-                        icon: "/assets/images/icon/service-icon7.png",
+                        icon: "/assets/images/icon/service-icon7.webp",
                         bgClass: "bg7",
                         color: "#eafbf4",
                         link: "/service-details"
@@ -251,7 +251,7 @@ export default function page() {
                         title: "Smart Triggers",
                         description:
                             "Smart contract solutions automatically trigger actions or responses when predefined conditions are met, improving speed and compliance.",
-                        icon: "/assets/images/icon/service-icon8.png",
+                        icon: "/assets/images/icon/service-icon8.webp",
                         bgClass: "bg8",
                         color: "#eef9fd",
                         link: "/service-details"

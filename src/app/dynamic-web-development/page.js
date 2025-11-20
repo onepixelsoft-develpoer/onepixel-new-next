@@ -39,7 +39,7 @@ export default function page() {
         {
           title: "CMS Integration (WordPress/Drupal)",
           description: "Integrate powerful CMS platforms for easy updates and complete content control.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -47,7 +47,7 @@ export default function page() {
         {
           title: "Admin Dashboard Creation",
           description: "Get an intuitive admin panel to manage your website without technical hassle.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -55,7 +55,7 @@ export default function page() {
         {
           title: "Database Integration",
           description: "Store, organize, and access data securely with seamless database connectivity.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -63,7 +63,7 @@ export default function page() {
         {
           title: "Lightweight Hosting Setup",
           description: "Boost visibility with clean, search-friendly, and easy-to-read URLs.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -71,7 +71,7 @@ export default function page() {
         {
           title: "Integration with Analytics Tools",
           description: "Built to grow with your business, ensuring smooth scalability and performance.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",

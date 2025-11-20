@@ -39,7 +39,7 @@ export default function page() {
           title: "Custom Drupal Modules",
           description:
             "Develop tailored modules to extend functionality and meet your specific business needs.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -48,7 +48,7 @@ export default function page() {
           title: "Theme Development",
           description:
             "Create visually engaging, responsive Drupal themes that align perfectly with your brand.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -57,7 +57,7 @@ export default function page() {
           title: "API Integration",
           description:
             "Connect your Drupal site seamlessly with third-party tools and external services.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -66,7 +66,7 @@ export default function page() {
           title: "CMS Upgrades & Support",
           description:
             "Keep your Drupal platform secure, updated, and performing smoothly with expert maintenance.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

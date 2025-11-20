@@ -22,7 +22,7 @@ export default function AboutMission() {
                     {/* <div className="lg:w-6/12 grid grid-cols-2 gap-3">
                         <div className="relative w-full h-[10rem]">
                             <Image 
-                                src="/assets/images/grow/grow-image1.png" 
+                                src="/assets/images/grow/grow-image1.webp" 
                                 alt="Grow Image 1" 
                                 fill  sizes='100%' loading="lazy"
                                 className="object-contain rounded-lg"
@@ -30,7 +30,7 @@ export default function AboutMission() {
                         </div>
                         <div className="relative w-full h-[10rem]">
                             <Image 
-                                src="/assets/images/grow/grow-image2.png" 
+                                src="/assets/images/grow/grow-image2.webp" 
                                 alt="Grow Image 2" 
                                 fill  sizes='100%' loading="lazy"
                                 className="object-contain rounded-lg"
@@ -38,7 +38,7 @@ export default function AboutMission() {
                         </div>
                         <div className="relative w-full col-span-full h-[10rem]">
                             <Image 
-                                src="/assets/images/grow/grow-image3.png" 
+                                src="/assets/images/grow/grow-image3.webp" 
                                 alt="Grow Image 3" 
                                 fill  sizes='100%' loading="lazy"
                                 className="object-contain rounded-lg"
@@ -46,7 +46,7 @@ export default function AboutMission() {
                         </div>
                     </div> */}
                     <div className='lg:w-6/12 h-100 w-full'>
-                        <image src='/assets/images/about/about-us-1.png   ' alt='about-us-1' loading="lazy" className='w-full h-full object-contain'/>
+                        <image src='/assets/images/about/about-us-1.webp   ' alt='about-us-1' loading="lazy" className='w-full h-full object-contain'/>
                     </div>
                 </div>
 

@@ -5,7 +5,7 @@ const jsonLd = {
   "@type": "Organization",
   "name": "Onepixelsoft",
   "url": "https://onepixelsoft.com",
-  "logo": "https://onepixelsoft.com/onepixel-new/assets/images/logo/onepixel-logo-png-02.png",
+  "logo": "https://onepixelsoft.com/onepixel-new/assets/images/logo/onepixel-logo-png-02.webp",
   "contactPoint": {
     "@type": "ContactPoint",
     "telephone": "7737451230",

@@ -47,7 +47,7 @@ export default function AboutAwards() {
                     {Array.from({ length: 5 }).map((_, i) => (
                         <div key={i} className="relative w-24 h-12 md:w-28 md:h-24">
                             <Image
-                                src={`/assets/images/icon/testimonial-four-brand${i + 1}.png`}
+                                src={`/assets/images/icon/testimonial-four-brand${i + 1}.webp`}
                                 alt={`brand ${i + 1}`}
                                 fill loading="lazy"
                                 className="object-contain"
@@ -68,7 +68,7 @@ export default function AboutAwards() {
                             {/* Background image */}
                             <div className="absolute top-0 left-0 w-full h-full rounded-2xl">
                                 <Image
-                                    src="/assets/images/bg/testimonia-four-card-bg.png"
+                                    src="/assets/images/bg/testimonia-four-card-bg.webp"
                                     alt="background"
                                     fill loading="lazy"
                                     className="object-cover"
@@ -79,7 +79,7 @@ export default function AboutAwards() {
                                 <div className="relative mt-10 flex flex-col items-center z-10">
                                     <div className="relative w-24 h-24">
                                         <Image
-                                            src="/assets/images/testimonial/testimonial-four-logo.png"
+                                            src="/assets/images/testimonial/testimonial-four-logo.webp"
                                             alt="icon"
                                             fill loading="lazy"
                                             className="object-contain"
@@ -105,7 +105,7 @@ export default function AboutAwards() {
 
                                 <span className="mt-6 flex items-center gap-2 text-lg text-white font-medium z-10">
                                     <div className="relative w-6 h-6">
-                                        <Image src='/assets/images/logo/svgviewer-png-output(8).png' alt="logo" fill sizes='100%' className="object-contain" loading="lazy"/>
+                                        <Image src='/assets/images/logo/svgviewer-png-output(8).webp' alt="logo" fill sizes='100%' className="object-contain" loading="lazy"/>
                                     </div>
                                     10+ reviews
                                 </span>
@@ -154,7 +154,7 @@ export default function AboutAwards() {
 
                                         <div className="flex items-center gap-2 mb-6">
                                             <div className="relative w-6 h-6">
-                                                <Image src='/assets/images/logo/svgviewer-png-output(7).png' fill sizes='100%' alt='' className="object-contain" loading="lazy"/>
+                                                <Image src='/assets/images/logo/svgviewer-png-output(7).webp' fill sizes='100%' alt='' className="object-contain" loading="lazy"/>
                                             </div>
                                             {[...Array(testimonial.rating)].map((_, i) => (
                                                 <FaStar className='text-yellow-500' key={i} />

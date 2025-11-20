@@ -8,7 +8,7 @@ export default function VideoSection() {
             <div className="xl:px-40 wow lg:px-10 px-5 pt-15 animate__animated  animate__fadeInUp">
                 <div className="relative rounded-lg overflow-hidden shadow-lg md:h-120 h-48 md:w-full w-full">
                     <Image
-                        src="/assets/images/about/about-video-image.jpg"
+                        src="/assets/images/about/about-video-image.webp"
                         alt="About us video" fill loading="lazy"
                         className="w-full h-full object-cover object-center brightness-40"
                     />

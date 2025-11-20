@@ -21,7 +21,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Cryptocurrency Exchange Development",
                 desc: ["With a reliable cryptocurrency exchange development company like Onepixel Soft, you can have the next-generation trading platforms built to power your crypto business. Using our white label crypto exchange development led by expert professionals, you can minimize time-to-market and get a completely branded, secure exchange that matches your business needs.", "Our cryptocurrency exchange development solutions are scalable, regulatory compliant, and user-friendly. From simple trading platforms to high-frequency exchanges, we offer bespoke and affordable solutions that meet the demands of contemporary financial markets—supported by strong architecture and multi-payment capabilities."],
-                img1: "/assets/images/solution/crptoex.png"
+                img1: "/assets/images/solution/crptoex.webp"
             }} />
 
             <OurFeatured FeaturedData={{
@@ -32,7 +32,7 @@ export default function page() {
                         title: "Binance Clone App",
                         desc:
                             "Our Binance clone app provides users with seamless trading using a secure and reliable platform. With features like spot trading, trading in the futures, advanced types of orders, and more, our Binance Clone App caters to novice and experienced traders.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -41,7 +41,7 @@ export default function page() {
                         title: "Coinbase Pro Clone App",
                         desc:
                             "Do you want to start an enterprise-grade cryptocurrency exchange platform similar to Coinbase Pro? We are experts in developing customized solutions, such as our Coinbase Pro Clone App, inspired by the well-known Coinbase Pro exchange.",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -50,7 +50,7 @@ export default function page() {
                         title: "Kraken Clone App",
                         desc:
                             "As a top provider of crypto exchange software development, we provide a cloned app similar to Kraken, a well-known cryptocurrency exchange renowned for its safety, liquidity, and sophisticated trading capabilities.",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -64,28 +64,28 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/feature-three-icon1.png",
+                        icon: "/assets/images/icon/feature-three-icon1.webp",
                         title: "Centralized & Decentralized Exchange Development",
                         desc:
                             "We build both CEX and DEX platforms tailored to your business needs, offering high performance, security, and liquidity.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/feature-three-icon2.png",
+                        icon: "/assets/images/icon/feature-three-icon2.webp",
                         title: "Multi-Currency Wallet Integration",
                         desc:
                             "Secure wallets that support multiple cryptocurrencies with features like two-factor authentication and cold storage compatibility.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/feature-three-icon3.png",
+                        icon: "/assets/images/icon/feature-three-icon3.webp",
                         title: "Advanced Trading Engine",
                         desc:
                             "Robust and scalable engines to handle high-frequency trading, real-time order matching, and customizable trading pairs.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/feature-three-icon4.png",
+                        icon: "/assets/images/icon/feature-three-icon4.webp",
                         title: "KYC/AML & Compliance Integration",
                         desc:
                             "Built-in identity verification, regulatory compliance, and transaction monitoring to ensure secure and lawful operations.",
@@ -99,42 +99,42 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Centralized Cryptocurrency Exchange Development",
                         desc:
                             "We develop centralized exchanges with robust architecture, high liquidity, and security features. These exchanges are ideal for businesses looking to provide users with regulated trading environments, easy-to-use interfaces, and customer support capabilities.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "Decentralized Cryptocurrency Exchange Development",
                         desc:
                             "Our decentralized exchange (DEX) development services deliver peer-to-peer trading platforms that eliminate intermediaries. We integrate smart contracts for secure and transparent trades while offering wallet integrations and liquidity pooling solutions.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Hybrid Cryptocurrency Exchange Development",
                         desc:
                             "Hybrid exchanges combine centralized and decentralized benefits, offering security, privacy, and liquidity together. We develop hybrid platforms that deliver high-speed transactions with decentralized control and user asset custody.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "Non-Fungible Token (NFT) Exchange Development",
                         desc:
                             "We build NFT exchange platforms where users can buy, sell, and trade unique digital assets or collectibles. These platforms are designed with intuitive interfaces, wallet integration, and multi-chain compatibility for seamless NFT transactions.",
                     },
                     {
                         id: 5,
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Crypto Derivatives Exchange Development",
                         desc:
                             "We create exchanges that allow trading in crypto derivatives like futures, options, and swaps. Our solutions include real-time price feeds, leveraged trading systems, risk management tools, and regulatory compliance.",
                     },
                     {
                         id: 6,
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Margin Trading Exchange Development",
                         desc:
                             "We develop platforms for margin trading where users can borrow funds to leverage their positions. Our solutions include robust risk controls, high-frequency trading engines, and real-time margin call alerts to ensure platform reliability.",
@@ -148,7 +148,7 @@ export default function page() {
                         title: "Overflowing TPS",
                         description:
                             "With our ultra-fast matching engine architecture, you’ll have access to thousands of TPS (transactions per second), ensuring your users enjoy a seamless experience. This technology enables us to handle 1000x transactions faster than average.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details",
@@ -157,7 +157,7 @@ export default function page() {
                         title: "KYC/AML Verification",
                         description:
                             "We strictly comply with the jurisdiction’s policies. Each account is verified before it can be used for trading. Our KYC/AML integration ensures your exchange is secure and free from KYC loopholes.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f4fb",
                         link: "/service-details",
@@ -166,7 +166,7 @@ export default function page() {
                         title: "Hot Wallet",
                         description:
                             "We offer secure and reliable multi-signature authorized hot wallets to manage transactions on the go. These are user-friendly and allow seamless integration with multiple exchanges.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#f8f0f6",
                         link: "/service-details",
@@ -175,7 +175,7 @@ export default function page() {
                         title: "Multi-Layer Security",
                         description:
                             "Our exchange solutions are embedded with several security layers including firewalls, data encryption, anti-phishing modules, and DDoS protection to prevent cyberattacks at every level.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f4f7fc",
                         link: "/service-details",
@@ -184,7 +184,7 @@ export default function page() {
                         title: "Advanced Chart View",
                         description:
                             "Advanced chart view for trading is updated in real-time and provides data insights that help users analyze price movements. We integrate advanced libraries to bring industry-standard views to your platform.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff5f2",
                         link: "/service-details",
@@ -193,7 +193,7 @@ export default function page() {
                         title: "User Dashboard",
                         description:
                             "We design super-intuitive user dashboards that provide personalized information about assets, balances, open trades, and transaction history. Our dashboards are sleek, smart, and fully customizable.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#f2f6f7",
                         link: "/service-details",
@@ -202,7 +202,7 @@ export default function page() {
                         title: "Wallet Integration",
                         description:
                             "Our crypto wallet integration ensures easy and safe transfer of crypto assets. We offer both hot and cold wallet integrations to improve the liquidity and transaction handling of your platform.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg7",
                         color: "#e6f8f0",
                         link: "/service-details",
@@ -211,7 +211,7 @@ export default function page() {
                         title: "Robust Trading Engine",
                         description:
                             "Our trading engine is designed to match orders at lightning-fast speeds and maintain precision. It supports multiple order types and provides scalability to manage high trading volumes.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg8",
                         color: "#e6f4fb",
                         link: "/service-details",
@@ -221,7 +221,7 @@ export default function page() {
             <OurSoultionBannner data={{
                 heading: "Transform your Cryptocurrency Exchange Dreams into Reality!",
                 desc: "Get in touch today to discover how our expert team can tailor a solution specifically for your needs.",
-                img1: "/assets/images/solution/cryptoexx.png"
+                img1: "/assets/images/solution/cryptoexx.webp"
             }} />
             <FeqSection />
 

@@ -25,7 +25,7 @@ export default function page() {
           title: "Food & Beverage Packaging",
           description:
             "Attractive and safe packaging that preserves freshness and appeals to customers.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -34,7 +34,7 @@ export default function page() {
           title: "Cosmetic & Health Products",
           description:
             "Elegant, eye-catching designs that reflect quality and build brand trust.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -43,7 +43,7 @@ export default function page() {
           title: "E-Commerce & Retail Boxes",
           description:
             "Durable, visually appealing boxes that enhance the unboxing experience.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -52,7 +52,7 @@ export default function page() {
           title: "Labels & Stickers",
           description:
             "Custom labels and stickers that communicate brand identity and product information clearly.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -61,7 +61,7 @@ export default function page() {
           title: "Eco-Friendly Packaging Design",
           description:
             "Sustainable packaging solutions that reduce environmental impact while maintaining style.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

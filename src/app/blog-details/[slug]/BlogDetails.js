@@ -49,7 +49,7 @@ export default function BlogDetails({ Slugdata }) {
                   {/* hero image */}
                   <div className="mt-6 w-full rounded-lg overflow-hidden shadow-md relative h-64">
                     <Image
-                      src="/assets/images/blog/1744806283.jpg"
+                      src="/assets/images/blog/1744806283.webp"
                       alt="Article hero"
                       fill
                       className="object-cover"
@@ -57,7 +57,7 @@ export default function BlogDetails({ Slugdata }) {
                   </div>
                   <div className="flex items-center gap-4 pt-10">
                     <Image
-                      src="/assets/images/blog/1744806283.jpg"
+                      src="/assets/images/blog/1744806283.webp"
                       alt="Author"
                       width={48}
                       height={48}

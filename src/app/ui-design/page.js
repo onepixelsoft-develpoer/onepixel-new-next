@@ -26,7 +26,7 @@ export default function page() {
           title: "Wireframing & Prototyping",
           description:
             "Plan and visualize app or website layouts before development for efficient design.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -35,7 +35,7 @@ export default function page() {
           title: "App Interface Design",
           description:
             "Create intuitive and visually appealing interfaces for mobile applications.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -44,7 +44,7 @@ export default function page() {
           title: "Dashboard & Admin Panel UI",
           description:
             "Design clean, user-friendly dashboards for easy data management.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -53,7 +53,7 @@ export default function page() {
           title: "Responsive Web UI Design",
           description:
             "Ensure websites look and perform perfectly across all devices.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -62,7 +62,7 @@ export default function page() {
           title: "User Journey Optimization",
           description:
             "Enhance user experience by streamlining navigation and interaction flows.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

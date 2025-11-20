@@ -28,13 +28,13 @@ export default function HeroSection() {
   if (!whatsAppLink) return null;
 
   return (
-    <section className="text-white bg-[url('/assets/images/bg/banner-fout-bg.png')] bg-no-repeat bg-cover bg-center relative">
+    <section className="text-white bg-[url('/assets/images/bg/banner-fout-bg.webp')] bg-no-repeat bg-cover bg-center relative">
 
       {/* Left Arrow Image */}
       <div className="banner-four__line absolute top-0 left-0 wow animate__animated animate__fadeInLeft">
         <div className="relative h-280 w-[20em]">
           <Image
-            src="/assets/images/shape/banner-four-arrow.png"
+            src="/assets/images/shape/banner-four-arrow.webp"
             alt="Arrow"
             fill
             className="object-contain"
@@ -81,7 +81,7 @@ export default function HeroSection() {
           <div className="banner-four__line absolute xl:-top-[14%] lg:top-[10%] xl:right-20 lg:right-0 top-[69%] lg:block hidden wow animate__animated animate__fadeInRight">
             {/* <div className="relative z-2 w-[60px] h-[60px] xl:w-[120px] xl:h-[120px]">
               <Image
-                src="/assets/images/shape/sysmbol.png"
+                src="/assets/images/shape/sysmbol.webp"
                 alt="Symbol"
                 fill
                 className="object-contain"
@@ -91,7 +91,7 @@ export default function HeroSection() {
           <div className='absolute xl:-top-15 xl:right-[23%] lg:right-[10%] '>
             <div className='relative  w-[250px] h-[250px]'>
               <Image
-                src="/assets/images/banner/banner-four-text-btn.png"
+                src="/assets/images/banner/banner-four-text-btn.webp"
                 alt="Text Button"
                 fill sizes='100%'
                 className="btn-circle lg:block hidden object-contain"
@@ -101,7 +101,7 @@ export default function HeroSection() {
           <div className='absolute xl:right-[29%] right-[18%] top-[16%] xl:top-6'>
             <div className='relative z-11'>
               <Image
-                src="/assets/images/banner/arrow.png"
+                src="/assets/images/banner/arrow.webp"
                 alt="Arrow"
                 width={66}
                 height={66}
@@ -113,7 +113,7 @@ export default function HeroSection() {
 
         <div className="relative w-full h-[180px] lg:h-[500px]">
           <Image
-            src="/assets/images/banner/banner-four-image.png"
+            src="/assets/images/banner/banner-four-image.webp"
             alt="Banner"
             fill
             className="object-contain"

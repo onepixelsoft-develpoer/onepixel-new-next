@@ -115,7 +115,7 @@ export default function page() {
               {brands.map((brand) => (
                 <image
                   key={brand}
-                  src={`assets/images/brand/${brand}.png`}
+                  src={`assets/images/brand/${brand}.webp`}
                   alt={`${brand} logo`}
                   className="w-20 sm:w-24 h-20 object-contain hover:scale-105 transition-transform"
                 />
@@ -146,7 +146,7 @@ export default function page() {
           {/* Left Image */}
           <div className="w-full h-full">
            <Image
-            src="/assets/images/onepixel-dubai/campaign.jpg"
+            src="/assets/images/onepixel-dubai/campaign.webp"
             alt="Our Campaign"
             width={1200}      // set proper width
             height={700}      // set proper height

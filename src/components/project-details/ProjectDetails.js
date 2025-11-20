@@ -9,7 +9,7 @@ export default function ProjectDetails({ data }) {
       {/* Project Banner Image */}
       <div className='main-image wow animate__animated animate__fadeInUp relative md:w-full w-full lg:h-[50vh] h-40'>
         <Image
-          src='/assets/images/project/default-image.png'
+          src='/assets/images/project/default-image.webp'
           alt={data.project_name} fill loading="lazy" sizes='100%'
           className=' object-cover rounded-lg shadow-lg'
         />
@@ -71,7 +71,7 @@ export default function ProjectDetails({ data }) {
   {/* Image 1 */}
   <div className="relative w-full h-30 md:h-[30vh] ">
     <Image
-      src="/assets/images/project/default-image.png"
+      src="/assets/images/project/default-image.webp"
       alt={data.project_name}
       fill
       className="object-cover rounded-lg shadow-lg"
@@ -81,7 +81,7 @@ export default function ProjectDetails({ data }) {
   {/* Image 2 */}
   <div className="relative w-full h-30 md:h-[30vh] ">
     <Image
-      src="/assets/images/project/default-image.png"
+      src="/assets/images/project/default-image.webp"
       alt={data.project_name}
       fill
       loading="lazy"
@@ -92,7 +92,7 @@ export default function ProjectDetails({ data }) {
   {/* Image 3 */}
   <div className="relative w-full h-30 md:h-[30vh] ">
     <Image
-      src="/assets/images/project/default-image.png"
+      src="/assets/images/project/default-image.webp"
       alt={data.project_name}
       fill
       loading="lazy"
@@ -111,13 +111,13 @@ export default function ProjectDetails({ data }) {
         </ul>
 
         {/* Testimonial Section */}
-        <div className=" rounded-lg bg-cover bg-center mb-10 p-10 text-white" style={{ backgroundImage: "url('/assets/images/case/bg-image.png')" }}>
+        <div className=" rounded-lg bg-cover bg-center mb-10 p-10 text-white" style={{ backgroundImage: "url('/assets/images/case/bg-image.webp')" }}>
           <p>{`"Onepixel Soft's innovative design transformed our art gallery's online presence. We're thrilled with the results."`}</p>
           <div className="flex justify-between mt-5">
             <div className="flex gap-2 items-center ">
               <div className='relative w-10 h-10'>
 
-                <Image loading="lazy" src="/assets/images/case/user.png" alt="User" fill sizes='100%' className=" rounded-full object-contain" />
+                <Image loading="lazy" src="/assets/images/case/user.webp" alt="User" fill sizes='100%' className=" rounded-full object-contain" />
               </div>
               <h5 className="font-bold">
                 <a href={data.project_url} className="text-white">

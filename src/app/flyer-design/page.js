@@ -26,7 +26,7 @@ export default function page() {
                     title: "Corporate Flyers",
                     description:
                         "Professional designs for your business communications.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#e6f8f0",
                     link: "/service-details",
@@ -35,7 +35,7 @@ export default function page() {
                     title: "Event Promotions",
                     description:
                         "Boost attendance with visually engaging flyers.",
-                    icon: "/assets/images/icon/service-icon2.png",
+                    icon: "/assets/images/icon/service-icon2.webp",
                     bgClass: "bg-yellow-100",
                     color: "#f3f3f3",
                     link: "/service-details",
@@ -44,7 +44,7 @@ export default function page() {
                     title: "Product Launch Flyers",
                     description:
                         "Highlight new products with style and impact.",
-                    icon: "/assets/images/icon/service-icon3.png",
+                    icon: "/assets/images/icon/service-icon3.webp",
                     bgClass: "bg-yellow-100",
                     color: "#f3edff",
                     link: "/service-details",
@@ -53,7 +53,7 @@ export default function page() {
                     title: "Real Estate & Service Flyers",
                     description:
                         "Showcase properties and services effectively.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#fde6eb",
                     link: "/service-details",
@@ -62,7 +62,7 @@ export default function page() {
                     title: "Digital PDF Flyers for Email Marketing",
                     description:
                         "Ready-to-send flyers optimized for digital campaigns.",
-                    icon: "/assets/images/icon/service-icon1.png",
+                    icon: "/assets/images/icon/service-icon1.webp",
                     bgClass: "bg-yellow-100",
                     color: "#fde6eb",
                     link: "/service-details",

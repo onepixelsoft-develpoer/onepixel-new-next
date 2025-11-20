@@ -64,7 +64,7 @@ export default function page() {
       <OurSolutionleftCard data={{
         heading: "Boost Your Car Rental Business with Expert App Development",
         desc: ["The increasing need for car rental service presents a good chance to make an investment in car rental application development. Incorporating real-time booking systems, GPS tracking technology, and payment gateways securely, companies are able to drive user experience as well as operate their business effectively. This facilitates customers to reserve cars, regulate rentals, as well as trace vehicles easily, increasing customer retention and satisfaction.", "At Onepixel Soft, we offer customized car rental app development solutions that enable companies to remain ahead of the competition in the market. Our innovative features and advanced technology make your car rental platform efficient and customer-centric."],
-        img1: "/assets/images/solution/carrent1.png"
+        img1: "/assets/images/solution/carrent1.webp"
       }} />
       <OurFeatured FeaturedData={{
         heading: "Complex User Interface",
@@ -74,7 +74,7 @@ export default function page() {
             title: "Overlooking Scalability",
             desc:
               "In on-demand car rental app development, a complicated user interface can overwhelm users. Keep the design intuitive and simple for a smooth experience.",
-            icon: "/assets/images/icon/feature-icon1.png",
+            icon: "/assets/images/icon/feature-icon1.webp",
             bgClass: "bg-blue-100",
             color: "#dbeafe",
             link: "/service-details",
@@ -83,7 +83,7 @@ export default function page() {
             title: "Lack of Security Features",
             desc:
               "Neglecting scalability in your car rental application development can hinder future growth. Ensure the app can handle increasing demand as you scale.",
-            icon: "/assets/images/icon/feature-icon2.png",
+            icon: "/assets/images/icon/feature-icon2.webp",
             bgClass: "bg-green-100",
             color: "#dcfce7",
             link: "/service-details",
@@ -92,7 +92,7 @@ export default function page() {
             title: "Keyword Research",
             desc:
               "If you neglect security features during car rental app development, you risk data breaches and user trust issues. Prioritize top-notch security measures.",
-            icon: "/assets/images/icon/feature-icon3.png",
+            icon: "/assets/images/icon/feature-icon3.webp",
             bgClass: "bg-orange-100",
             color: "#ffedd5",
             link: "/service-details",
@@ -106,28 +106,28 @@ export default function page() {
         cards: [
           {
             id: 1,
-            icon: "/assets/images/icon/feature-three-icon1.png",
+            icon: "/assets/images/icon/feature-three-icon1.webp",
             title: "Lack of Offline FunctionalityIncrease Traffic",
             desc:
               "We analyze your business goal, target audience, and market trends.",
           },
           {
             id: 2,
-            icon: "/assets/images/icon/feature-three-icon2.png",
+            icon: "/assets/images/icon/feature-three-icon2.webp",
             title: "Improve Ranking",
             desc:
               "We analyze your business goal, target audience, and market trends.",
           },
           {
             id: 3,
-            icon: "/assets/images/icon/feature-three-icon3.png",
+            icon: "/assets/images/icon/feature-three-icon3.webp",
             title: "Sustainable Growth",
             desc:
               "We analyze your business goal, target audience, and market trends.",
           },
           {
             id: 4,
-            icon: "/assets/images/icon/feature-three-icon4.png",
+            icon: "/assets/images/icon/feature-three-icon4.webp",
             title: "Targeted Audience",
             desc:
               "We analyze your business goal, target audience, and market trends.",
@@ -140,32 +140,32 @@ export default function page() {
         desc: "Want to create a successful car rental app like Zoomcar or Turo? Our customizable car rental app clone development services offer strong, scalable solutions to suit your business requirements. With intuitive features, real-time tracking, and secure payment integration, we enable you to launch sooner and compete successfully in the market.",
         cards: [
           {
-            icon: "/assets/images/icon/service-three-icon1.png",
+            icon: "/assets/images/icon/service-three-icon1.webp",
             title: "Turo App Clone",
             desc: "Leverage the success of Turo’s platform with our Turo app clone, featuring vehicle listings, booking management & safe payment processing."
           },
           {
-            icon: "/assets/images/icon/service-three-icon2.png",
+            icon: "/assets/images/icon/service-three-icon2.webp",
             title: "KAYAK App Clone",
             desc: "Get a Kayak Clone app with a user-friendly design and rich functionality. Get a seamless car rental functionality for users."
           },
           {
-            icon: "/assets/images/icon/service-three-icon3.png",
+            icon: "/assets/images/icon/service-three-icon3.webp",
             title: "SIXT App Clone",
             desc: "Develop a SIXT app clone featuring vehicle selection, & GPS tracking. Our clone app ensures an easy and smooth rental process."
           },
           {
-            icon: "/assets/images/icon/service-three-icon4.png",
+            icon: "/assets/images/icon/service-three-icon4.webp",
             title: "Virtuo App Clone",
             desc: "Launch a Virtuo App Clone with features like remote entry, vehicle tracking, and instant booking capabilities."
           },
           {
-            icon: "/assets/images/icon/service-three-icon5.png",
+            icon: "/assets/images/icon/service-three-icon5.webp",
             title: "Carla App Clone",
             desc: "Create sleek, efficient car rental experiences with our Carla clone app, offering scheduling, dynamic pricing, and more."
           },
           {
-            icon: "/assets/images/icon/service-three-icon6.png",
+            icon: "/assets/images/icon/service-three-icon6.webp",
             title: "Rentcars App Clone",
             desc: "Capitalize on Rentcars App’s features with a clone app, including advanced search filters, secure payments, and multi-location support."
           }
@@ -179,7 +179,7 @@ export default function page() {
             title: "Custom Car Rental App Development",
             description:
               "We understand every project has unique requirements. Thus, you get custom car rental app development tailored to your business requirements.",
-            icon: "/assets/images/icon/service-icon1.png",
+            icon: "/assets/images/icon/service-icon1.webp",
             bgClass: "bg1",
             color: "#e6f8f0",
             link: "/service-details",
@@ -188,7 +188,7 @@ export default function page() {
             title: "Car Rental App Consultation",
             description:
               "Take every step backed with expert advice. Our professionals provide car rental app consultation to design, develop & implement the ideal solution.",
-            icon: "/assets/images/icon/service-icon2.png",
+            icon: "/assets/images/icon/service-icon2.webp",
             bgClass: "bg2",
             color: "#e6f7fd",
             link: "/service-details",
@@ -197,7 +197,7 @@ export default function page() {
             title: "Android Car Rental App Development",
             description:
               "Find users where they are. Opt for Android car rental app development services to get a robust app that delivers seamless performance.",
-            icon: "/assets/images/icon/service-icon3.png",
+            icon: "/assets/images/icon/service-icon3.webp",
             bgClass: "bg3",
             color: "#fdeef2",
             link: "/service-details",
@@ -206,7 +206,7 @@ export default function page() {
             title: "iOS Car Rental App Development",
             description:
               "Our team blends innovation with creativity to create innovative iOS car rental apps that ensure a smooth and user-friendly experience.",
-            icon: "/assets/images/icon/service-icon4.png",
+            icon: "/assets/images/icon/service-icon4.webp",
             bgClass: "bg4",
             color: "#f3f0ff",
             link: "/service-details",
@@ -215,7 +215,7 @@ export default function page() {
             title: "Car Rental App Maintenance",
             description:
               "We provide continuous app maintenance services to keep your car rental app updated, bug-free, and fully operational, ensuring smooth performance.",
-            icon: "/assets/images/icon/service-icon5.png",
+            icon: "/assets/images/icon/service-icon5.webp",
             bgClass: "bg5",
             color: "#fff5e6",
             link: "/service-details",
@@ -224,7 +224,7 @@ export default function page() {
             title: "Car Rental App UI/UX",
             description:
               "The design should be attractive. We focus on designing striking, intuitive UI/UX to enhance user engagement and user satisfaction with your car rental app.",
-            icon: "/assets/images/icon/service-icon6.png",
+            icon: "/assets/images/icon/service-icon6.webp",
             bgClass: "bg6",
             color: "#e9f8fe",
             link: "/service-details",
@@ -234,7 +234,7 @@ export default function page() {
       <OurSoultionBannner data={{
         heading:"Want a Top-Notch Car Rental App?",
         desc:"Get in touch with our expert team to design and develop a robust, scalable car rental app as per your business needs.",
-        img1:"/assets/images/solution/carent11.png"
+        img1:"/assets/images/solution/carent11.webp"
       }}/>
       <FeqSection />
     </div>

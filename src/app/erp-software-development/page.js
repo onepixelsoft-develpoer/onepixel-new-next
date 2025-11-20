@@ -20,7 +20,7 @@ export default function page() {
           title: "Inventory & Supply Chain Management",
           description:
             "Monitor stock levels, track shipments, and streamline supply operations for maximum efficiency.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -29,7 +29,7 @@ export default function page() {
           title: "Finance & Accounting",
           description:
             "Automate billing, expense tracking, and financial reporting to keep your business finances organized.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -38,7 +38,7 @@ export default function page() {
           title: "Human Resource Management",
           description:
             "Manage employee data, attendance, and payroll seamlessly from a unified HR module.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -47,7 +47,7 @@ export default function page() {
           title: "CRM & Sales Integration",
           description:
             "Boost customer relationships and sales performance with integrated CRM and lead management tools.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -56,7 +56,7 @@ export default function page() {
           title: "Real-Time Analytics Dashboard",
           description:
             "Gain actionable insights with live data visualization and performance tracking across departments.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

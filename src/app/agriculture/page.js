@@ -61,7 +61,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Grow Your Agri Business with Scalable Digital Solutions",
                 desc: ["Here at Onepixel Soft Solutions, we offer state-of-the-art agriculture app development services meant to take your agricultural business to new heights. Our agriculture apps for mobile are specifically tailored to match the particular demands of farmers with unique features to make farm administration simpler and boost productivity. Be it monitoring of fields or the management of resources, our applications cater to many different agricultural demands.", "Our seasoned professionals create tailor-made and out-of-the-box solutions for farmsites and farmsites apps that make your enterprise adequately equipped to maintain a strategic advantage in an competitive market. Be it making an app for farmers or designing an entire farmsite platform, we are dedicated to transforming your visions into highly successful digital ventures."],
-                img1: "/assets/images/solution/ag2.png"
+                img1: "/assets/images/solution/ag2.webp"
             }} />
             <OurSolutionsDevlopment devlopmentData={{
                 heading: "On-Demand Agriculture App Development Solutions by Onepixel Soft",
@@ -69,28 +69,28 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/feature-three-icon1.png",
+                        icon: "/assets/images/icon/feature-three-icon1.webp",
                         title: "Custom Farmer & Buyer Platforms",
                         desc:
                             "Separate modules for farmers and buyers to list, discover, and trade agricultural products directly.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/feature-three-icon2.png",
+                        icon: "/assets/images/icon/feature-three-icon2.webp",
                         title: "Real-Time Inventory & Order Tracking",
                         desc:
                             "Manage crop availability, incoming orders, and delivery status with real-time updates",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/feature-three-icon3.png",
+                        icon: "/assets/images/icon/feature-three-icon3.webp",
                         title: "Weather & Crop Advisory Integration",
                         desc:
                             "Built-in support for weather forecasts, crop health tips, and farming best practices to assist users.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/feature-three-icon4.png",
+                        icon: "/assets/images/icon/feature-three-icon4.webp",
                         title: "Secure Payments & Multi-Language Support",
                         desc:
                             "Enables hassle-free transactions with support for local languages to increase adoption among rural users.",
@@ -105,7 +105,7 @@ export default function page() {
                     {
                         title: "Bushel Farm",
                         desc: "Formerly known as Farm Logs, this popular mobile app helps farmers manage crop conditions. It also offers valuable information on weather and other farming operations.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -113,7 +113,7 @@ export default function page() {
                     {
                         title: "AgriSync",
                         desc: "AgriSync is an agricultural support app that allows farmers to connect with experts for assistance with their farming challenges. It also offers advanced features for sharing photos, ensuring more effective support.",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -121,7 +121,7 @@ export default function page() {
                     {
                         title: "My John Deere",
                         desc: "It is a robust management application that helps farmers track and record their crop yields, timing, investments in resources, and manage agricultural equipment.",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -135,32 +135,32 @@ export default function page() {
                 desc: "It provides essential tools to field staff for performing inspections, collecting, managing goods, and reporting efficiently in the agriculture and livestock ecosystem.",
                 cards: [
                     {
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Field Staff Login",
                         desc: "Field staff are required to log in to the platform using their login credentials for secure access. Verification of the staff can be completed through an e-verification code."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "Field Inspection",
                         desc: "The farming app enables field staff to easily log inspection data, record livestock status, and update crop and livestock conditions based on a real-time check."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Give Feedback",
                         desc: "This feature leverages log data and allows field staff to provide feedback on the crop and livestock management processes."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "Collect Harvested Crops",
                         desc: "Field staff can gather the harvested crops and manage their transportation to predefined collection centers. It enables smooth and seamless production flow."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Submit Goods to The Warehouse",
                         desc: "The farming app allows products like animals, grains, or produce to be submitted and logged into the warehouse. All stock entries are automatically tracked within the agriculture app."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Deliver The Goods to The POS",
                         desc: "When delivering to the Point of Sale (POS), field staff log the quantity of goods, transportation method, and ensure proper routing to available selling points."
                     }
@@ -174,7 +174,7 @@ export default function page() {
                         title: "Customer Registration",
                         description:
                             "Customers can easily register on the agriculture app platform using their email or mobile number. The verification process is completed by sending a one-time password.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -183,7 +183,7 @@ export default function page() {
                         title: "Explore Product",
                         description:
                             "Users can search and explore products in the agriculture app platform, with detailed descriptions of the products and images to enhance their browsing experience.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f7fd",
                         link: "/service-details"
@@ -192,7 +192,7 @@ export default function page() {
                         title: "Order Product",
                         description:
                             "The feature allows users to browse and order agricultural goods, placing orders directly through the app platform and receiving real-time updates.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#fde6f1",
                         link: "/service-details"
@@ -201,7 +201,7 @@ export default function page() {
                         title: "Multiple Payment Methods",
                         description:
                             "Users can conveniently pay for their ordered products through various payment methods, including credit/debit cards, digital wallets, and bank transfers.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f3e9ff",
                         link: "/service-details"
@@ -210,7 +210,7 @@ export default function page() {
                         title: "Return and Refund",
                         description:
                             "A user-friendly option for customers to initiate returns or refunds for any damaged or unsatisfactory products ordered through the app.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff5f4",
                         link: "/service-details"
@@ -219,7 +219,7 @@ export default function page() {
                         title: "Schedule The Day & Time for Delivery",
                         description:
                             "This feature enables customers to schedule their product delivery according to their convenience, selecting a day and time that fits their schedule.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#f1f5f9",
                         link: "/service-details"
@@ -228,7 +228,7 @@ export default function page() {
                         title: "Order History",
                         description:
                             "Customers can access their order history, view past purchases, and easily reorder products, making the shopping experience more convenient.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg7",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -237,7 +237,7 @@ export default function page() {
                         title: "Customer Support",
                         description:
                             "The app offers customer support for any queries, complaints, or assistance needed regarding orders, products, or services provided through the platform.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg8",
                         color: "#e9f8fe",
                         link: "/service-details"
@@ -247,7 +247,7 @@ export default function page() {
             <OurSoultionBannner data={{
                 heading: "Online Agriculture & Farm Apps Developed by OnepixelSoft",
                 desc: "Look at some of our latest works on agritech software development services apps and get to know how your fully-developed product will look and be packed with requisite features & technologies.",
-                img1: "/assets/images/solution/ag1.png"
+                img1: "/assets/images/solution/ag1.webp"
             }} />
 
             <FeqSection />

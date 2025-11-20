@@ -46,7 +46,7 @@ export default function page() {
           title: "CRO & Funnel Optimization",
           description:
             "Improve user journeys and increase conversions by analyzing behavior and refining every step of the funnel.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -55,7 +55,7 @@ export default function page() {
           title: "Fast Load Speed",
           description:
             "Optimize images, scripts, and code to ensure your website loads in seconds — boosting user experience and SEO rankings.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -64,7 +64,7 @@ export default function page() {
           title: "SEO + Analytics Integration",
           description:
             "Implement on-page SEO strategies and track performance with Google Analytics to measure real growth.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -73,7 +73,7 @@ export default function page() {
           title: "Mobile-Friendly & Responsive",
           description:
             "Ensure your website looks and performs flawlessly across all screen sizes — from smartphones to desktops.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -82,7 +82,7 @@ export default function page() {
           title: "Engaging Copy & Visuals",
           description:
             "Use persuasive content and captivating visuals to connect with your audience and build brand trust.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

@@ -56,7 +56,7 @@ export default function page() {
           title: "HTML5/CSS3 Based Responsive Design",
           description:
             "Builds modern, fully responsive websites that look great on all devices.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -65,7 +65,7 @@ export default function page() {
           title: "Fast & Secure Codebase",
           description:
             "Ensures your website loads quickly and remains secure against vulnerabilities.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -74,7 +74,7 @@ export default function page() {
           title: "SEO and Mobile Optimization",
           description:
             "Optimizes your site for search engines and provides a smooth mobile experience.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -83,7 +83,7 @@ export default function page() {
           title: "Lightweight Hosting Setup",
           description:
             "Delivers efficient, fast-loading websites with minimal server resources.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -92,7 +92,7 @@ export default function page() {
           title: "Integration with Analytics Tools",
           description:
             "Tracks user behavior and website performance with easy analytics integration.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -100,9 +100,9 @@ export default function page() {
       ]} />
       <OurServicesSection />
       <OurServiceReport data={{
-        img1: "/assets/images/grow/grow-image1.png",
-        img2: "/assets/images/grow/grow-image2.png",
-        img3: "/assets/images/grow/grow-image3.png",
+        img1: "/assets/images/grow/grow-image1.webp",
+        img2: "/assets/images/grow/grow-image2.webp",
+        img3: "/assets/images/grow/grow-image3.webp",
         heading: "Digital Transformation Report Helps To Grow",
         desc: "Static websites require no databases, making them faster, more secure, and cost-effective. They’re perfect for portfolios, corporate websites, service pages, or business introductions.",
         poits1: [

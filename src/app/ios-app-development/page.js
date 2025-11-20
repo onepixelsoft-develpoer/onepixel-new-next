@@ -23,7 +23,7 @@ export default function page() {
           title: "Swift / Objective-C Development",
           description:
             "Build high-performance iOS apps using modern Swift or legacy Objective-C with clean, maintainable code.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -32,7 +32,7 @@ export default function page() {
           title: "UI/UX for iPhone & iPad",
           description:
             "Design intuitive and visually engaging interfaces that deliver a seamless experience across all Apple devices.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -41,7 +41,7 @@ export default function page() {
           title: "iOS App Testing & QA",
           description:
             "Ensure bug-free performance with rigorous testing, debugging, and quality assurance processes.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -50,7 +50,7 @@ export default function page() {
           title: "App Store Deployment",
           description:
             "Handle complete submission, listing, and approval process for a smooth App Store launch.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -59,7 +59,7 @@ export default function page() {
           title: "Maintenance & Updates",
           description:
             "Provide ongoing support, feature upgrades, and compatibility updates to keep apps running flawlessly.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

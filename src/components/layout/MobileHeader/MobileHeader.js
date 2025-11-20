@@ -23,7 +23,7 @@ export default function MobileHeader({ isMenuOpen, setIsMenuOpen }) {
       {/* Logo */}
       <div className='top_container flex justify-between px-5 items-center pt-4'>
         <div className='Logo inline-block rounded-md relative'>
-            <Image src="/assets/images/logo/onepixel-logo.png" loading="lazy" alt="OnePixelSoft Logo" className="w-40 bg-white px-5 py-2 rounded-md" width={150} height={100} />
+            <Image src="/assets/images/logo/onepixel-logo.webp" loading="lazy" alt="OnePixelSoft Logo" className="w-40 bg-white px-5 py-2 rounded-md" width={150} height={100} />
         </div>
       </div>
 
@@ -126,7 +126,7 @@ export default function MobileHeader({ isMenuOpen, setIsMenuOpen }) {
           </div>
 
           {/* Contact Button */}
-          <div className='contact-btn bg-[url("/assets/images/shape/btn.png")] bg-no-repeat px-3 py-3  
+          <div className='contact-btn bg-[url("/assets/images/shape/btn.webp")] bg-no-repeat px-3 py-3  
               transition-all duration-500 flex items-center gap-2 cursor-pointer text-white mt-5'>
             <Link href="/contact">Contact Us</Link>
             <div className='arrow h-6 w-6 overflow-hidden'>

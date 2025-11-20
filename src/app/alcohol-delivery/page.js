@@ -63,7 +63,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Top Online Alcohol Delivery App Development Company",
                 desc: ["Onepixel Soft is a premier on-demand liquor delivery app development company serving businesses in India, the USA, and beyond. We offer robust, user-friendly, and scalable solutions that simplify operations for liquor stores.", "From tracking inventory to managing customer preferences and analyzing sales, our solutions are designed to streamline your business processes. Reach out to us for a tailored consultation and discover the most effective alcohol delivery app solution for your business."],
-                img1: "/assets/images/solution/alcoholld.png"
+                img1: "/assets/images/solution/alcoholld.webp"
             }} />
             <OurSolutionsDevlopment devlopmentData={{
                 heading: "Comprehensive Alcohol Delivery App Solutions",
@@ -71,28 +71,28 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/feature-three-icon1.png",
+                        icon: "/assets/images/icon/feature-three-icon1.webp",
                         title: "Customer App Development",
                         desc:
                             "A feature-rich app enabling users to browse liquor options, place orders, schedule deliveries, and verify age securely.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/feature-three-icon2.png",
+                        icon: "/assets/images/icon/feature-three-icon2.webp",
                         title: "Vendor/Store Panel",
                         desc:
                             "Allows liquor stores to manage inventory, update product listings, process orders, and track delivery status in real-time.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/feature-three-icon3.png",
+                        icon: "/assets/images/icon/feature-three-icon3.webp",
                         title: "Delivery Agent App",
                         desc:
                             "A dedicated app for drivers to manage delivery routes, verify age upon delivery, and update order statuses instantly.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/feature-three-icon4.png",
+                        icon: "/assets/images/icon/feature-three-icon4.webp",
                         title: "Admin Dashboard",
                         desc:
                             "A powerful backend system to manage users, vendors, orders, payments, and ensure compliance with legal regulations.",
@@ -108,7 +108,7 @@ export default function page() {
                         title: "App Like Saucey",
                         desc:
                             "An on-demand alcohol delivery app similar to Saucey, providing a broad range of spirits, beer, and wine. Users can effortlessly place orders and have their drinks delivered directly to their doorstep with ease and speed.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -117,7 +117,7 @@ export default function page() {
                         title: "App Like Drizly",
                         desc:
                             "A mobile app like Drizly, offering a smooth experience for purchasing and delivering alcohol. Users can browse a wide variety of alcoholic beverages and have their chosen items delivered directly to their location.",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -126,7 +126,7 @@ export default function page() {
                         title: "App Like Minibar",
                         desc:
                             "A mobile app similar to Minibar, linking users to nearby liquor stores and allowing them to order alcohol online for home delivery. It offers a convenient platform for exploring a wide selection of drinks.",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -138,32 +138,32 @@ export default function page() {
                 desc: "It offer full control over users, bookings, payments, service providers, and real-time analytics to efficiently manage the app ecosystem.",
                 cards: [
                     {
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Customer Management",
                         desc: "With customer management features, the admin can easily manage and track the details of each customer on the liquor delivery app."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "Vendor Management",
                         desc: "This feature allows the admin to efficiently manage routes, schedules, and vendor records, including tasks, earnings, and more."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "Multiple Store Management",
                         desc: "This feature provides the admin with the ability to manage and oversee records from multiple liquor stores on a single platform."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "Feedback Management",
                         desc: "This feature enables the admin to manage customer feedback, reviews, and ratings, helping to enhance the brand's image."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Real-Time Notifications",
                         desc: "With this feature, the admin can notify customers about liquor stores, along with current discounts, offers, and more."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Reporting",
                         desc: "This option allows the admin to gain insights into the business, including data on sales, customer behavior, needs, and more."
                     }
@@ -177,7 +177,7 @@ export default function page() {
                         title: "Signup/Login",
                         description:
                             "Enables customers to register and log in to the alcohol delivery app using their email address, phone number, or social media accounts.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details",
@@ -186,7 +186,7 @@ export default function page() {
                         title: "Browse Variety of Liquor",
                         description:
                             "Drinkers can explore a diverse selection of liquor using filters and other options to easily find their preferred choices.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f6fd",
                         link: "/service-details",
@@ -195,7 +195,7 @@ export default function page() {
                         title: "Compare Prices",
                         description:
                             "Customers can shop for liquor by browsing through various wine and alcohol stores, comparing prices across different retailers.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#fde6eb",
                         link: "/service-details",
@@ -204,7 +204,7 @@ export default function page() {
                         title: "Offers/Discounts",
                         description:
                             "This feature offers customers a range of discounts and promotions, allowing them to purchase liquor at reduced prices.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f3edff",
                         link: "/service-details",
@@ -213,7 +213,7 @@ export default function page() {
                         title: "Multiple Payment Options",
                         description:
                             "The online liquor app integrates multiple payment gateways, enabling customers to make payments at their convenience.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff4e6",
                         link: "/service-details",
@@ -222,7 +222,7 @@ export default function page() {
                         title: "Real-Time Order Tracking",
                         description:
                             "Once an order is placed, customers can track the real-time status and location of their order directly through the app.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#f3f3f3",
                         link: "/service-details",
@@ -231,7 +231,7 @@ export default function page() {
                         title: "Re-order",
                         description:
                             "Customers can easily repeat their orders with just a single click from their order history.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details",
@@ -240,7 +240,7 @@ export default function page() {
                         title: "Review & Ratings",
                         description:
                             "Drinkers can share their overall experience with purchasing liquor or alcohol on the app by leaving reviews and ratings.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f6fd",
                         link: "/service-details",
@@ -250,7 +250,7 @@ export default function page() {
             <OurSoultionBannner data={{
                 heading:"On-Demand Alcohol Delivery Apps Developed by Onepixel Soft",
                 desc:"Take a look at some of our recent on-demand alcohol delivery app projects to get an idea of how your final product will appear, complete with all the necessary features and functionalities.",
-                img1:"/assets/images/solution/alcohold2.png"
+                img1:"/assets/images/solution/alcohold2.webp"
             }}/>
             <FeqSection/>
         </div>

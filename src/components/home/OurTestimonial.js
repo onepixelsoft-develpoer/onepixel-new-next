@@ -45,28 +45,28 @@ export default function OurTestimonial() {
             </p>
             <div className="flex flex-wrap items-center gap-4 mb-6">
               <Image
-                src="/assets/images/icon/certificate2.png"
+                src="/assets/images/icon/certificate2.webp"
                 alt="icon"
                 width={100}
                 height={100} loading="lazy"
                 className="object-contain"
               />
               <Image
-                src="/assets/images/icon/certificate1.png"
+                src="/assets/images/icon/certificate1.webp"
                 alt="icon"
                 width={100}
                 height={100} loading="lazy"
                 className="object-contain"
               />
               <Image
-                src="/assets/images/icon/goodfirms.png"
+                src="/assets/images/icon/goodfirms.webp"
                 alt="icon"
                 width={100} loading="lazy"
                 height={100}
                 className="object-contain"
               />
               <Image
-                src="/assets/images/icon/MyBadge.png"
+                src="/assets/images/icon/MyBadge.webp"
                 alt="icon"
                 width={100}
                 height={100} loading="lazy"
@@ -103,7 +103,7 @@ export default function OurTestimonial() {
 
                     <div className="flex items-center gap-2 mb-4">
                       <Image
-                        src="/assets/images/icon/svgviewer-png-output (5).png"
+                        src="/assets/images/icon/svgviewer-png-output (5).webp"
                         alt="quote"
                         width={32}
                         height={32} loading="lazy"
@@ -120,7 +120,7 @@ export default function OurTestimonial() {
                       </strong>{" "}
                       {v.description}
                       <Image
-                        src="/assets/images/icon/svgviewer-png-output (6).png"
+                        src="/assets/images/icon/svgviewer-png-output (6).webp"
                         alt="quote-end"
                         width={20}
                         height={20} loading="lazy"
@@ -136,7 +136,7 @@ export default function OurTestimonial() {
                         height={48} loading="lazy"
                         className="rounded-full object-cover"
                         onError={(e) =>
-                          (e.currentTarget.src = "/assets/images/default-user.png")
+                          (e.currentTarget.src = "/assets/images/default-user.webp")
                         }
                       />
                       <div>

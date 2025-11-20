@@ -365,7 +365,7 @@ export const services = [
         title: "Social Media Marketing",
         description:
             "Leverage the power of social media platforms to connect with your audience and drive engagement.",
-        icon: "/assets/images/icon/service-icon1.png",
+        icon: "/assets/images/icon/service-icon1.webp",
         bgClass: "bg1",
         color: "#e6f8f0",
         link: "/service-details",
@@ -374,7 +374,7 @@ export const services = [
         title: "Email Marketing Services",
         description:
             "Nurture leads and build customer loyalty through personalized and effective email campaigns.",
-        icon: "/assets/images/icon/service-icon2.png",
+        icon: "/assets/images/icon/service-icon2.webp",
         bgClass: "bg2",
         color: "#e6f6fd",
         link: "/service-details",
@@ -383,7 +383,7 @@ export const services = [
         title: "Social Media Marketing",
         description:
             "Leverage the power of social media platforms to connect with your audience and drive engagement.",
-        icon: "/assets/images/icon/service-icon3.png",
+        icon: "/assets/images/icon/service-icon3.webp",
         bgClass: "bg3",
         color: "#fde6eb",
         link: "/service-details",
@@ -392,7 +392,7 @@ export const services = [
         title: "Search Engine Optimization (SEO)",
         description:
             "Boost your website's visibility and organic traffic with our comprehensive SEO strategies.",
-        icon: "/assets/images/icon/service-icon4.png",
+        icon: "/assets/images/icon/service-icon4.webp",
         bgClass: "bg4",
         color: "#f3edff",
         link: "/service-details",
@@ -401,7 +401,7 @@ export const services = [
         title: "Pay-Per-Click (PPC) Advertising",
         description:
             "Drive instant traffic to your website with targeted PPC campaigns and maximize your ROI.",
-        icon: "/assets/images/icon/service-icon5.png",
+        icon: "/assets/images/icon/service-icon5.webp",
         bgClass: "bg5",
         color: "#fff4e6",
         link: "/service-details",
@@ -410,7 +410,7 @@ export const services = [
         title: "Analytics and Data Insights",
         description:
             "Harness the power of data to make informed decisions and continually optimize your digital marketing efforts.",
-        icon: "/assets/images/icon/service-icon6.png",
+        icon: "/assets/images/icon/service-icon6.webp",
         bgClass: "bg6",
         color: "#f3f3f3",
         link: "/service-details",

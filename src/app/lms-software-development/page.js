@@ -34,7 +34,7 @@ export default function page() {
           title: "Course & Quiz Creation",
           description:
             "Easily create, manage, and organize interactive courses and quizzes for effective learning experiences.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#e6f8f0",
           link: "/service-details",
@@ -43,7 +43,7 @@ export default function page() {
           title: "User Registration & Access Control",
           description:
             "Manage student, instructor, and admin roles with secure login and role-based access permissions.",
-          icon: "/assets/images/icon/service-icon2.png",
+          icon: "/assets/images/icon/service-icon2.webp",
           bgClass: "bg-yellow-100",
           color: "#f3f3f3",
           link: "/service-details",
@@ -52,7 +52,7 @@ export default function page() {
           title: "Assignment Tracking",
           description:
             "Allow students to submit assignments and instructors to review, grade, and provide feedback in one place.",
-          icon: "/assets/images/icon/service-icon3.png",
+          icon: "/assets/images/icon/service-icon3.webp",
           bgClass: "bg-yellow-100",
           color: "#f3edff",
           link: "/service-details",
@@ -61,7 +61,7 @@ export default function page() {
           title: "Video Integration & Live Classes",
           description:
             "Seamlessly integrate recorded videos or conduct real-time classes using popular streaming platforms.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",
@@ -70,7 +70,7 @@ export default function page() {
           title: "Certificates & Reports",
           description:
             "Automatically generate course completion certificates and detailed performance reports for learners.",
-          icon: "/assets/images/icon/service-icon1.png",
+          icon: "/assets/images/icon/service-icon1.webp",
           bgClass: "bg-yellow-100",
           color: "#fde6eb",
           link: "/service-details",

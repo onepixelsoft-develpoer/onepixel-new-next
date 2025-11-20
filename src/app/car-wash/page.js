@@ -60,7 +60,7 @@ export default function page() {
             <OurSolutionleftCard data={{
                 heading: "Get Handson Expert Car Wash App Development",
                 desc: ["With Onepixel Soft’s expertise in car wash app development, we specialize in building custom mobile applications that offer convenience, reliability, and seamless user experiences. Our on-demand car wash solutions include intuitive designs, smooth functionality, and scalable features, ensuring your app stands out in the competitive market", "From concept to launch, we focus on delivering an app that drives customer engagement and business growth. Let us help you create a personalized car wash platform with advanced features like push notifications and user-friendly interfaces."],
-                img1: "/assets/images/solution/carwash.png"
+                img1: "/assets/images/solution/carwash.webp"
             }} />
             <OurFeatured FeaturedData={{
                 heading: "Car wash Development Mistake to Avoids",
@@ -70,7 +70,7 @@ export default function page() {
                         title: "Ignoring Market Research",
                         desc:
                             "Neglecting thorough market research can result in apps that don't meet user expectations. Get to know your target audience, analyze competitors, and integrate features that align with customer needs and current trends.",
-                        icon: "/assets/images/icon/feature-icon1.png",
+                        icon: "/assets/images/icon/feature-icon1.webp",
                         bgClass: "bg-blue-100",
                         color: "#dbeafe",
                         link: "/service-details",
@@ -79,7 +79,7 @@ export default function page() {
                         title: "Neglecting User-Friendly Design",
                         desc:
                             "An overly complicated car wash app design can frustrate users and decrease engagement. Prioritize intuitive navigation, simple layouts, and fast load times to provide a smooth and enjoyable customer experience.",
-                        icon: "/assets/images/icon/feature-icon2.png",
+                        icon: "/assets/images/icon/feature-icon2.webp",
                         bgClass: "bg-green-100",
                         color: "#dcfce7",
                         link: "/service-details",
@@ -88,7 +88,7 @@ export default function page() {
                         title: "Skipping Scalability Planning",
                         desc:
                             "Building an app without considering scalability can hinder future growth. Opt for technologies that allow for easy expansion, particularly for on-demand car wash app development, ensuring your app can grow alongside your business.",
-                        icon: "/assets/images/icon/feature-icon3.png",
+                        icon: "/assets/images/icon/feature-icon3.webp",
                         bgClass: "bg-orange-100",
                         color: "#ffedd5",
                         link: "/service-details",
@@ -102,28 +102,28 @@ export default function page() {
                 cards: [
                     {
                         id: 1,
-                        icon: "/assets/images/icon/feature-three-icon1.png",
+                        icon: "/assets/images/icon/feature-three-icon1.webp",
                         title: "Increase Traffic",
                         desc:
                             "We analyze your business goal, target audience, and market trends.",
                     },
                     {
                         id: 2,
-                        icon: "/assets/images/icon/feature-three-icon2.png",
+                        icon: "/assets/images/icon/feature-three-icon2.webp",
                         title: "Improve Ranking",
                         desc:
                             "We analyze your business goal, target audience, and market trends.",
                     },
                     {
                         id: 3,
-                        icon: "/assets/images/icon/feature-three-icon3.png",
+                        icon: "/assets/images/icon/feature-three-icon3.webp",
                         title: "Sustainable Growth",
                         desc:
                             "We analyze your business goal, target audience, and market trends.",
                     },
                     {
                         id: 4,
-                        icon: "/assets/images/icon/feature-three-icon4.png",
+                        icon: "/assets/images/icon/feature-three-icon4.webp",
                         title: "Targeted Audience",
                         desc:
                             "We analyze your business goal, target audience, and market trends.",
@@ -136,32 +136,32 @@ export default function page() {
                 desc: "At Onepixel Soft, we deliver tailored car wash app development services to cater to your unique business requirements. Benefit from our comprehensive suite of services.",
                 cards: [
                     {
-                        icon: "/assets/images/icon/service-three-icon1.png",
+                        icon: "/assets/images/icon/service-three-icon1.webp",
                         title: "Custom Car Wash App Development",
                         desc: "Receive fully customized car wash app development solutions tailored to your business model, with features specifically designed for your target audience. We ensure your app stands out by offering unique functionalities and smooth integration."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon2.png",
+                        icon: "/assets/images/icon/service-three-icon2.webp",
                         title: "Android Car Wash App Development",
                         desc: "Take advantage of our expertise in Android car wash app development to build strong, user-friendly apps that provide a seamless experience. Our apps are designed to effectively capture the largest mobile market segment."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon3.png",
+                        icon: "/assets/images/icon/service-three-icon3.webp",
                         title: "iOS Car Wash App Development",
                         desc: "We specialize in iOS car wash app development, creating intuitive and feature-rich apps for Apple users. Enhance your customer experience with high-performance apps designed specifically for the iOS ecosystem."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon4.png",
+                        icon: "/assets/images/icon/service-three-icon4.webp",
                         title: "Car App Upgradation & Migration",
                         desc: "Upgrade your current car wash app or transition to advanced technologies with ease. Our car wash app development team ensures a smooth migration, offering improved functionality, scalability, and performance optimization."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon5.png",
+                        icon: "/assets/images/icon/service-three-icon5.webp",
                         title: "Car Wash App Design Services",
                         desc: "Our car wash app design services focus on crafting visually appealing, intuitive, and responsive interfaces. We prioritize user satisfaction by delivering sleek designs that boost engagement and retention."
                     },
                     {
-                        icon: "/assets/images/icon/service-three-icon6.png",
+                        icon: "/assets/images/icon/service-three-icon6.webp",
                         title: "Cross-Platform Car Wash App Development",
                         desc: "Expand your reach with our cross-platform car wash app development services. We create apps that are compatible with multiple platforms, ensuring high performance and an excellent user experience."
                     }
@@ -176,7 +176,7 @@ export default function page() {
                         title: "Washos Clone App",
                         description:
                             "Develop a Washos clone with rich features, including real-time scheduling, secure payments, and smooth navigation, to effectively meet the needs of modern customers.",
-                        icon: "/assets/images/icon/service-icon1.png",
+                        icon: "/assets/images/icon/service-icon1.webp",
                         bgClass: "bg1",
                         color: "#e6f8f0",
                         link: "/service-details"
@@ -185,7 +185,7 @@ export default function page() {
                         title: "MobileWash Clone App",
                         description:
                             "Create a MobileWash clone app with on-demand booking, flexible pricing, and advanced tracking features to deliver a premium user experience.",
-                        icon: "/assets/images/icon/service-icon2.png",
+                        icon: "/assets/images/icon/service-icon2.webp",
                         bgClass: "bg2",
                         color: "#e6f6fd",
                         link: "/service-details"
@@ -194,7 +194,7 @@ export default function page() {
                         title: "Spiffy Clone App",
                         description:
                             "Our Spiffy clone app development includes strong features such as eco-friendly services, intuitive interfaces, and customized packages to appeal to eco-conscious users.",
-                        icon: "/assets/images/icon/service-icon3.png",
+                        icon: "/assets/images/icon/service-icon3.webp",
                         bgClass: "bg3",
                         color: "#fde6eb",
                         link: "/service-details"
@@ -203,7 +203,7 @@ export default function page() {
                         title: "INSTAWASH Clone App",
                         description:
                             "Develop an INSTAWASH clone app that provides waterless car wash solutions, sustainability-focused features, and smooth functionality to cater to environmentally conscious customers.",
-                        icon: "/assets/images/icon/service-icon4.png",
+                        icon: "/assets/images/icon/service-icon4.webp",
                         bgClass: "bg4",
                         color: "#f3edff",
                         link: "/service-details"
@@ -212,7 +212,7 @@ export default function page() {
                         title: "Cobblestone Clone App",
                         description:
                             "Create a Cobblestone clone app featuring fast service booking, real-time notifications, and integrated loyalty programs to boost user engagement.",
-                        icon: "/assets/images/icon/service-icon5.png",
+                        icon: "/assets/images/icon/service-icon5.webp",
                         bgClass: "bg5",
                         color: "#fff4e6",
                         link: "/service-details"
@@ -221,7 +221,7 @@ export default function page() {
                         title: "Mr. C’s Car Wash Clone App",
                         description:
                             "Our Mr. C’s car wash clone development features eco-friendly steam wash options, customer scheduling, and secure payment methods for a contemporary car wash platform.",
-                        icon: "/assets/images/icon/service-icon6.png",
+                        icon: "/assets/images/icon/service-icon6.webp",
                         bgClass: "bg6",
                         color: "#f3f3f3",
                         link: "/service-details"
@@ -231,7 +231,7 @@ export default function page() {
             <OurSoultionBannner data={{
                 heading:"Let’sBuild a Game-Changing Car Wash App for Your Business",
                 desc:"Elevate Your Car Wash Business with a Personalized App to Improve User Experience.",
-                img1:"/assets/images/solution/carwashh.png"
+                img1:"/assets/images/solution/carwashh.webp"
             }}/>
             <FeqSection/>
         </div>

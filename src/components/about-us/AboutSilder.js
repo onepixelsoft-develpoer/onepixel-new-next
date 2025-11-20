@@ -5,18 +5,18 @@ import Image from "next/image";
 
 export default function AboutSilder({exClass}) {
   const brandLogos = [
-    { name: "CARID", url: "/assets/images/brand/CARID.png" },
-    { name: "Drive Carma", url: "/assets/images/brand/drive carma.png" },
-    { name: "Eyeaddon", url: "/assets/images/brand/Eyeaddon.png" },
-    { name: "Farehood", url: "/assets/images/brand/farehood.png" },
-    { name: "FOT", url: "/assets/images/brand/FOT.png" },
-    { name: "Go Track On", url: "/assets/images/brand/go track on.png" },
-    { name: "Infusion Notes", url: "/assets/images/brand/infusion-notes.png" },
-    { name: "Jeevan Mitro", url: "/assets/images/brand/jeevan mitro.png" },
-    { name: "Kodu", url: "/assets/images/brand/kodu.png" },
-    { name: "Magnus Education", url: "/assets/images/brand/Magnus Education.png" },
-    { name: "My ACE Bazar", url: "/assets/images/brand/My ACE Bazar.png" },
-    { name: "My Bat11", url: "/assets/images/brand/my bat11.png" },
+    { name: "CARID", url: "/assets/images/brand/CARID.webp" },
+    { name: "Drive Carma", url: "/assets/images/brand/drive carma.webp" },
+    { name: "Eyeaddon", url: "/assets/images/brand/Eyeaddon.webp" },
+    { name: "Farehood", url: "/assets/images/brand/farehood.webp" },
+    { name: "FOT", url: "/assets/images/brand/FOT.webp" },
+    { name: "Go Track On", url: "/assets/images/brand/go track on.webp" },
+    { name: "Infusion Notes", url: "/assets/images/brand/infusion-notes.webp" },
+    { name: "Jeevan Mitro", url: "/assets/images/brand/jeevan mitro.webp" },
+    { name: "Kodu", url: "/assets/images/brand/kodu.webp" },
+    { name: "Magnus Education", url: "/assets/images/brand/Magnus Education.webp" },
+    { name: "My ACE Bazar", url: "/assets/images/brand/My ACE Bazar.webp" },
+    { name: "My Bat11", url: "/assets/images/brand/my bat11.webp" },
   ];
 
   return (
