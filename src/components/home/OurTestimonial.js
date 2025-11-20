@@ -52,7 +52,7 @@ export default function OurTestimonial() {
                 className="object-contain"
               />
               <Image
-                src="/assets/images/icon/certificate1.svg"
+                src="/assets/images/icon/certificate1.png"
                 alt="icon"
                 width={100}
                 height={100} loading="lazy"
@@ -162,11 +162,11 @@ export default function OurTestimonial() {
               </button>
             </div>
           </div> */}
-          <amp-iframe src='https://cdn.trustindex.io/amp-widget.html#31804e855c2d767481566e915db' sandbox='allow-scripts allow-same-origin' layout='fixed-height'  resizable='resizable' className="absolute top-0 left-0 h-[400px] w-[400px]"><span overflow="" class="absolute top-0 left-0 h-[400px] w-[400px]"></span></amp-iframe>
+          {/* <amp-iframe src='https://cdn.trustindex.io/amp-widget.html#31804e855c2d767481566e915db' sandbox='allow-scripts allow-same-origin' layout='fixed-height'  resizable='resizable' className="absolute top-0 left-0 h-[400px] w-[400px]"><span overflow="" class="absolute top-0 left-0 h-[400px] w-[400px]"></span></amp-iframe>
           <Script
             src="https://cdn.trustindex.io/loader.js?31804e855c2d767481566e915db"
             strategy="afterInteractive"
-          />
+          /> */}
         </div>
       </div>
     </section>

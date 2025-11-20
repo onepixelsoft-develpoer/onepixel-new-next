@@ -46,13 +46,12 @@ export default function CaseStudiesSwiper() {
             <SwiperSlide key={index}>
               <div className="bg-white rounded-2xl shadow-lg p-4 flex justify-center items-center hover:scale-105 transition-transform duration-300">
                 <Image
-  src={`/assets/images/onepixel-dubai/project/${img}`}
-  alt={`Case Study ${index + 1}`}
-  width={600}
-  height={400}
-  className="w-full h-full object-cover rounded-xl"
-/>
-
+                  src={`/assets/images/onepixel-dubai/project/${img}`}
+                  alt={`Case Study ${index + 1}`}
+                  width={600}
+                  height={400}
+                  className="w-full h-full object-cover rounded-xl"
+                />
               </div>
             </SwiperSlide>
           ))}

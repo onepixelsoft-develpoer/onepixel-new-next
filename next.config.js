@@ -1,7 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  // other config...
-}
+  images: {
+    formats: ["image/avif", "image/webp"],    // Modern formats enabled
+  },
+};
 
-export default nextConfig; // ✅ Correct for .mjs
+module.exports = nextConfig;

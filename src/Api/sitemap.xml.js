@@ -19,7 +19,7 @@ export default async function handler(req, res) {
     <loc>${baseUrl}${page}</loc>
   </url>`
       )
-      .join("");
+      .join("");  
 
     // Add projects
     sitemapEntries += projects

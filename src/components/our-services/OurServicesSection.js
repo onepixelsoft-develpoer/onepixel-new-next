@@ -16,7 +16,7 @@ export default function OurServicesSection() {
           title: "Our Proven Work Process",
         }} />
         <div className='work-processs mt-15 relative wow  animate__animated  animate__fadeInUp'>
-          <div className='absolute top-[25%] left-0 realtive h-[1px] w-full lg:block hidden'>
+          <div className='absolute top-[25%] left-0 realtive h-px w-full lg:block hidden'>
             <Image src='/assets/images/shape/process-line.png' fill sizes='100%' alt='' className='object-contain' loading="lazy"/>
           </div>
           <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5  relative">
@@ -24,7 +24,7 @@ export default function OurServicesSection() {
               <div className="bg-yellow-200 text-black w-20 h-20  rounded-full flex items-center justify-center font-semibold">
                 1
               </div>
-              <h3 className="mt-4 text-2xl font-[500]">Keyword Research</h3>
+              <h3 className="mt-4 text-2xl font-medium">Keyword Research</h3>
               <p className="text-gray-600 mt-2">Identify business-relevant terms for visibility.</p>
             </div>
             <div className="text-center flex justify-center items-center flex-col">
@@ -32,14 +32,14 @@ export default function OurServicesSection() {
                 <Image src="/assets/images/shape/process-circle.png" alt="image" loading="lazy" className='absolute object-contain animation-rotate' fill sizes='100%'/>
                 <span className='relative'>2</span>
               </div>
-              <h3 className="mt-4 text-2xl font-[500]">Link Building</h3>
+              <h3 className="mt-4 text-2xl font-medium">Link Building</h3>
               <p className="text-gray-600 mt-2">{"Establish authority with high-quality backlinks."}</p>
             </div>
             <div className="text-center flex justify-center items-center flex-col">
               <div className="bg-green-200 text-black w-20 h-20  rounded-full flex items-center justify-center font-semibold">
                 3
               </div>
-              <h3 className="mt-4 text-2xl font-[500]">Fast Ranking</h3>
+              <h3 className="mt-4 text-2xl font-medium">Fast Ranking</h3>
               <p className="text-gray-600 mt-2">Optimize performance to achieve higher search rankings quickly.</p>
             </div>
           </div>

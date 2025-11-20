@@ -18,7 +18,7 @@ export default function MobileHeader({ isMenuOpen, setIsMenuOpen }) {
       ${isMenuOpen ? "md:w-[50%] w-[80%]" : "w-0"} 
       duration-500 transition-all h-full after:content-[''] 
       z-10
-      after:absolute after:top-0 after:left-0 after:w-[2px] after:h-full after:bg-[#66D285]`}
+      after:absolute after:top-0 after:left-0 after:w-0.5 after:h-full after:bg-[#66D285]`}
     >
       {/* Logo */}
       <div className='top_container flex justify-between px-5 items-center pt-4'>

@@ -2,6 +2,8 @@
 
 import React from "react";
 import Marquee from "react-fast-marquee";
+import Image from "next/image";
+
 
 export default function DubaiBrandsMarquee() {
   const brands = [
@@ -28,11 +30,15 @@ export default function DubaiBrandsMarquee() {
               key={index}
               className="mx-6 flex items-center justify-center w-32 h-20 bg-white p-2 rounded-xl shadow hover:scale-105 transition-transform duration-300"
             >
-              <img
-                src={`assets/images/brand/${brand}`}
-                alt={brand.replace(".png", "")}
+              
+              <Image
+                src={`/assets/images/brand/${brand}`}
+                alt={brand.replace(/\.(png|jpg|jpeg)/, "")}
+                width={200}
+                height={100}
                 className="max-h-full object-contain"
               />
+
             </div>
           ))}
         </Marquee>

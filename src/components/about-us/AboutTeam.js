@@ -18,7 +18,7 @@ export default function AboutTeam() {
             <div className="container mx-auto px-4">
                 <div className="mb-10 text-left wow  animate__animated  animate__fadeInDown">
                     <SmallTitle smText={"Our Team Members"} exClass={"text-[#731212] text-[1.2rem]"} />
-                    <h2 className="text-[2.4rem] font-[500] xl:w-[60%]">
+                    <h2 className="text-[2.4rem] font-medium xl:w-[60%]">
                         Meet with Our 60+ <span className="text-gray-500">Designers, Coders, and Strategists!</span>
                     </h2>
                 </div>

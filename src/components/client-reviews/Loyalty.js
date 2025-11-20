@@ -6,7 +6,7 @@ export default function Loyalty() {
   return (
     <section className='xl:px-40 px-5 lg:px-10 py-20 bg-[#F9FAFB]  relative mt-10'>
 
-      <div className="absolute -top-50 lg:right-0 right-5 w-[50rem] h-[50rem]">
+      <div className="absolute -top-50 lg:right-0 right-5 w-200 h-200">
         <Image
           src="/assets/images/shape/contact-roket.png"
           alt="contact rocket"

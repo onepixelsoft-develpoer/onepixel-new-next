@@ -63,7 +63,7 @@ export default function AboutAwards() {
 
                     {/* Left Card */}
                     <div className="basis-[40%] h-full">
-                        <div className="relative bg-gradient-to-tl from-[#731212] to-[#ff3d2e] rounded-2xl shadow-lg p-8 flex flex-col items-center h-full overflow-hidden wow animate__animated animate__fadeInUp">
+                        <div className="relative bg-linear-to-tl from-[#731212] to-[#ff3d2e] rounded-2xl shadow-lg p-8 flex flex-col items-center h-full overflow-hidden wow animate__animated animate__fadeInUp">
                             
                             {/* Background image */}
                             <div className="absolute top-0 left-0 w-full h-full rounded-2xl">
@@ -94,7 +94,7 @@ export default function AboutAwards() {
 
                                 <a
                                     href="#"
-                                    className="about-button second animate__fadeIn hover:animate__shakeX wow animate__animated animate__animated_shakeX mt-8 inline-flex items-center cursor-pointer px-6 py-2 bg-white text-black font-[500] rounded-full shadow hover:bg-gray-100 transition duration-500 z-10"
+                                    className="about-button second animate__fadeIn hover:animate__shakeX wow animate__animated animate__animated_shakeX mt-8 inline-flex items-center cursor-pointer px-6 py-2 bg-white text-black font-medium rounded-full shadow hover:bg-gray-100 transition duration-500 z-10"
                                 >
                                     Go to Clutch
                                     <span className="arrow ml-2 w-5 whitespace-nowrap">
@@ -105,7 +105,7 @@ export default function AboutAwards() {
 
                                 <span className="mt-6 flex items-center gap-2 text-lg text-white font-medium z-10">
                                     <div className="relative w-6 h-6">
-                                        <Image src='/assets/images/logo/svgviewer-png-output (8).png' alt="logo" fill sizes='100%' className="object-contain" loading="lazy"/>
+                                        <Image src='/assets/images/logo/svgviewer-png-output(8).png' alt="logo" fill sizes='100%' className="object-contain" loading="lazy"/>
                                     </div>
                                     10+ reviews
                                 </span>
@@ -154,7 +154,7 @@ export default function AboutAwards() {
 
                                         <div className="flex items-center gap-2 mb-6">
                                             <div className="relative w-6 h-6">
-                                                <Image src='/assets/images/logo/svgviewer-png-output (7).png' fill sizes='100%' alt='' className="object-contain" loading="lazy"/>
+                                                <Image src='/assets/images/logo/svgviewer-png-output(7).png' fill sizes='100%' alt='' className="object-contain" loading="lazy"/>
                                             </div>
                                             {[...Array(testimonial.rating)].map((_, i) => (
                                                 <FaStar className='text-yellow-500' key={i} />

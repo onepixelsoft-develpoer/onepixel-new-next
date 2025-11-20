@@ -41,7 +41,7 @@ export default function WorkSection() {
           <h2 className="xl:text-[3rem] text-[2rem] text-black text-center">
             Our Recent Works
           </h2>
-          <p className="xl:text-[1.2rem] text-sm mt-2 lg:w-[90%] w-full leading-[1.5rem] font-dark font-[500]">
+          <p className="xl:text-[1.2rem] text-sm mt-2 lg:w-[90%] w-full leading-6 font-dark font-medium">
           Turning Vision Into Digital SuccessExplore our latest projects in web development, mobile applications, branding, and marketing. From concept to execution, our results speak for themselves.
           </p>
         </div>

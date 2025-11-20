@@ -8,7 +8,7 @@ import { MdEmail } from "react-icons/md";
 export default function ContactFrom({ exClass, rotate = 0 }) {
   return (
     <section
-      className={`xl:px-40 px-5 py-20 ${exClass ? exClass : "bg-[#FAE6E6]/60 backdrop-blur-md"
+      className={`xl:px-40 px-5 py-20 ${exClass ? ex  : "bg-[#FAE6E6]/60 backdrop-blur-md"
         } relative wow animate__animated animate__fadeInUp overflow-hidden`}
       data-wow-delay="0.5s"
     >

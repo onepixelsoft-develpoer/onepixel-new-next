@@ -29,7 +29,7 @@ export default function HomeFooter() {
       if (!whatsAppLink) return null;
     
     return (
-        <footer className="bg-[#000] text-gray-200 py-8 relative wow  animate__animated  animate__fadeInUp overflow-hidden">
+        <footer className="bg-black text-gray-200 py-8 relative wow  animate__animated  animate__fadeInUp overflow-hidden">
 
             <div className='absolute bottom-0 left-0 h-[40vh]  w-full footer-moving-animation'>
                 <div></div>

@@ -32,7 +32,7 @@ export default function HeroSection() {
 
       {/* Left Arrow Image */}
       <div className="banner-four__line absolute top-0 left-0 wow animate__animated animate__fadeInLeft">
-        <div className="relative h-[70rem] w-[20em]">
+        <div className="relative h-280 w-[20em]">
           <Image
             src="/assets/images/shape/banner-four-arrow.png"
             alt="Arrow"
@@ -47,10 +47,10 @@ export default function HeroSection() {
       <div className="text-section flex lg:flex-row flex-col justify-between lg:items-center items-start w-full px-10 xl:px-40 xl:py-20 py-10 wow animate__animated animate__fadeIn">
         <div className="left-scetion xl:basis-1/2 basis-full">
           <p className="py-2 text-[1.2rem]">
-            <span className="inline-block h-[10px] w-[10px] bg-[#DE9FFF] font-light rounded-full mr-2"></span>
+            <span className="inline-block h-2.5 w-2.5 bg-[#DE9FFF] font-light rounded-full mr-2"></span>
             Unleash Creativity, Inspire Possibilities
           </p>
-          <h1 className="text-[2rem] xl:text-[3.5rem] xl:leading-[4rem] font-[400] my-4 ">
+          <h1 className="text-[2rem] xl:text-[3.5rem] xl:leading-16 font-normal my-4 ">
             We Empower <br />
             <Typewriter 
               options={{

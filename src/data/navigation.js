@@ -7,7 +7,7 @@ export const navigationData = [
   {
     title: "About Us",
     path:"/about-us",
-    subMain: '/assets/images/about/About Us-01.png',
+    subMain: '/assets/images/about/About-us-01.png',
     subMenu: [
       { title: "Case Study", href: "/case-study", img: "/assets/images/about/enterprise.gif" },
       { title: "Leadership", href: "/leadership", img: "/assets/images/about/leadership.gif" },

@@ -3,7 +3,7 @@ import Image from 'next/image'
 import React from 'react'
 export default function OurServiceReport({ data }) {
     return (
-        <section className="bg-[#ffe6e6] py-15 px-6 px-5 xl:px-40 flex flex-col md:flex-row items-center justify-between gap-10 wow  animate__animated  animate__fadeInUp">
+        <section className="bg-[#ffe6e6] py-15 px-6 xl:px-40 flex flex-col md:flex-row items-center justify-between gap-10 wow  animate__animated  animate__fadeInUp">
             {/* Left side images */}
 <div className="bg-[#F7D4D4] p-6 md:p-10 rounded-xl basis-full lg:basis-[40%] wow animate__animated animate__fadeInLeft" data-wow-delay="0.3s">
   {data.img1 || data.img2 || data.img3 ? (

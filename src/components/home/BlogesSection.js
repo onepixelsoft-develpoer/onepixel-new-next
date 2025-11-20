@@ -61,7 +61,7 @@ export default function BlogesSection() {
             768: { slidesPerView: 2 },
             525: { slidesPerView: 1 },
           }}
-          className="!pb-10"
+          className="pb-10"
         >
           {bloges.map((post, index) => (
             <SwiperSlide key={index}>

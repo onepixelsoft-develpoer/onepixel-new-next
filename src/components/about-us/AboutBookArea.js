@@ -13,7 +13,7 @@ export default function AboutBookArea() {
     return (
         <section className="relative overflow-hidden mt-2 wow animate__animated animate__fadeInDown">
             <div className="relative flex flex-col items-center justify-center">
-                <div className="bg-gradient-to-tr from-[#731212]  to-black rounded-t-xl shadow-lg px-8 py-12 xl:max-w-5xl w-full relative">
+                <div className="bg-linear-to-tr from-[#731212]  to-black rounded-t-xl shadow-lg px-8 py-12 xl:max-w-5xl w-full relative">
 
                     <div className="absolute top-20 left-20 w-10 h-10">
                         <Image src="/assets/images/shape/book-star.png" alt="shape" fill sizes='100%' loading="lazy" className="object-contain" />

@@ -109,7 +109,7 @@ export default function privacyPolicy() {
                 </div>
 
                 {/* Right: Table of Contents */}
-                <div className="w-full w-full top-20 basis-[30%] h-[100vh] sticky  wow  animate__animated  animate__fadeInRight bg-white" data-wow-delay="0.3s">
+                <div className=" w-full top-20 basis-[30%] h-screen sticky  wow  animate__animated  animate__fadeInRight bg-white" data-wow-delay="0.3s">
                     <div className=" p-6 h-full">
                         <h3 className="font-light text-2xl mb-4">Table of Contents</h3>
                         <ul>

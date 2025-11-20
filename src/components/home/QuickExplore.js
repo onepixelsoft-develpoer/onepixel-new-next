@@ -22,7 +22,7 @@ export default function QuickExplore() {
             </div>
 
             {/* Arrow Image */}
-             <div className="image-arrow  left-1/2 lg:block hidden w-[300px] h-[288px] absolute">
+             <div className="image-arrow  left-1/2 lg:block hidden w-[300px] h-72 absolute">
                 <Image
                     src="/assets/images/shape/imgi_146_arrows-group.svg"
                     alt="Arrow Shape" loading="lazy"
@@ -33,7 +33,7 @@ export default function QuickExplore() {
             {/* Center Swiper */}
             <div className="center-swiper basis-1/3 justify-center flex relative">
 
-                <div className="w-30 h-30 rounded-full flex justify-center items-center bg-black text-white border border-white border-5 shadow-lg relative">
+                <div className="w-30 h-30 rounded-full flex justify-center items-center bg-black text-white  border-white border-5 shadow-lg relative">
                     <div className="bg-primary  rounded-full h-30 w-30 absolute -z-1 animation-scale"></div>
                     <Swiper
                         spaceBetween={20}
@@ -44,7 +44,7 @@ export default function QuickExplore() {
                         className="w-full flex justify-center items-center h-full "
                     >
                         <SwiperSlide className="p-6 lg:flex-row flex-col">
-                            <Image  src="/assets/images/icon/link (1).png" width={128} height={128} loading="lazy" alt="link" />
+                            <Image  src="/assets/images/icon/link(1).png" width={128} height={128} loading="lazy" alt="link" />
                         </SwiperSlide>
                         <SwiperSlide className="p-6 lg:flex-row flex-col">
                             <Image  src="/assets/images/icon/web-design.png" width={128} height={128} loading="lazy" alt="design" />
@@ -53,7 +53,7 @@ export default function QuickExplore() {
                             <Image  src="/assets/images/icon/social-media.png" width={128} height={128} loading="lazy" alt="design" />
                         </SwiperSlide>
                         <SwiperSlide className="p-6 lg:flex-row flex-col">
-                            <Image  src="/assets/images/icon/ecommerce.png" width={128} height={128} loading="lazy" altdesign />
+                            <Image  src="/assets/images/icon/ecommerce.png" width={128} height={128} loading="lazy" alt="design" />
                         </SwiperSlide>
 
                         <SwiperSlide className="p-6 lg:flex-row flex-col">
@@ -66,23 +66,23 @@ export default function QuickExplore() {
             {/* Right Quick Links */}
             <div className="quick-link basis-1/3 relative">
                 <ul className="lg:space-y-4 flex lg:flex-col flex-row flex-wrap gap-2 justify-center lg:justify-start">
-                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-[10px] fill-left-side   shadow-sm lg:ml-[80px] ">
+                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-2.5 fill-left-side   shadow-sm lg:ml-20 ">
                         <Link href={"/e-commerce"}>E-Commerce Website Development</Link>
                     </li>
-                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-[10px] fill-left-side   shadow-sm lg:ml-[160px]">
+                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-2.5 fill-left-side   shadow-sm lg:ml-40">
                         <Link href={"/logo-design"}>Logo Design</Link>
                     </li>
-                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-[10px] fill-left-side   shadow-sm lg:ml-[10px]">
+                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-2.5 fill-left-side   shadow-sm lg:ml-2.5">
                         <Link href={"/dynamic-web-development"}>
                             Dynamic Website Development
                         </Link>
                     </li>
-                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-[10px] fill-left-side   shadow-sm lg:ml-[80px]">
+                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-2.5 fill-left-side   shadow-sm lg:ml-20">
                         <Link href={"/android-app-development"}>
                             Android Web Development
                         </Link>
                     </li>
-                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-[10px] fill-left-side   shadow-sm lg:ml-[120px]">
+                    <li className="bg-white rounded-xl px-5 py-2 border border-gray-300 w-fit transition-transform duration-300 hover:translate-x-2.5 fill-left-side   shadow-sm lg:ml-[120px]">
                         <Link href={"/seo-smo-service-provider"}>
                             Digital Marketing Services
                         </Link>

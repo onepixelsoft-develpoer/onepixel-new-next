@@ -8,11 +8,11 @@ export default function AboutMission() {
             <div className="container mx-auto mb-15">
                 <div className="flex flex-col lg:flex-row gap-10 justify-between wow animate__animated animate__fadeInUp">
                     <div className="lg:w-5/12">
-                        <h2 className="text-[2.2rem] font-[500] mb-4">Transforming Your Vision into an Unforgettable Reality</h2>
+                        <h2 className="text-[2.2rem] font-medium mb-4">Transforming Your Vision into an Unforgettable Reality</h2>
                         <p className="mb-8 text-gray-600">
                             We are more than just a consultancy; we are architects of innovation, builders of dreams.
                         </p>
-                        <h2 className="text-2xl font-[500] mb-2">Our Mission</h2>
+                        <h2 className="text-2xl font-medium mb-2">Our Mission</h2>
                         <p className="mb-6 text-gray-600">
                             At OnePixel Soft Pvt. Ltd., our mission is to empower startups and brands by blending branding, digital development, and design expertise. We go beyond traditional web solutions, transforming data into powerful knowledge that helps businesses solve challenges, exceed expectations, and achieve lasting success.
                         </p>
@@ -46,7 +46,7 @@ export default function AboutMission() {
                         </div>
                     </div> */}
                     <div className='lg:w-6/12 h-100 w-full'>
-                        <img src='/assets/images/about/about us  (1).png' alt='' loading="lazy" className='w-full h-full object-contain'/>
+                        <image src='/assets/images/about/about-us-1.png   ' alt='about-us-1' loading="lazy" className='w-full h-full object-contain'/>
                     </div>
                 </div>
 
@@ -58,11 +58,11 @@ export default function AboutMission() {
                         <div className="grid grid-cols-2 md:gap-8 gap-4">
                             {OurVisionInfo.map((v, i) => (
                                 <div key={i} className="flex items-center bg-white rounded-lg p-6 shadow gap-3">
-                                    <div className='text-3xl font-[500] text-black'>
+                                    <div className='text-3xl font-medium text-black'>
                                         {v.icon}
                                     </div>
                                     <div>
-                                        <h2 className="text-xl font-[300] text-[#731212]">{v.value}</h2>
+                                        <h2 className="text-xl font-medium text-[#731212]">{v.value}</h2>
                                         <p>{v.label}</p>
                                     </div>
                                 </div>
@@ -72,8 +72,8 @@ export default function AboutMission() {
 
                     {/* Vision Text */}
                     <div className="our-vison-left lg:w-6/12">
-                        <h2 className="text-[2.2rem] font-[500] mb-4">We Take Your Ideas And Make Them Happen</h2>
-                        <h2 className="text-2xl font-[500] mb-2">Our Vision</h2>
+                        <h2 className="text-[2.2rem] font-medium mb-4">We Take Your Ideas And Make Them Happen</h2>
+                        <h2 className="text-2xl font-medium mb-2">Our Vision</h2>
                         <p className="mb-6 text-gray-600">
                             At OnePixel Soft Pvt. Ltd., our vision is to become a leading web solutions company in the IT sector, continuously advancing our position in the market. We believe our clients growth is our growth, and we are committed to helping businesses achieve their goals through precision, innovation, and top-quality services.
                         </p>

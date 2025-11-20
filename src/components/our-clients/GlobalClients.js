@@ -13,7 +13,7 @@ export default function GlobalClients() {
                 key={idx}
                 alt="brands" height={200} width={200}
                 className="object-contain " loading="lazy"
-                src="https://www.jploft.com/img/nike-1.svg"
+                src="https://www.jploft.com/img/nike-1.webp"
               />
           </div>
         ))}           

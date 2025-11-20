@@ -8,7 +8,7 @@ import { FaFacebookF } from "react-icons/fa";
 import DubaiBrands from './DubaiBrands';
 import DubaiBrandsMarquee from './DubaiBrandsMarquee';
 import FAQSection from './FAQSection';
-
+import Image from "next/image";
 
 // import '../../styles/modules/onepixel-dubai.css'
 
@@ -113,7 +113,7 @@ export default function page() {
             </div>
             <div className="flex flex-wrap justify-center items-center gap-4 sm:gap-6 mt-8">
               {brands.map((brand) => (
-                <img
+                <image
                   key={brand}
                   src={`assets/images/brand/${brand}.png`}
                   alt={`${brand} logo`}
@@ -145,11 +145,13 @@ export default function page() {
         <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left Image */}
           <div className="w-full h-full">
-            <img
-              src="assets/images/onepixel-dubai/campaign.jpg"
-              alt="Our Campaign"
-              className="w-full h-full object-cover rounded-2xl shadow-lg"
-            />
+           <Image
+            src="/assets/images/onepixel-dubai/campaign.jpg"
+            alt="Our Campaign"
+            width={1200}      // set proper width
+            height={700}      // set proper height
+            className="w-full h-full object-cover rounded-2xl shadow-lg"
+          />
           </div>
 
           {/* Right Content */}
@@ -170,7 +172,7 @@ export default function page() {
               From digital transformation to offshore IT support — we help
               businesses grow.
             </p>
-            <button className="mt-4 px-6 py-3 bg-gradient-to-r from-indigo-700 to-pink-600 text-white font-semibold rounded-lg shadow-md hover:shadow-lg hover:scale-105 transition-transform duration-300">
+            <button className="mt-4 px-6 py-3 bg-linear-to-r from-indigo-700 to-pink-600 text-white font-semibold rounded-lg shadow-md hover:shadow-lg hover:scale-105 transition-transform duration-300">
               Learn More
             </button>
           </div>
@@ -196,7 +198,7 @@ export default function page() {
               Dubai SEO experts helping brands rank higher with proven SEO, SEM, and local search optimization. Affordable
               packages for businesses in UAE.
             </p>
-            <button className="mt-4 px-6 py-3 bg-gradient-to-r from-indigo-700 to-pink-600 text-white font-semibold rounded-lg shadow-md hover:shadow-lg hover:scale-105 transition-transform duration-300">
+            <button className="mt-4 px-6 py-3 bg-linear-to-r from-indigo-700 to-pink-600 text-white font-semibold rounded-lg shadow-md hover:shadow-lg hover:scale-105 transition-transform duration-300">
               SPEAK TO OUR EXPERTS
             </button>
           </div>
@@ -240,7 +242,7 @@ export default function page() {
               from the competition. From social media management to influencer campaigns, we’re Dubai’s trusted SMM agency. Get affordable
               services with measurable ROI.
             </p>
-            <button className="mt-4 px-6 py-3 bg-gradient-to-r from-indigo-700 to-pink-600 text-white font-semibold rounded-lg shadow-md hover:shadow-lg hover:scale-105 transition-transform duration-300">
+            <button className="mt-4 px-6 py-3 bg-liner-to-r from-indigo-700 to-pink-600 text-white font-semibold rounded-lg shadow-md hover:shadow-lg hover:scale-105 transition-transform duration-300">
               SPEAK TO OUR EXPERTS
             </button>
           </div>
